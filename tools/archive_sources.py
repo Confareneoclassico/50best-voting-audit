@@ -14,7 +14,9 @@ the script
     that contains every sentence the report relies on
     (data/raw/archive_phrases.csv), going back over the last ten captures;
   * asks the Wayback Machine to save the current version of every other page,
-    and falls back on a capture made the same day if the request fails.
+    and if the request fails falls back on a capture made the same day or,
+    failing that, on the latest earlier capture, since some sites refuse the
+    archive's crawler.
 
 It writes data/raw/archived_sources.csv and report/archive_urls.tex.  The
 report reads the latter, so that recompiling adds 'Archived at ...' to each
@@ -178,6 +180,11 @@ def main(argv=None):
                     time.sleep(args.pause)
                     today = snapshots(s, url, frm=time.strftime("%Y%m%d", time.gmtime()), last=1)
                     snap = f"https://web.archive.org/web/{today[-1]}/{url}" if today else None
+                if not snap:      # some sites refuse the archive's crawler: use the latest earlier capture
+                    earlier = snapshots(s, url, last=1)
+                    if earlier:
+                        snap = f"https://web.archive.org/web/{earlier[-1]}/{url}"
+                        row["kind"] = "earlier capture"
                 row["snapshot"] = snap or ""
                 row["note"] = "" if snap else "save request failed, run again later"
                 if snap:   # a redirect may land on another page: flag it rather than cite it

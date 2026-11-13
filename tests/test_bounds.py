@@ -96,18 +96,21 @@ def test_archive_tool_walks_back_to_a_capture_with_the_quoted_text():
 def test_archive_tool_end_to_end_offline(tmp_path, monkeypatch):
     """The whole run against a stand-in for the Wayback Machine: a former-domain
     page whose latest capture lacks the quoted text, a page saved at once, and
-    a page whose save request fails but whose capture exists.  A second run
-    keeps what succeeded and retries the rest."""
+    a page whose save request fails but whose capture exists, a page that
+    refuses the archive's crawler but was captured earlier, and one that was
+    never captured.  A second run keeps what succeeded and retries the rest."""
     import types
     old = "https://www.theworlds50best.com/voting/the-voting-system"
     ok, slow, moved = "https://example.org/ok", "https://example.org/slow", "https://example.org/?p=1"
+    blocked, never = "https://example.org/blocked", "https://example.org/never"
     bib = tmp_path / "refs.bib"
     bib.write_text("@misc{oldpage,\n  howpublished = {\\url{%s}}\n}\n@misc{okpage,\n  howpublished = {\\url{%s}}\n}\n"
                    "@misc{slowpage,\n  howpublished = {\\url{%s}}\n}\n@misc{movedpage,\n  howpublished = {\\url{%s}}\n}\n"
-                   % (old, ok, slow, moved))
+                   "@misc{blockedpage,\n  howpublished = {\\url{%s}}\n}\n@misc{neverpage,\n  howpublished = {\\url{%s}}\n}\n"
+                   % (old, ok, slow, moved, blocked, never))
     phr = tmp_path / "phrases.csv"
     phr.write_text("url,phrase\n%s,each region has its own voting panel of 40 members\n" % old)
-    calls = {"save_slow": 0}
+    calls = {"save_slow": 0, "save_blocked": 0}
 
     class Resp(_Resp):
         pass
@@ -121,6 +124,8 @@ def test_archive_tool_end_to_end_offline(tmp_path, monkeypatch):
                     caps = ["20250301000000", "20260815000000"]
                 elif params["url"] == slow and params.get("from"):
                     caps = ["20261113120000"]
+                elif params["url"] == blocked and not params.get("from"):
+                    caps = ["20240115000000"]
                 else:
                     caps = []
                 rows = [["timestamp", "original"]] + [[c, params["url"]] for c in caps]
@@ -132,7 +137,7 @@ def test_archive_tool_end_to_end_offline(tmp_path, monkeypatch):
                 elif url.endswith(moved):
                     r.url = "https://web.archive.org/web/20261113110500/https://example.org/another-story/"
                 else:
-                    calls["save_slow"] += 1
+                    calls["save_blocked" if url.endswith(blocked) else "save_slow"] += url.endswith((slow, blocked))
                     r.url = url
                 return r
             ts = url.split("/web/")[1].split("id_/")[0]
@@ -151,10 +156,14 @@ def test_archive_tool_end_to_end_offline(tmp_path, monkeypatch):
     assert "\\archiveurl{oldpage}{https://web.archive.org/web/20250301000000/" + old + "}" in tex
     assert "\\archiveurl{okpage}{https://web.archive.org/web/20261113110000/" + ok + "}" in tex
     assert "\\archiveurl{slowpage}{https://web.archive.org/web/20261113120000/" + slow + "}" in tex
+    # a page that refuses the crawler gets its latest earlier capture, a page never captured gets nothing
+    assert "\\archiveurl{blockedpage}{https://web.archive.org/web/20240115000000/" + blocked + "}" in tex
+    assert "neverpage" not in tex
+    assert 'neverpage,https://example.org/never,saved now,,,"save request failed' in (tmp_path / "archived.csv").read_text()
     # a save that lands on another page is recorded but not cited
     assert "movedpage" not in tex
     assert "redirected to https://example.org/another-story/" in (tmp_path / "archived.csv").read_text()
     # a second run keeps the successes and asks for nothing again
     assert archive_sources.main(["--pause", "0"]) == 0
-    assert calls["save_slow"] == 1
+    assert calls["save_slow"] == 1 and calls["save_blocked"] == 1
     assert (tmp_path / "archive_urls.tex").read_text() == tex

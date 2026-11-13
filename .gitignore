@@ -7,3 +7,4 @@ report/*.blg
 report/*.log
 report/*.out
 report/*.synctex.gz
+.DS_Store
