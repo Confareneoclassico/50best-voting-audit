@@ -35,8 +35,8 @@
 \small ul.\ Gabriela Narutowicza 11/12, 80-233 Gdansk, Poland\ifx\corremail\empty\else. E-mail: \corremail\fi\\[4pt]
 \small Running head: Auditing a ranking built from votes}
 \date{}
-% the corresponding author's e-mail: set it here before compiling the submission PDF
-\newcommand*{\corremail}{}
+% the corresponding author's e-mail
+\newcommand*{\corremail}{samuele.lo.piano@pg.edu.pl}
 
 \begin{document}
 \maketitle
@@ -55,7 +55,7 @@ A ranking is a model output. It rests on choices of who votes, how many votes ea
 
 Rankings built from votes are a class of quantification devices of their own. Reputation surveys of universities and hospitals, critics' polls and awards decided by panels share the structure of this list: a panel, a ballot, a counting rule and a published order, without the counts behind it. Sensitivity analysis of rankings has concentrated on rankings built from indicators, where weights and aggregation can be varied \citep{saisana2005,saisana2011}. A ranking built from votes offers no formula to perturb. Its inputs are ballots that are not released, and its precision depends on how many votes separate one position from the next. We use the 50 Best list to show how sensitivity auditing can be carried to such a device, by separating what the published rules and lists establish, what arithmetic and independent voters imply under any distribution of votes, and what needs a model of the votes (Section~\ref{sec:checklist}).
 
-Section~\ref{sec:rules} sets out the rules as published, what they leave unsaid, and how they have changed, and Section~\ref{sec:checklist} introduces the seven rules of sensitivity auditing and the levels of evidence on which the rest of the audit rests. Section~\ref{sec:lists} measures what the published lists themselves reveal about the stability of positions. Section~\ref{sec:noise} asks how many positions a vote of this size can resolve, first under any distribution of votes and then under scenarios for it, and Section~\ref{sec:gsa} apportions the variability of the list to the organiser's rule choices, to what is unknown about the votes, and to the draw of the panel, with a global sensitivity analysis of a generative ballot model calibrated to the 2026 list. Section~\ref{sec:remedies} lists what would make the list more auditable, and Section~\ref{sec:conclusions} sets out the conclusions of the audit and what they imply for rankings built from votes.
+Section~\ref{sec:rules} sets out the rules as published, what they leave unsaid, and how they have changed, and Section~\ref{sec:checklist} reads the voting system against the seven rules of sensitivity auditing and introduces the levels of evidence on which the rest of the audit rests. Section~\ref{sec:lists} measures what the published lists themselves reveal about the stability of positions. Section~\ref{sec:noise} asks how many positions a vote of this size can resolve, first under any distribution of votes and then under scenarios for it, and Section~\ref{sec:gsa} apportions the variability of the list to the organiser's rule choices, to what is unknown about the votes, and to the draw of the panel, with a global sensitivity analysis of a generative ballot model calibrated to the 2026 list. Section~\ref{sec:remedies} lists what would make the list more auditable, and Section~\ref{sec:conclusions} sets out the conclusions of the audit and what they imply for rankings built from votes.
 
 \section{The voting system as published}\label{sec:rules}
 
@@ -105,7 +105,26 @@ The rules have changed in almost every dimension (Table~\ref{tab:drift}). The nu
 
 \section{Auditing a ranking built from votes}\label{sec:checklist}
 
-Sensitivity auditing \citep{saltelli2013latinorum,lopiano2022unpacking} reads an instance of quantification against seven rules. They ask whether the numbers are used rhetorically, which assumptions they rest on, whether the inputs can support the outputs, which assumptions matter most, whether the procedure is transparent, whether the numbers answer the right question, and whether their uncertainty has been analysed. The published rules of Section~\ref{sec:rules} answer some of these questions, and the others need the quantitative analysis of Sections~\ref{sec:lists} to~\ref{sec:gsa}. Section~\ref{sec:conclusions} reads the findings against all seven rules (Table~\ref{tab:checklist}).
+Sensitivity auditing \citep{saltelli2013latinorum,lopiano2022unpacking} reads an instance of quantification against seven rules. They ask whether the numbers are used rhetorically, which assumptions they rest on, whether the inputs can support the outputs, which assumptions matter most, whether the procedure is transparent, whether the numbers answer the right question, and whether their uncertainty has been analysed. Table~\ref{tab:checklist} applies them to the voting system. The published rules of Section~\ref{sec:rules} answer some of these questions, and the quantitative rules (four and seven) are developed in Sections~\ref{sec:lists} to~\ref{sec:gsa}.
+
+\begin{table}[t]
+\caption{The voting system read against the seven rules of sensitivity auditing.}
+\label{tab:checklist}
+\small
+\begin{tabularx}{\textwidth}{@{}P{3.6cm}L@{}}
+\toprule
+Rule & Finding \\
+\midrule
+1. Check against the rhetorical use of quantification & A strict order from 1 to 100 under the label ``best'' conveys a precision that the vote does not have (Sections~\ref{sec:noise} and~\ref{sec:gsa}). The organiser's own description of the list as a snapshot of opinions is not carried into its presentation. \\
+2. Adopt an assumption-hunting attitude & Equal weight of 40 voters per region irrespective of the size of its dining scene; equal weight of every vote on a ballot; the home cap; the region map, set by the organiser and reviewed every year; the constituency mix of writers, chefs and gourmets; the retirement of winners. \\
+3. Detect garbage in, garbage out & Vote counts are integers from at most 11,200 votes. The published order below No.25 is finer than the counts can support, and the order within ties comes from a secondary rule. \\
+4. Find sensitive assumptions before they find you & The vote distribution and the panel draw dominate agreement with the published order, and the allocation of voters to regions dominates its geography. The counting rule matters more than ballot length, home cap or tie-break (Section~\ref{sec:gsa}). \\
+5. Aim for transparency & No vote counts, ties, margins, regional vote shares or ballot data are published. The normalisation step and the adjudicator's procedures are undefined. Voter recruitment is delegated to Chairs who also advise on the brand. \\
+6. Do the right sums & The question the list answers is how often a restaurant appears on the ballots of a travelling, partly self-selected panel. That is a measure of visibility among that panel as much as of quality, and it depends on where voters travel, including to host destinations. \\
+7. Perform thorough uncertainty and sensitivity analysis & Not done by the organiser. Sections~\ref{sec:noise} and~\ref{sec:gsa} provide a first one. \\
+\bottomrule
+\end{tabularx}
+\end{table}
 
 The seven rules say where to look but not how strong each finding is. For a ranking built from unpublished votes we separate four levels of evidence, each adding assumptions to the one before (Table~\ref{tab:evidence}). The published rules and lists establish facts without any model. Arithmetic on integer counts, and the variability of a panel of independent voters, give limits that hold whatever the distribution of votes. Scenarios for that distribution, constrained by the observed churn, give magnitudes. A generative model of ballots, calibrated to the published list, apportions the variability of the list among the rules. Each conclusion of the audit is labelled by the level it needs, so that a reader who rejects a model keeps the conclusions that do not rest on it. The same four levels apply to any ranking that aggregates the ballots of a panel.
 
@@ -319,32 +338,13 @@ The audit rests on the published lists and on models of the vote. The limits of 
 
 The audit supports six conclusions, which rest on the levels of evidence of Table~\ref{tab:evidence}. First, from the published lists alone, positions below the top ten move by a median of 9 to 18.5 places between editions, and since former winners were retired in 2019 the title has gone in six of seven editions to the highest-placed eligible restaurant of the year before. Second, under any distribution of votes, integer counts from at most 11,200 votes cannot order the lower half of the list. At most 12 of the 49 adjacent pairs between No.51 and No.100 could be kept in order by a fresh panel of independent voters with probability 0.95, and a list without ties there would need No.51 to have at least 49 more votes than No.100. Third, under the vote distributions consistent with the observed churn, most adjacent positions from No.51 to No.100 are tied, the year-on-year movements below the top 25 are of the size that the renewal of the panel alone produces, and a panel of the same size drawn again would put 10 to 12 different restaurants in the top 50. Fourth, in the generative model, the equal allocation of voters to regions shapes the geography of the list more than any other rule, the counting rule matters more than ballot length, the home-country cap or the tie-break, and Japan's absence from the 2026 top 50 would recur in only one simulated edition in five.
 
-Fifth, what the list measures is how often a restaurant appears on the ballots of a travelling, partly self-selected panel. That is its visibility to that panel, which depends on where the voters live and travel, including to host destinations, as well as on the quality of its cooking. The rules that decide who votes therefore decide whose visits count. Sixth, the list cannot be audited from outside, because neither the vote counts nor the regional normalisation, the adjudicator's procedures or the recruitment of voters are disclosed. Table~\ref{tab:checklist} reads these findings against the seven rules of sensitivity auditing.
-
-\begin{table}[t]
-\caption{The voting system read against the seven rules of sensitivity auditing.}
-\label{tab:checklist}
-\small
-\begin{tabularx}{\textwidth}{@{}P{3.6cm}L@{}}
-\toprule
-Rule & Finding \\
-\midrule
-1. Check against the rhetorical use of quantification & A strict order from 1 to 100 under the label ``best'' conveys a precision that the vote does not have (Sections~\ref{sec:noise} and~\ref{sec:gsa}). The organiser's own description of the list as a snapshot of opinions is not carried into its presentation. \\
-2. Adopt an assumption-hunting attitude & Equal weight of 40 voters per region irrespective of the size of its dining scene; equal weight of every vote on a ballot; the home cap; the region map, set by the organiser and reviewed every year; the constituency mix of writers, chefs and gourmets; the retirement of winners. \\
-3. Detect garbage in, garbage out & Vote counts are integers from at most 11,200 votes. The published order below No.25 is finer than the counts can support, and the order within ties comes from a secondary rule. \\
-4. Find sensitive assumptions before they find you & The vote distribution and the panel draw dominate agreement with the published order, and the allocation of voters to regions dominates its geography. The counting rule matters more than ballot length, home cap or tie-break (Section~\ref{sec:gsa}). \\
-5. Aim for transparency & No vote counts, ties, margins, regional vote shares or ballot data are published. The normalisation step and the adjudicator's procedures are undefined. Voter recruitment is delegated to Chairs who also advise on the brand. \\
-6. Do the right sums & The question the list answers is how often a restaurant appears on the ballots of a travelling, partly self-selected panel. That is a measure of visibility among that panel as much as of quality, and it depends on where voters travel, including to host destinations. \\
-7. Perform thorough uncertainty and sensitivity analysis & Not done by the organiser. Sections~\ref{sec:noise} and~\ref{sec:gsa} provide a first one. \\
-\bottomrule
-\end{tabularx}
-\end{table}
+Fifth, what the list measures is how often a restaurant appears on the ballots of a travelling, partly self-selected panel. That is its visibility to that panel, which depends on where the voters live and travel, including to host destinations, as well as on the quality of its cooking. The rules that decide who votes therefore decide whose visits count. Sixth, the list cannot be audited from outside, because neither the vote counts nor the regional normalisation, the adjudicator's procedures or the recruitment of voters are disclosed. These findings bear out the reading of the voting system against the seven rules of sensitivity auditing in Table~\ref{tab:checklist}.
 
 The 50 Best Restaurants list is one instance of a common device: a ranking produced by the ballots of a panel and published as a strict order without the counts behind it. The audit shows what can be said about such a device from outside. The published rules and lists establish how unstable positions are and how the rules have changed. Arithmetic on integer counts and the variability of independent voters bound the precision of the order under any distribution of votes, which is the strongest kind of statement available while the votes are secret. Scenarios and a generative model of ballots then show which design choices matter, at the price of assumptions that the audit states. The same sequence applies to reputation surveys, critics' polls and awards decided by panels. Rankings of this kind would be easier to audit, and clearer about their meaning, if they published their counts and described themselves as what they are.
 
 \section*{Data availability}
 
-The lists, the code that assembles and checks them, and the analyses are available at \url{https://github.com/Confareneoclassico/50best-voting-audit} and archived on Zenodo \citep{lopiano2026code}. The published lists are in \texttt{data/raw}, with the organiser's archive in \texttt{data/raw/organiser\_archive} and the sources of every file, and the assembled panel of all editions is \texttt{data/derived/panel.csv}. \texttt{src/lists.py} builds the panel, \texttt{src/churn.py} the empirical part, \texttt{src/bounds.py} the limits under any vote curve, \texttt{src/noise.py} the binomial scenarios, \texttt{src/voting\_model.py} and \texttt{src/gsa.py} the generative model and the sensitivity analysis, and \texttt{tests/} holds the checks. These include the reproduction of every position of the organiser's archive with the four documented corrections, of the published 2023 changes and of the 2016 list with its 2015 ranks, analytic tests of the estimators, and an offline test of the archiving tool. \texttt{tools/archive\_sources.py} retrieves archived copies of the web sources, and \texttt{data/raw/archived\_sources.csv} lists the copies cited in the references.
+The lists, the code that assembles and checks them, and the analyses are available at \url{https://github.com/Confareneoclassico/50best-voting-audit} and archived on Zenodo at \url{https://doi.org/10.5281/zenodo.24199990} \citep{lopiano2026code}. The published lists are in \texttt{data/raw}, with the organiser's archive in \texttt{data/raw/organiser\_archive} and the sources of every file, and the assembled panel of all editions is \texttt{data/derived/panel.csv}. \texttt{src/lists.py} builds the panel, \texttt{src/churn.py} the empirical part, \texttt{src/bounds.py} the limits under any vote curve, \texttt{src/noise.py} the binomial scenarios, \texttt{src/voting\_model.py} and \texttt{src/gsa.py} the generative model and the sensitivity analysis, and \texttt{tests/} holds the checks. These include the reproduction of every position of the organiser's archive with the four documented corrections, of the published 2023 changes and of the 2016 list with its 2015 ranks, analytic tests of the estimators, and an offline test of the archiving tool. \texttt{tools/archive\_sources.py} retrieves archived copies of the web sources, and \texttt{data/raw/archived\_sources.csv} lists the copies cited in the references.
 
 \section*{Acknowledgements}
 

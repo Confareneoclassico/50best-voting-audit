@@ -10,7 +10,8 @@ authors:
 version: "1.0.0"
 license: MIT
 repository-code: "https://github.com/Confareneoclassico/50best-voting-audit"
-# doi: added once Zenodo has minted it
+doi: 10.5281/zenodo.24199990
+date-released: 2026-11-13
 keywords:
   - sensitivity auditing
   - global sensitivity analysis

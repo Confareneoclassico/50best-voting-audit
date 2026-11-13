@@ -1,5 +1,7 @@
 # A sensitivity audit of The 50 Best Restaurants voting system
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24199990.svg)](https://doi.org/10.5281/zenodo.24199990)
+
 Code, data and working draft for an audit of the voting system behind The 50 Best Restaurants (The World's 50 Best Restaurants until September 2026). The audit separates four levels of evidence: what the published lists 2002 to 2026 show about rank stability (Part 1), limits on resolution that hold under any distribution of votes (`src/bounds.py`), how many positions a vote of about 1,120 ten-restaurant ballots can resolve under scenarios for that distribution (Part 2, binomial model of panel noise), and a global sensitivity analysis of the voting rules with a Plackett-Luce ballot model calibrated to the 2026 list (Part 3).
 
 ## Reproduce
@@ -42,4 +44,4 @@ Vote counts are not published. Parts 2 and 3 therefore report results over scena
 
 ## Licence and citation
 
-The code is released under the MIT licence (`LICENSE`). The report text, figures and derived results are released under CC BY 4.0. The published lists in `data/raw` record facts published by the organiser and the press, listed with their sources in `data/raw/SOURCES.md`, and are not covered by either licence. To cite the code and data, see `CITATION.cff`.
+The code is released under the MIT licence (`LICENSE`). The report text, figures and derived results are released under CC BY 4.0. The published lists in `data/raw` record facts published by the organiser and the press, listed with their sources in `data/raw/SOURCES.md`, and are not covered by either licence. To cite the code and data: Lo Piano, S. (2026). A sensitivity audit of The 50 Best Restaurants voting system: code and data (version 1.0.0). Zenodo. https://doi.org/10.5281/zenodo.24199990. The same reference is in `CITATION.cff`.
