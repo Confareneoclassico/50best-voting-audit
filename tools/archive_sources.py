@@ -5,8 +5,9 @@ Run locally (it needs network access to web.archive.org):
     python3 tools/archive_sources.py            # look up or create snapshots
     python3 tools/archive_sources.py --dry-run  # list what would be done
 
-For each \\url{...} in report/refs.bib, and for each page of the organiser's
-archive of past lists, the script
+For each \\url{...} in report/refs.bib, apart from this repository, which
+Zenodo archives, and for each page of the organiser's archive of past lists,
+the script
 
   * finds, for pages of the former domain theworlds50best.com, which now
     redirect, the latest snapshot taken before the September 2026 rebrand
@@ -39,6 +40,7 @@ REBRAND = "20260831"          # last day before the rebrand of September 2026
 ARCHIVE_YEARS = [y for y in range(2002, 2026) if y != 2020]
 LIST_PAGE = "https://www.the50.com/restaurants/best-in-the-world/previous-list/{}"
 UA = {"User-Agent": "w50b-audit-archiver/1.0 (research use)"}
+REPO = "https://github.com/Confareneoclassico/50best-voting-audit"   # archived by Zenodo
 
 
 def bib_urls(text: str) -> list[tuple[str, str]]:
@@ -129,7 +131,7 @@ def main(argv=None):
     ap.add_argument("--pause", type=float, default=15.0, help="seconds between save requests")
     args = ap.parse_args(argv)
 
-    jobs = bib_urls(BIB.read_text(encoding="utf-8"))
+    jobs = [(k, u) for k, u in bib_urls(BIB.read_text(encoding="utf-8")) if not u.startswith(REPO)]
     cited = {u for _, u in jobs}
     jobs += [(f"archive{y}", LIST_PAGE.format(y)) for y in ARCHIVE_YEARS if LIST_PAGE.format(y) not in cited]
     phrases: dict[str, list[str]] = {}
