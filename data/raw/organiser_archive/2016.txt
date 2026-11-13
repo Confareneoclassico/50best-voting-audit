@@ -1,0 +1,50 @@
+1|Osteria Francescana|Modena, Italy
+2|El Celler de Can Roca|Girona, Spain
+3|Eleven Madison Park|New York, USA
+4|Central|Lima, Peru
+5|Noma|Copenhagen, Denmark
+6|Mirazur|Menton, France
+7|Mugaritz|San Sebastian, Spain
+8|Narisawa|Tokyo, Japan
+9|Steirereck|Vienna, Austria
+10|Asador Etxebarri|Axpe, Spain
+11|D.O.M.|Sao Paulo, Brazil
+12|Quintonil|Mexico City, Mexico
+13|Maido|Lima, Peru
+14|The Ledbury|London, UK
+15|Alinea|Chicago, USA
+16|Azurmendi|Larrabetzu, Spain
+17|Piazza Duomo|Alba, Italy
+19|Arpège|Paris, France
+20|Amber|Hong Kong, China
+21|Arzak|San Sebastian, Spain
+22|The Test Kitchen|Cape Town, South Africa
+22|Nahm|Bangkok, Thailand
+23|White Rabbit|Moscow, Russia
+23|Gaggan|Bangkok, Thailand
+24|Le Bernardin|New York, USA
+25|Pujol|Mexico City, Mexico
+26|The Clove Club|London, UK
+27|Saison|San Francisco, USA
+28|Geranium|Copenhagen, Denmark
+29|Tickets|Barcelona, Spain
+30|Astrid y Gastón|Lima, Peru
+31|Nihonryori Ryugin|Tokyo, Japan
+32|Restaurant André|Singapore
+33|Attica|Melbourne, Australia
+34|Restaurant Tim Raue|Berlin, Germany
+35|Vendôme|Bergisch Gladbach, Germany
+36|Boragó|Santiago, Chile
+38|De Librije|Zwolle, Netherlands
+39|Le Calandre|Rubano, Italy
+40|Relae|Copenhagen, Denmark
+41|Fäviken|Järpen, Sweden
+42|Ultraviolet by Paul Pairet|Shanghai, China
+43|Biko|Mexico City, Mexico
+44|Estela|New York, USA
+45|Dinner by Heston Blumenthal|London, UK
+46|Combal Zero|Rivoli, Italy
+47|Schloss Schauenstein|Fürstenau, Switzerland
+48|Blue Hill at Stone Barns|Pocantico Hills, USA
+49|Quique Dacosta|Denia, Spain
+50|Septime|Paris, France

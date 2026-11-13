@@ -1,0 +1,50 @@
+1|Noma|Copenhagen, Denmark
+2|El Bulli|Roses, Spain
+3|The Fat Duck|Bray, UK
+4|El Celler de Can Roca|Girona, Spain
+5|Mugaritz|San Sebastian, Spain
+6|Osteria Francescana|Modena, Italy
+7|Alinea|Chicago, USA
+8|Daniel|New York, USA
+9|Arzak|San Sebastian, Spain
+10|Per Se|New York, USA
+11|Le Chateaubriand|Paris, France
+12|La Colombe|Cape Town, South Africa
+13|Pierre Gagnaire|Paris, France
+14|L'Hotel de Ville - Philippe Rochat|Crissier, Switzerland
+15|Le Bernardin|New York, USA
+16|L'Astrance|Paris, France
+17|Hof van Cleve|Kruishoutem, Belgium
+18|D.O.M.|Sao Paulo, Brazil
+19|Oud Sluis|Sluis, Netherlands
+20|Le Calandre|Rubano, Italy
+21|Steirereck|Vienna, Austria
+22|Vendôme|Bergisch Gladbach, Germany
+23|Chez Dominique|Helsinki, Finland
+24|Narisawa|Tokyo, Japan
+25|Mathias Dhalgren|Stockholm, Sweden
+26|Momofuku Ssäm Bar|New York, USA
+27|Quay|Sydney, Australia
+28|Iggy's|Singapore
+29|L'Atelier Saint Germain De Joël Robuchon|Paris, France
+30|Schloss Schauenstein|Fürstenau, Switzerland
+31|Le Quartier Francais|Franschhoek, South Africa
+32|The French Laundry|Yountville, USA
+33|Martin Berasategui|Lasarte-Oria, Spain
+34|Aqua|Wolfsburg, Germany
+35|Combal Zero|Rivoli, Italy
+36|Dal Pescatore|Canneto sull'Oglio, Italy
+37|De Librije|Zwolle, Netherlands
+38|Tetsuya's|Sydney, Australia
+39|Jaan Par Andre|Singapore
+40|Il Canto|Siena, Italy
+41|Alain Ducasse au Plaza Athénée|Paris, France
+42|Oaxen Krog|Stockholm, Sweden
+43|St John|London, UK
+44|Maison Troisgros|Lyon, France
+45|WD~50|New York, USA
+46|Biko|Mexico City, Mexico
+47|Die Schwarzaldstube|Baiersbronn, Germany
+48|Nihonryori Ryugin|Tokyo, Japan
+49|Hibiscus|London, UK
+50|Eleven Madison Park|New York, USA

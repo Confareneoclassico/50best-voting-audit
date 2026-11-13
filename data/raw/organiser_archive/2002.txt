@@ -1,0 +1,50 @@
+1|El Bulli|Roses
+2|Restaurant Gordon Ramsay|London
+3|The French Laundry|Yountville
+4|Rockpool|Sydney
+5|Spoon des Iles|Ile Maurice
+6|L'Auberge de l'Ill|Alsace
+7|1884|Godoy Cruz
+8|The Ivy|London
+9|Eigensinn Farm|Singhampton
+10|Tetsuya's|Sydney
+11|Charlie Trotter's|Chicago
+12|Tangerine|Philadelphia
+13|La Coupole|Paris
+14|Bukhara|New Delhi
+15|Vong|New York
+16|L'Ambroisie|Paris
+17|Al Mahara|Dubai
+18|Felix|Hong Kong
+19|The Merchant House|Portsmouth
+20|Operakällaren|Stockholm
+21|Gramercy Tavern|New York
+22|Sukiyabashi Jiro|Tokyo
+23|Little Washington|Washington
+24|Alle Testiere|Venice
+25|The Lone Star|Mount Standfast
+26|Chez Vroney|Zermatt
+27|Flower Drum|Melbourne
+28|The Three Chimneys|Isle of Skye
+29|Chez Panisse|Berkeley
+30|Le Jardin des Sens|Montpellier
+31|River Café|London
+32|Kronenhalle|Zürich
+33|Il Pescatore|Orlando
+34|Nepenthe|Big Sur
+35|The Spa|Lamai Beach
+36|Hotel de Paris|Monaco
+37|Moulin de Mougin|Mougins
+38|Ginza Sushiko|Beverly Hills
+39|Changa|Istanbul
+40|Michel Bras|Laguiole
+41|Le Quartier Français|Franschhoek
+42|Roundwood House|County Laois
+43|The Supper Club|Amsterdam
+44|Blue Lagoon|Grindavik
+45|Bayona|New Orleans
+46|The Grundel|Budapest
+47|Carnivore|Nairobi
+48|Bagatelle|Oslo
+49|Susar|Toronto
+50|Tantris|München

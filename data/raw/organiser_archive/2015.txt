@@ -1,0 +1,50 @@
+1|El Celler de Can Roca|Girona, Spain
+2|Osteria Francescana|Modena, Italy
+3|Noma|Copenhagen, Denmark
+4|Central|Lima, Peru
+5|Eleven Madison Park|New York, USA
+6|Mugaritz|San Sebastian, Spain
+7|Dinner by Heston Blumenthal|London, UK
+8|Narisawa|Tokyo, Japan
+9|D.O.M.|Sao Paulo, Brazil
+10|Gaggan|Bangkok, Thailand
+11|Mirazur|Menton, France
+12|Arpège|Paris, France
+13|Asador Etxebarri|Axpe, Spain
+14|Astrid y Gastón|Lima, Peru
+15|Steirereck|Vienna, Austria
+16|Pujol|Mexico City, Mexico
+17|Arzak|San Sebastian, Spain
+18|Le Bernardin|New York, USA
+19|Azurmendi|Larrabetzu, Spain
+20|The Ledbury|London, UK
+21|Le Chateaubriand|Paris, France
+22|Nahm|Bangkok, Thailand
+23|White Rabbit|Moscow, Russia
+24|Ultraviolet by Paul Pairet|Shanghai, China
+25|Fäviken|Järpen, Sweden
+26|Alinea|Chicago, USA
+27|Piazza Duomo|Alba, Italy
+28|The Test Kitchen|Cape Town, South Africa
+29|Nihonryori Ryugin|Tokyo, Japan
+30|Vendôme|Bergisch Gladbach, Germany
+31|Restaurant Frantzén|Stockholm, Sweden
+32|Attica|Melbourne, Australia
+33|Aqua|Wolfsburg, Germany
+34|Le Calandre|Rubano, Italy
+35|Quintonil|Mexico City, Mexico
+36|L'Astrance|Paris, France
+37|Biko|Mexico City, Mexico
+38|Amber|Hong Kong, China
+39|Quique Dacosta|Denia, Spain
+40|Per Se|New York, USA
+41|Maní|São Paulo, Brazil
+42|Boragó|Santiago, Chile
+43|Tickets|Barcelona, Spain
+44|Maido|Lima, Peru
+45|Relae|Copenhagen, Denmark
+46|Restaurant André|Singapore
+47|Alain Ducasse au Plaza Athénée|Paris, France
+48|Schloss Schauenstein|Fürstenau, Switzerland
+49|Blue Hill at Stone Barns|Pocantico Hills, USA
+50|The French Laundry|Yountville, USA

@@ -1,0 +1,50 @@
+1|The French Laundry|Yountville, USA
+2|The Fat Duck|Maidenhead, UK
+3|El Bulli|Roses, Spain
+4|L'Atelier Saint Germain De Joël Robuchon|Paris, France
+5|Pierre Gagnaire|Paris, France
+6|Guy Savoy|Paris, France
+7|Nobu|London, UK
+8|Restaurant Gordon Ramsay|London, UK
+9|Bras|Laguiole, France
+10|Le Louis XV|Monaco
+11|Gramercy Tavern|New York, USA
+12|Daniel|New York, USA
+13|Tetsuya's|Sydney, Australia
+14|Hakkasan|London, UK
+15|The Waterside Inn|London, UK
+16|St John|London, UK
+17|L'Ami Louis|Paris, France
+18|Jean Georges|New York, USA
+19|Le Gavroche|London, UK
+20|Flower Drum|Melbourne, Australia
+21|The Merchant House|London, UK
+22|Arzak|San Sebastian, Spain
+23|Dal Pescatore|Canneto sull'Oglio, Italy
+24|The Ivy|London, UK
+25|Arpège|Paris, France
+26|Can Fabes|Barcelona, Spain
+27|Die Schwarzaldstube|Baiersbronn, Germany
+28|The Cliff|Durants, Barbados
+29|Rockpool|Sydney, Australia
+30|Le Manoir aux Quat'Saisons|Oxford, UK
+31|Al Mahara|Dubai, UAE
+32|Charlie Trotter's|Chicago, USA
+33|Le Jardin des Sens|Montpellier, France
+34|The Square|London, UK
+35|Spago|Beverly Hills, USA
+36|Bukhara|New Delhi, India
+37|Chez Panisse|Berkeley, USA
+38|Le Meurice|Paris, France
+39|Troisgros|Ouches, France
+40|Balthazar|New York, USA
+41|River Café|London, UK
+42|La Tupina|Bordeaux, France
+43|L'Auberge de l'Ill|Illhaeusern, France
+44|Craft|New York, USA
+45|La Tour D'Argent|Paris, France
+46|Le Maison de Marc Veyrat|Manigod, France
+47|Felix|Hong Kong
+48|De Karmeliet|Bruges, Belgium
+49|The Wolseley|London, UK
+50|Gambero Roso|Vernazza, Italy

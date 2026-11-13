@@ -1,0 +1,19 @@
+{
+  "top100_transitions": 6,
+  "pairs_pooled": 600,
+  "pairs_in_both": 477,
+  "spearman_survivors_top100_median": 0.6945979815506703,
+  "spearman_survivors_top100_range": [
+    0.6292076887013597,
+    0.7875960170697013
+  ],
+  "top50_from_y0_in_y1_51_100_or_out": 0.2466666666666667,
+  "half2_to_top50": 0.20666666666666667,
+  "half2_out_of_top100": 0.34,
+  "half1_out_of_top100": 0.07,
+  "bob_era_no1_is_heir": "6/7",
+  "pre_bob_changes_no1_was_prev2": "7/10",
+  "pre_bob_repeats": "6/16",
+  "top50_since2010_spearman_median": 0.7139836907278768,
+  "top50_since2010_survivors_median": 40.0
+}

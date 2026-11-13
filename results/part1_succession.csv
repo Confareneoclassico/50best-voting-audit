@@ -1,0 +1,24 @@
+year,no1,prev_rank,repeat,heir,no1_is_heir,bob_era
+2003,The French Laundry,3,False,El Bulli,False,False
+2004,The French Laundry,1,True,The French Laundry,True,False
+2005,The Fat Duck,2,False,The French Laundry,False,False
+2006,El Bulli,2,False,The Fat Duck,False,False
+2007,El Bulli,1,True,El Bulli,True,False
+2008,El Bulli,1,True,El Bulli,True,False
+2009,El Bulli,1,True,El Bulli,True,False
+2010,Noma,3,False,El Bulli,False,False
+2011,Noma,1,True,Noma,True,False
+2012,Noma,1,True,Noma,True,False
+2013,El Celler de Can Roca,2,False,Noma,False,False
+2014,Noma,2,False,El Celler de Can Roca,False,False
+2015,El Celler de Can Roca,2,False,Noma,False,False
+2016,Osteria Francescana,2,False,El Celler de Can Roca,False,False
+2017,Eleven Madison Park,3,False,Osteria Francescana,False,False
+2018,Osteria Francescana,2,False,Eleven Madison Park,False,False
+2019,Mirazur,3,False,Mirazur,True,True
+2021,Noma,2,False,Noma,True,True
+2022,Geranium,2,False,Geranium,True,True
+2023,Central,2,False,Central,True,True
+2024,Disfrutar,2,False,Disfrutar,True,True
+2025,Maido,5,False,Asador Etxebarri,False,True
+2026,Asador Etxebarri,2,False,Asador Etxebarri,True,True

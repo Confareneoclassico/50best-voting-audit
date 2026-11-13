@@ -1,0 +1,50 @@
+1|Geranium|Copenhagen
+2|Central|Lima
+3|Disfrutar|Barcelona
+4|Diverxo|Madrid
+5|Pujol|Mexico City
+6|Asador Etxebarri|Atxondo
+7|A Casa do Porco|São Paulo
+8|Lido 84|Gardone Riviera
+9|Quintonil|Mexico City
+10|Le Calandre|Rubano
+11|Maido|Lima
+12|Uliassi|Senigallia
+13|Steirereck|Vienna
+14|Don Julio|Buenos Aires
+15|Reale|Castel di Sangro
+16|Elkano|Getaria
+17|Nobelhart & Schmutzig|Berlin
+18|Alchemist|Copenhagen
+19|Piazza Duomo|Alba
+20|Den|Tokyo
+21|Mugaritz|San Sebastian
+22|Septime|Paris
+23|The Jane|Antwerp
+24|The Chairman|Hong Kong
+25|Frantzén|Stockholm
+26|Restaurant Tim Raue|Berlin
+27|Hof Van Cleve|Kruishoutem
+28|Le Clarence|Paris
+29|St. Hubertus|San Cassiano
+30|Florilège|Tokyo
+31|Arpège|Paris
+32|Mayta|Lima
+33|Atomix|New York
+34|Hiša Franko|Kobarid
+35|The Clove Club|London
+36|Odette|Singapore
+37|Fyn|Cape Town
+38|Jordnær|Copenhagen
+39|Sorn|Bangkok
+40|Schloss Schauenstein|Fürstenau
+41|La Cime|Osaka
+42|Quique Dacosta|Dénia
+43|Boragó|Santiago
+44|Le Bernardin|New York
+45|Narisawa|Tokyo
+46|Belcanto|Lisbon
+47|Oteque|Rio de Janeiro
+48|Leo|Bogotá
+49|Ikoyi|London
+50|SingleThread|Healdsburg

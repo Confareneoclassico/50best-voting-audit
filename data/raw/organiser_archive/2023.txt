@@ -1,0 +1,100 @@
+1|Central|Lima
+2|Disfrutar|Barcelona
+3|Diverxo|Madrid
+4|Asador Etxebarri|Atxondo
+5|Alchemist|Copenhagen
+6|Maido|Lima
+7|Lido 84|Gardone Riviera
+8|Atomix|New York
+9|Quintonil|Mexico City
+10|Table by Bruno Verjus|Paris
+11|Trèsind Studio|Dubai
+12|A Casa do Porco|São Paulo
+13|Pujol|Mexico City
+14|Odette|Singapore
+15|Le Du|Bangkok
+16|Reale|Castel di Sangro
+17|Gaggan Anand|Bangkok
+18|Steirereck|Vienna
+19|Don Julio|Buenos Aires
+20|Quique Dacosta|Dénia
+21|Den|Tokyo
+22|Elkano|Getaria
+23|Kol|London
+24|Septime|Paris
+25|Belcanto|Lisbon
+26|Schloss Schauenstein|Fürstenau
+27|Florilège|Tokyo
+28|Kjolle|Lima
+29|Boragó|Santiago
+30|Frantzén|Stockholm
+31|Mugaritz|San Sebastian
+32|Hiša Franko|Kobarid
+33|El Chato|Bogotá
+34|Uliassi|Senigallia
+35|Ikoyi|London
+36|Plénitude|Paris
+37|Sézanne|Tokyo
+38|The Clove Club|London
+39|The Jane|Antwerp
+40|Restaurant Tim Raue|Berlin
+41|Le Calandre|Rubano
+42|Piazza Duomo|Alba
+43|Leo|Bogotá
+44|Le Bernardin|New York
+45|Nobelhart & Schmutzig|Berlin
+46|Orfali Bros Bistro|Dubai
+47|Mayta|Lima
+48|La Grenouillère|La Madelaine-sous-Montreuil
+49|Rosetta|Mexico City
+50|The Chairman|Hong Kong
+51|Narisawa|Tokyo
+52|Hof Van Cleve|Kruishoutem
+53|Brat|London
+54|Alcalde|Guadalajara
+55|Ernst|Berlin
+56|Sorn|Bangkok
+57|Jordnær|Copenhagen
+58|Lasai|Rio de Janeiro
+59|Mérito|Lima
+60|La Cime|Osaka
+61|Chef's Table at Brooklyn Fare|New York
+62|Arpège|Paris
+63|Neolokal|Istanbul
+64|Aponiente|El Puerto de Santa María
+65|Burnt Ends|Singapore
+66|Turk Fatih Tutak|Istanbul
+67|Le Clarence|Paris
+68|SingleThread|Healdsburg
+69|Zén|Singapore
+70|Sud 777|Mexico City
+71|Core by Clare Smyth|London
+72|Sühring|Bangkok
+73|Cosme|New York
+74|Nusara|Bangkok
+75|Fyn|Cape Town
+76|Oteque|Rio de Janeiro
+77|Tantris|Munich
+78|Alléno Paris au Pavillon Ledoyen|Paris
+79|Nuema|Quito
+80|Flocons de Sel|Megève
+81|Azurmendi|Larrabetzu
+82|Enigma|Barcelona
+83|Sazenka|Tokyo
+84|Meta|Singapore
+85|Enrico Bartolini|Milan
+86|Lyle's|London
+87|Ossiano|Dubai
+88|Potong|Bangkok
+89|Mingles|Seoul
+90|Wing|Hong Kong
+91|Kadeau|Copenhagen
+92|Neighborhood|Hong Kong
+93|Kei|Paris
+94|La Colombe|Cape Town
+95|Ceto|Roquebrune-Cap-Martin
+96|Ricard Camarena Restaurant|Valencia
+97|Labyrinth|Singapore
+98|Saison|San Francisco
+99|Fu He Hui|Shanghai
+100|Maito|Panama City

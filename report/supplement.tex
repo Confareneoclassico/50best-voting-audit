@@ -1,0 +1,109 @@
+\documentclass[11pt,a4paper]{article}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{lmodern}
+\usepackage[margin=1in]{geometry}
+\usepackage{microtype}
+\usepackage{amsmath,amssymb}
+\usepackage{graphicx}
+\usepackage{booktabs}
+\usepackage{tabularx}
+\usepackage{longtable}
+\usepackage{array}
+\usepackage[font=small,labelfont=bf]{caption}
+\captionsetup[table]{position=top,skip=4pt}
+\usepackage[authoryear,round]{natbib}
+\usepackage{xr-hyper}
+\externaldocument{audit}
+\usepackage[hidelinks]{hyperref}
+\usepackage{xurl}
+% archived copies of web sources, written by tools/archive_sources.py
+\makeatletter
+\newcommand{\archiveurl}[2]{\@namedef{arch@#1}{#2}}
+\newcommand{\archived}[1]{\@ifundefined{arch@#1}{}{. Archived at \expandafter\url\expandafter{\csname arch@#1\endcsname}}}
+\makeatother
+\InputIfFileExists{archive_urls.tex}{}{}
+\newcolumntype{L}{>{\raggedright\arraybackslash}X}
+\newcolumntype{P}[1]{>{\raggedright\arraybackslash}p{#1}}
+\setlength{\parskip}{0.35em}
+
+\renewcommand{\thesection}{S\arabic{section}}
+\renewcommand{\thetable}{S\arabic{table}}
+\renewcommand{\thefigure}{S\arabic{figure}}
+
+\title{Supplementary material for\\``What the 50 Best Restaurants list can and cannot resolve:\\a sensitivity audit of its voting system''}
+\author{Samuele Lo Piano}
+\date{}
+
+\begin{document}
+\maketitle
+
+\noindent Section~\ref{app:intervals} lists the simulated rank interval of every restaurant of the 2026 list, and Section~\ref{app:ot} reports the optimal-transport sensitivity indices of Section~\ref{sec:gsa} of the paper. Code and data are at \url{https://github.com/Confareneoclassico/50best-voting-audit}.
+
+\section{The 2026 list with simulated rank intervals}\label{app:intervals}
+
+{\small
+\begin{longtable}{@{}rllrr@{}}
+\caption{Published 2026 position, 5th to 95th percentile of the simulated position under the published rules (pooled over the six worlds of Section~\ref{sec:gsa}), and the probability of a top-50 place.}\label{tab:intervals}\\
+\toprule
+Rank & Restaurant & City & 90\% interval & P(top 50) \\
+\midrule
+\endfirsthead
+\toprule
+Rank & Restaurant & City & 90\% interval & P(top 50) \\
+\midrule
+\endhead
+\bottomrule
+\endfoot
+\input{table_intervals.tex}
+\end{longtable}
+}
+
+\section{Optimal-transport sensitivity indices}\label{app:ot}
+
+The optimal-transport index of \citet{borgonovo2025ot} compares the distribution of an output $Y$ with its distribution at each level of a factor,
+\[
+\iota_i = \frac{E\bigl[W_2^2(P_Y, P_{Y \mid x_i})\bigr]}{2\,\mathrm{Var}\,Y},
+\]
+where $W_2$ is the 2-Wasserstein distance and the expectation runs over the levels of $x_i$, which are equally likely in the factorial design. For a one-dimensional output, $W_2^2$ is the integral over $(0,1)$ of the squared difference of the two quantile functions. We compute it exactly for the empirical distributions of the 6,912 simulated editions and of the 2,304 or 3,456 editions at each level. Writing $m$ and $\sigma$ for the mean and standard deviation of $P_Y$, $m_i$ and $\sigma_i$ for those of $P_{Y \mid x_i}$, and $\rho_i$ for the correlation of the two quantile functions over $(0,1)$, the distance splits into three non-negative parts,
+\[
+W_2^2(P_Y, P_{Y \mid x_i}) = (m - m_i)^2 + (\sigma - \sigma_i)^2 + 2\,\sigma \sigma_i (1 - \rho_i),
+\]
+a shift in location, a change in spread and a change in shape. Averaged over the levels and divided by $2\,\mathrm{Var}\,Y$, the location part equals $S_i/2$, so $\iota_i \geq S_i/2$, with equality when a factor only shifts the output. An upper bound follows from coupling $Y$ with the output $Y'$ obtained by drawing $x_i$ again while every other input, the panel included, stays fixed. Then $E[W_2^2] \leq E[(Y - Y')^2] = 2\,S_{Ti}\,\mathrm{Var}\,Y$, so $\iota_i \leq S_{Ti}$ for the total index of the model in which the panel draw is an input. The total indices of Figure~\ref{fig:indices}, computed from cell means, leave out the interactions of a factor with the panel draw and can be smaller. A dummy factor that assigns the simulated editions at random to three levels gives the level of $\iota_i$ that sampling alone produces. Intervals are 95\% jackknife intervals, as in Section~\ref{sec:gsa}.
+
+Table~\ref{tab:ot} and Figure~\ref{fig:ot} report the indices and their parts. Where a factor matters for the rank correlation of the top 100 or the displacement of positions 51 to 100, the location part dominates and the index lies between the two bounds. The vote curve also changes the spread of these two features, which vary more across rules and panels when the top of the list collects fewer votes, and the allocation of voters changes the spread of the number of regions in the top 50.
+
+For the four counts, the shape part is present even where a factor has almost no effect, and for the top ten it makes up most of every index. This is a property of counts that take few values. On the integers, moving probability $p$ from one value to the next costs $p$ in squared distance, while the mean moves by $p$, which enters the location part as $p^2$. A small change in the mean therefore appears mostly as a change in shape. The dummy factor shows the same pattern, with a null level of up to 0.007 on the counts against 0.001 or less on the two continuous features. In the last column of Table~\ref{tab:ot}, each count is smoothed by spreading it uniformly over the unit interval around it before the index is computed. The shape parts then fall to 0.004 or less and the null level to 0.001 or less, and every index of a factor above the null level lies between $S_i/2$ and $S_{Ti}$ of the smoothed count within its interval. The choice of index changes the size of the effects on the counts, then, but not which factors matter.
+
+\begin{figure}[t]
+\centering
+\includegraphics[width=\textwidth]{figures/fig_ot.pdf}
+\caption{Optimal-transport indices $\iota_i$ of the six features of the simulated list, split into location, spread and shape parts, with 95\% jackknife intervals. The location part equals $S_i/2$. Ticks: total Sobol' index $S_{Ti}$ of Figure~\ref{fig:indices}. Circles: $\iota_i$ of the counts smoothed by spreading each value uniformly over the unit interval around it. Dummy: runs assigned at random to three levels.}
+\label{fig:ot}
+\end{figure}
+
+\newpage
+{\small
+\setlength{\tabcolsep}{4.5pt}
+\begin{longtable}{@{}lrcrrrrrr@{}}
+\caption{Optimal-transport indices $\iota_i$ with 95\% jackknife intervals, their location, spread and shape parts, the Sobol' indices of Figure~\ref{fig:indices}, and, for the four counts, $\iota_i$ of the count smoothed by spreading it uniformly over the unit interval around it (last column). The bounds for the smoothed index are the Sobol' indices of the smoothed counts, which differ from the $S_i$ and $S_{Ti}$ shown by at most 0.011.}\label{tab:ot}\\
+\toprule
+Factor & $\iota_i$ & 95\% interval & Location & Spread & Shape & $S_i$ & $S_{Ti}$ & $\iota_i$ smoothed \\
+\midrule
+\endfirsthead
+\toprule
+Factor & $\iota_i$ & 95\% interval & Location & Spread & Shape & $S_i$ & $S_{Ti}$ & $\iota_i$ smoothed \\
+\midrule
+\endhead
+\bottomrule
+\endfoot
+% the primitive input lets the first generated row start with \multicolumn
+\csname @@input\endcsname table_ot.tex 
+\end{longtable}
+}
+
+
+\bibliographystyle{plainnat}
+\bibliography{refs}
+
+\end{document}

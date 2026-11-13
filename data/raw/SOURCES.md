@@ -1,0 +1,19 @@
+# Provenance of the published lists (retrieved 6 November 2026)
+
+The assembled panel of all editions, 2002 to 2026, with the corrections below applied, is written by `src/lists.py` to `data/derived/panel.csv`. Every web source cited in the report can be archived with `tools/archive_sources.py` (see the README).
+
+| File | Content | Source |
+|---|---|---|
+| organiser_archive/2002.txt to 2025.txt | Each edition as printed by the organiser (rank, restaurant, city): positions 1-50 for 2002 to 2022, 1-100 for 2023 to 2025 (no edition in 2020) | The organiser's archive of past lists, the50.com/restaurants/best-in-the-world/previous-list/<year> (formerly theworlds50best.com/previous-list/<year>) |
+| corrections.csv | Four entries where the archive departs from the organiser's own announcements | 2015: the archive numbers Tickets 43, the announcement placed Tickets and Boragó jointly at No.42 (organiser's 2015 list in pictures, AJC 2016 list). 2016: the archive gives Nos.22 and 23 twice and omits Nos.18 and 37, which belong to White Rabbit and Nahm (organiser's 2016 list in pictures, AJC 2016 list). 2025: the archive gives No.27 twice and omits No.28, which belongs to Lasai (organiser's 2025 1-50 announcement). |
+| list_2019_51_120.csv | Ranks 51-120, 2019 (the extended list ran to 120 that year) | The Independent via inkl.com (world-s-50-best-restaurants-long-list-for-2019-rankings-revealed). All 70 positions agree with hot-dinners.com (201906188500), allowing for spelling. Countries as published, cities added by us. |
+| list_2021_51_100.csv | Ranks 51-100, 2021 | theupcoming.co.uk/2021/09/23/worlds-50-best-restaurants-2021-the-new-51-100-list-on-a-map, checked against hot-dinners.com (2021092410898) and the organiser's press release (Alchemist No.58, Willem Hiele No.77, La Colombe No.81, La Grenouillère No.91, Fyn No.92) |
+| list_2022_51_100.csv | Ranks 51-100, 2022 | theupcoming.co.uk/2022/07/05/worlds-50-best-restaurants-2022-the-new-51-100-list-mapped-out, checked against hot-dinners.com (2022070511554), robbreport.com.sg and the organiser's press release (Trèsind Studio No.57, Sazenka No.59, Rosetta No.60, Table by Bruno Verjus No.77, Sézanne No.82, Flocons de Sel No.99) |
+| list_2026_1_100.csv | Ranks 1-100, 2026 | the50.com/restaurants/best-in-the-world/list/1-50 and /51-100 |
+| restaurant_countries.csv | Country of each restaurant | The country of the location printed by the organiser. Three countries in the earlier third-party copy were wrong and are fixed: Finland for Chez Dominique, Italy for Dal Pescatore and Switzerland for Schloss Schauenstein. The archive prints Il Pescatore in Orlando in 2002. It may be Dal Pescatore (Canneto sull'Oglio, No.35 in 2003) or a namesake, so it is kept as a restaurant of its own, with the country of the printed location (see Appendix A of the report). |
+| academy_regions_2026.csv | Country to Academy region | Region names from the50.com/restaurants/best-in-the-world/voting/the-academy, assignment of countries by us (US and Canada split by city in src/lists.py) |
+| validation_2016_ajc.csv | The 2016 top 50 with each restaurant's 2015 rank, as printed by The Atlanta Journal-Constitution | ajc.com/travel/italy-osteria-francescana-named-world-best-restaurant/SzM8pXnmBwQR45GEPLFhOM |
+| validation_2023_changes.csv | Published change since 2022 for the 2023 extended list | theupcoming.co.uk/?p=468638 |
+| archive_phrases.csv | Sentences that an archived copy of each former-domain page must contain | Used by tools/archive_sources.py |
+
+An earlier version of the repository took the 2002-2023 lists from a third-party copy of the archive (the cache of the public repository csuarez325/Try-Before-You-Die---World-s-Greatest-Restaurants-Guide). That copy agrees with the organiser's archive at every position, including the errors corrected above, and is no longer used.

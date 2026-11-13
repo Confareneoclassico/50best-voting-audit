@@ -1,0 +1,50 @@
+1|El Bulli|Roses, Spain
+2|The Fat Duck|Maidenhead, UK
+3|Pierre Gagnaire|Paris, France
+4|The French Laundry|Yountville, USA
+5|Tetsuya's|Sydney, Australia
+6|Bras|Laguiole, France
+7|Le Louis XV|Monaco
+8|Per Se|New York, USA
+9|Arzak|San Sebastian, Spain
+10|Mugaritz|Gipuzkoa, Spain
+11|Can Fabes|Barcelona, Spain
+12|Nobu|London, UK
+13|Gambero Rosso|Vernazza, Italy
+14|Restaurant Gordon Ramsay|London, UK
+15|Alain Ducasse|Paris, France
+16|Jean Georges|New York, USA
+17|Le Cinq|Paris, France
+18|Daniel|New York, USA
+19|Oud Sluis|Sluis, Netherlands
+20|Chez Panisse|Berkeley, USA
+21|El Celler de Can Roca|Girona, Spain
+22|L'Astrance|Paris, France
+23|Hof van Cleve|Kruisem, Belgium
+24|Troisgros|Ouches, France
+25|L'Atelier Saint Germain De Joël Robuchon|Paris, France
+26|Charlie Trotter's|Chicago, USA
+27|Le Gavroche|London, UK
+28|La Colombe|Cape Town, South Africa
+29|Enoteca Pinchiorri|Florence, Italy
+30|Rockpool|Sydney, Australia
+31|Le Calandre|Padua, Italy
+32|Le Bernardin|New York, USA
+33|Noma|Copenhagen, Denmark
+34|Dieter Mueller|Gladbach, Germany
+35|St John|London, UK
+36|Hakkasan|London, UK
+37|Martin Berasategui|Lasarte-Oria, Spain
+38|Le Quartier Français|Franschhoek, Aouth Africa
+39|Chez Dominique|Helsinki, Finland
+40|L'Ambroisie|Paris, France
+41|Die Schwarzaldstube|Baiersbronn, Germany
+42|Dal Pescatore|Canneto sull'Oglio, Italy
+43|Bocuse|Lyon, France
+44|Arpège|Paris, France
+45|Gramercy Tavern|New York, USA
+46|Bukhara|New Delhi, India
+47|De Karmeliet|Bruges, Belgium
+48|Oaxen Krog|Stockholm, Sweden
+49|Comme Chez Soi|Brussels, Belgium
+50|D.O.M.|São Paulo, Brazil

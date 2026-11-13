@@ -1,0 +1,50 @@
+1|The French Laundry|Yountville
+2|El Bulli|Roses
+3|Le Louis XV|Monaco
+4|Jean Georges|New York
+5|Restaurant Gordon Ramsay|London
+6|Arpège|Paris
+7|Comme Chez Soi|Brussels
+8|Rockpool|Sydney
+9|L'Ambroisie|Paris
+10|Gramercy Tavern|New York
+11|Michel Bras|Laguiole, France
+12|Chez Panisse|Berkeley
+13|Pierre Gagnaire|Paris
+14|The Merchant House|London
+15|Bocca|Tallinn
+16|Sukiyabashi Jiro|Tokyo
+17|Felix|Hong Kong
+18|L'Auberge de l'Ill|Illhaeusern
+19|Gidleigh Park|Changford
+20|Bukhara|New Delhi
+21|Paul Boscoe|France
+22|De Karmeliet|Bruges
+23|Al Mahara|Dubai, UAE
+24|Vincent Guerithault on Camelback|Phoenix
+25|Thorton's|Dublin
+26|Nobu|London
+27|Operakällaren|Stockholm
+28|Eigensinn Farm|Singhampton
+29|Le Manoir aux Quat'Saison|Oxford
+30|Guy Savoy|Paris
+31|The Ivy|London
+32|The Three Chimneys|Isle of Skye
+33|Petrus|London
+34|Daniel|New York
+35|Dal Pescatore|Canneto sull'Oglio
+36|Bagatelle|Oslo, Norway
+37|Tetsuya's|Sydney
+38|Quattro Passi|Massa Lubrense
+39|Charlie Trotter's|Chicago
+40|Arzak|San Sebastian
+41|Flower Drum|Melbourne
+42|The Cliff|Durants
+43|The Square|London
+44|Enoteca Pinchiorri|Florence
+45|1884|Godoy Cruz
+46|Checchino Dal 1887|Rome
+47|River Café|London
+48|New York Grill|Tokyo
+49|St John|London
+50|Carnivore|Nairobi

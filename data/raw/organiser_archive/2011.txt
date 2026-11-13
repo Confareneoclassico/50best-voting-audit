@@ -1,0 +1,50 @@
+1|Noma|Copenhagen, Denmark
+2|El Celler de Can Roca|Girona, Spain
+3|Mugaritz|San Sebastian, Spain
+4|Osteria Francescana|Modena, Italy
+5|The Fat Duck|Bray, UK
+6|Alinea|Chicago, USA
+7|D.O.M.|Sao Paulo, Brazil
+8|Arzak|San Sebastian, Spain
+9|Le Chateaubriand|Paris, France
+10|Per Se|New York, USA
+11|Daniel|New York, USA
+12|Narisawa|Tokyo, Japan
+13|L'Astrance|Paris, France
+14|L'Atelier Saint Germain De Joël Robuchon|Paris, France
+15|Hof van Cleve|Kruishoutem, Belgium
+16|Pierre Gagnaire|Paris, France
+17|Oud Sluis|Sluis, Netherlands
+18|Le Bernardin|New York, USA
+19|Arpège|Paris, France
+20|Restaurant Frantzén|Stockholm, Sweden
+21|Vendôme|Bergisch Gladbach, Germany
+22|Steirereck|Vienna, Austria
+23|Schloss Schauenstein|Fürstenau, Switzerland
+24|Eleven Madison Park|New York, USA
+25|Aqua|Wolfsburg, Germany
+26|Quay|Sydney, Australia
+27|Iggy's|Singapore
+28|Combal Zero|Rivoli, Italy
+29|Martin Berasategui|Lasarte-Oria, Spain
+30|Bras Restaurant|Laguiole, France
+31|Biko|Mexico City, Mexico
+32|Le Calandre|Rubano, Italy
+33|Ristorante Cracco|Milan, Italy
+34|The Ledbury|London, UK
+35|Chez Dominique|Helsinki, Finland
+36|Le Quartier Français|Franschhoek, South Africa
+37|Amber|Hong Kong, China
+38|Dal Pescatore|Canneto sull'Oglio, Italy
+39|Il Canto|Siena, Italy
+40|Momofuku Ssäm Bar|New York, USA
+41|St John|London, UK
+42|Astrid y Gastón|Lima, Peru
+43|Hibiscus|London, UK
+44|Maison Troisgros|Lyon, France
+45|Alain Ducasse au Plaza Athénée|Paris, France
+46|De Librije|Zwolle, Netherlands
+47|Restaurant de l'Hotel de Ville|Crissier, Switzerland
+48|Varvary|Moscow, Russia
+49|Pujol|Mexico City, Mexico
+50|Asador Etxebarri|Axpe, Spain

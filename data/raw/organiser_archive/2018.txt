@@ -1,0 +1,50 @@
+1|Osteria Francescana|Modena, Italy
+2|El Celler de Can Roca|Girona, Spain
+3|Mirazur|Menton, France
+4|Eleven Madison Park|New York, USA
+5|Gaggan|Bangkok, Thailand
+6|Central|Lima, Peru
+7|Maido|Lima, Peru
+8|Arpège|Paris, France
+9|Mugaritz|San Sebastian, Spain
+10|Asador Etxebarri|Axpe, Spain
+11|Quintonil|Mexico City, Mexico
+12|Blue Hill at Stone Barns|Pocantico Hills, USA
+13|Pujol|Mexico City, Mexico
+14|Steirereck|Vienna, Austria
+15|White Rabbit|Moscow, Russia
+16|Piazza Duomo|Alba, Italy
+17|Den|Tokyo, Japan
+18|Disfrutar|Barcelona, Spain
+19|Geranium|Copenhagen, Denmark
+20|Attica|Melbourne, Australia
+21|Alain Ducasse au Plaza Athénée|Paris, France
+22|Narisawa|Tokyo, Japan
+23|Le Calandre|Rubano, Italy
+24|Ultraviolet by Paul Pairet|Shanghai, China
+25|Cosme|New York, USA
+26|Le Bernardin|New York, USA
+27|Boragó|Santiago, Chile
+28|Odette|Singapore
+29|Alléno Paris au Pavillon Ledoyen|Paris, France
+30|D.O.M|São Paulo, Brazil
+31|Arzak|San Sebastian, Spain
+32|Tickets|Barcelona, Spain
+33|The Clove Club|London, UK
+34|Alinea|Chicago, USA
+35|Maaemo|Oslo, Norway
+36|Reale|Castel di Sangro, Italy
+37|Restaurant Tim Raue|Berlin, Germany
+38|Lyle's|London, UK
+39|Astrid y Gastón|Lima, Peru
+40|Septime|Paris, France
+41|Nihonryori Ryugin|Tokyo, Japan
+42|The Ledbury|London, UK
+43|Azurmendi|Larrabetzu, Spain
+44|Mikla|Istanbul, Turkey
+45|Dinner by Heston Blumenthal|London, UK
+46|Saison|San Francisco, USA
+47|Schloss Schauenstein|Fürstenau, Switzerland
+48|Hiša Franko|Kobarid, Slovenia
+49|Nahm|Bangkok, Thailand
+50|The Test Kitchen|Cape Town, South Africa

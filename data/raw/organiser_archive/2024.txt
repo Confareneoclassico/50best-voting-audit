@@ -1,0 +1,100 @@
+1|Disfrutar|Barcelona
+2|Asador Etxebarri|Atxondo
+3|Table by Bruno Verjus|Paris
+4|Diverxo|Madrid
+5|Maido|Lima
+6|Atomix|New York
+7|Quintonil|Mexico City
+8|Alchemist|Copenhagen
+9|Gaggan|Bangkok
+10|Don Julio|Buenos Aires
+11|Septime|Paris
+12|Lido 84|Gardone Riviera
+13|Trèsind Studio|Dubai
+14|Quique Dacosta|Dénia
+15|Sézanne|Tokyo
+16|Kjolle|Lima
+17|Kol|London
+18|Plénitude|Paris
+19|Reale|Castel di Sangro
+20|Wing|Hong Kong
+21|Florilège|Tokyo
+22|Steirereck|Vienna
+23|Sühring|Bangkok
+24|Odette|Singapore
+25|El Chato|Bogotá
+26|The Chairman|Hong Kong
+27|A Casa do Porco|São Paulo
+28|Elkano|Getaria
+29|Boragó|Santiago
+30|Restaurant Tim Raue|Berlin
+31|Belcanto|Lisbon
+32|Den|Tokyo
+33|Pujol|Mexico City
+34|Rosetta|Mexico City
+35|Frantzén|Stockholm
+36|The Jane|Antwerp
+37|Oteque|Rio de Janeiro
+38|Sorn|Bangkok
+39|Piazza Duomo|Alba
+40|Le Du|Bangkok
+41|Mayta|Lima
+42|Ikoyi|London
+43|Nobelhart & Schmutzig|Berlin
+44|Mingles|Seoul
+45|Arpège|Paris
+46|SingleThread|Healdsburg
+47|Schloss Schauenstein|Fürstenau
+48|Hiša Franko|Kobarid
+49|La Colombe|Cape Town
+50|Uliassi|Senigallia
+51|Le Calandre|Rubano
+52|Atelier Moessmer Norbert Niederkofler|Brunico
+53|Leo|Bogotá
+54|Kadeau|Copenhagen
+55|Mérito|Lima
+56|Narisawa|Tokyo
+57|Potong|Bangkok
+58|Lasai|Rio de Janeiro
+59|Enigma|Barcelona
+60|Fyn|Cape Town
+61|Nuema|Quito
+62|Coda|Berlin
+63|Bozar|Brussels
+64|Orfali Bros Bistro|Dubai
+65|Brat|London
+66|La Cime|Osaka
+67|Alcalde|Guadalajara
+68|Burnt Ends|Singapore
+69|Fu He Hui|Shanghai
+70|Le Doyenné|Saint-Vrain
+71|Le Bernardin|New York
+72|Aponiente|El Puerto de Santa María
+73|Mil|Cusco
+74|Nusara|Bangkok
+75|Ernst|Berlin
+76|Flocons de Sel|Megève
+77|La Grenouillère|La Madeleine-sous-Montreuil
+78|Masque|Mumbai
+79|Alléno Paris Au Pavillon Ledoyen|Paris
+80|The Clove Club|London
+81|Mugaritz|San Sebastian
+82|Sud 777|Mexico City
+83|Willem Hiele|Oudenburg
+84|Restaurant Jan|Munich
+85|Ceto|Roquebrune-Cap-Martin
+86|Mosu|Seoul
+87|Lyle's|London
+88|Tantris|Munich
+89|Indian Accent|New Delhi
+90|Smyth|Chicago
+91|Neolokal|Istanbul
+92|Labyrinth|Singapore
+93|Sazenka|Tokyo
+94|Mountain|London
+95|Meta|Singapore
+96|Onjium|Seoul
+97|Core by Clare Smyth|London
+98|Saint Peter|Sydney
+99|Cosme|New York
+100|Fauna|Valle De Guadalupe

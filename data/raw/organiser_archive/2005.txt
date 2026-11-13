@@ -1,0 +1,50 @@
+1|The Fat Duck|Maidenhead, UK
+2|El Bulli|Roses, Spain
+3|The French Laundry|Yountville, USA
+4|Tetsuya's|Sydney, Australia
+5|Restaurant Gordon Ramsay|London, UK
+6|Pierre Gagnaire|Paris, France
+7|Per Se|New York, USA
+8|Tom Aikens|London, UK
+9|Jean Georges|New York, USA
+10|St John|London, UK
+11|Bras|Laguiole, France
+12|Le Louis XV|Monaco
+13|Chez Panisse|Berkeley, USA
+14|Charlie Trotter's|Chicago, USA
+15|Gramercy Tavern|New York, USA
+16|Guy Savoy|Paris, France
+17|Alain Ducasse|Paris, France
+18|Sketch|London, UK
+19|The Waterside Inn|London, UK
+20|Nobu|London, UK
+21|Arzak|San Sebastian, Spain
+22|Can Fabes|Barcelona, Spain
+23|Checchino Dal 1887|Rome, Italy
+24|Le Meurice|Paris, France
+25|L'Hotel de Ville|Crissier, Switzerland
+26|Arpège|Paris, France
+27|The Connaught|London, UK
+28|Le Manoir aux Quat'Saisons|Oxford, UK
+29|Le Cinq|Paris, France
+30|Hakkasan|London, UK
+31|Cal Pep|Barcelona, Spain
+32|Masa|New York, USA
+33|Flower Drum|Melbourne, Australia
+34|WD~50|New York, USA
+35|Le Quartier Français|Franschhoek, South Africa
+36|Spice Market|New York, USA
+37|L'Auberge de l'Ill|Illhaeusern, France
+38|Manresa|Port Townsend, USA
+39|Dieter Mueller|Gladbach, Germany
+40|Troisgros|Ouches, France
+41|The Wolseley|London, UK
+42|Rockpool|Sydney, Australia
+43|Yauatcha|London, UK
+44|The Ivy|London, UK
+45|Gambero Rosso|Vernazza, Italy
+46|The Cliff|Durants, Barbados
+47|Le Gavroche|London, UK
+48|Enoteca Pinchiorri|Florence, Italy
+49|Felix|Hong Kong
+50|La Tupina|Bordeaux, France

@@ -1,0 +1,22 @@
+{
+  "title": "A sensitivity audit of The 50 Best Restaurants voting system: code and data",
+  "upload_type": "software",
+  "description": "Code, data and working draft for a sensitivity audit of the voting system behind The 50 Best Restaurants (The World's 50 Best Restaurants until September 2026). The published lists 2002-2026 are assembled from the organiser's archive with documented corrections. The audit separates four levels of evidence: the published rules and lists, limits on the resolution of the list that hold under any distribution of votes, a binomial model of panel noise under scenarios for that distribution, and a global sensitivity analysis (exact factorial Sobol' indices and optimal-transport indices) of the voting rules with a Plackett-Luce ballot model calibrated to the 2026 list. Archived copies of the web sources (Internet Archive) are listed in data/raw/archived_sources.csv.",
+  "creators": [
+    {
+      "name": "Lo Piano, Samuele",
+      "affiliation": "Gdansk University of Technology",
+      "orcid": "0000-0002-2625-483X"
+    }
+  ],
+  "license": "MIT",
+  "keywords": [
+    "sensitivity auditing",
+    "global sensitivity analysis",
+    "rankings",
+    "voting",
+    "optimal transport",
+    "restaurant rankings"
+  ],
+  "version": "1.0.0"
+}

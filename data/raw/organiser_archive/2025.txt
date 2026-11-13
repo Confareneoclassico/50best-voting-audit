@@ -1,0 +1,100 @@
+1|Maido|Lima
+2|Asador Etxebarri|Atxondo
+3|Quintonil|Mexico City
+4|Diverxo|Madrid
+5|Alchemist|Copenhagen
+6|Gaggan|Bangkok
+7|Sézanne|Tokyo
+8|Table by Bruno Verjus|Paris
+9|Kjolle|Lima
+10|Don Julio|Buenos Aires
+11|Wing|Hong Kong
+12|Atomix|New York
+13|Potong|Bangkok
+14|Plénitude|Paris
+15|Ikoyi|London
+16|Lido 84|Gardone Riviera
+17|Sorn|Bangkok
+18|Reale|Castel di Sangro
+19|The Chairman|Hong Kong
+20|Atelier Moessmer Norbert Niederkofler|Brunico
+21|Narisawa|Tokyo
+22|Sühring|Bangkok
+23|Boragó|Santiago
+24|Elkano|Getaria
+25|Odette|Singapore
+26|Mérito|Lima
+27|Trèsind Studio|Dubai
+27|Lasai|Rio de Janeiro
+29|Mingles|Seoul
+30|Le Du|Bangkok
+31|Le Calandre|Rubano
+32|Piazza Duomo|Alba
+33|Steirereck|Vienna
+34|Enigma|Barcelona
+35|Nusara|Bangkok
+36|Florilège|Tokyo
+37|Orfali Bros|Dubai
+38|Frantzén|Stockholm
+39|Mayta|Lima
+40|Septime|Paris
+41|Kadeau|Copenhagen
+42|Belcanto|Lisbon
+43|Uliassi|Senigallia
+44|La Cime|Osaka
+45|Arpège|Paris
+46|Rosetta|Mexico City
+47|Vyn|Skillinge
+48|Celele|Cartagena
+49|Kol|London
+50|Restaurant Jan|Munich
+51|Alcalde|Guadalajara
+52|Schloss Schauenstein|Fürstenau
+53|Den|Tokyo
+54|El Chato|Bogotá
+55|La Colombe|Cape Town
+56|Jordnær|Copenhagen
+57|Onjium|Seoul
+58|Restaurant Tim Raue|Berlin
+59|Nobelhart & Schmutzig|Berlin
+60|Pujol|Mexico City
+61|Nuema|Quito
+62|Willem Hiele|Oudenburg
+63|Bozar|Brussels
+64|Fu He Hui|Shanghai
+65|Quique Dacosta|Dénia
+66|Saint Peter|Sydney
+67|Arca|Tulum
+68|Masque|Mumbai
+69|Hiša Franko|Kobarid
+70|Tuju|São Paulo
+71|Sazenka|Tokyo
+72|Chef Tam's Seasons|Macau
+73|Tantris|Munich
+74|Mountain|London
+75|Mil|Cusco
+76|Leo|Bogotá
+77|Le Doyenné|Saint-Vrain
+78|Cocina Hermanos Torres|Barcelona
+79|Coda|Berlin
+80|SingleThread|Healdsburg
+81|Oteque|Rio de Janeiro
+82|Fyn|Cape Town
+83|A Casa do Porco|São Paulo
+84|Aponiente|El Puerto de Santa María
+85|Txispa|Atxondo
+86|The Clove Club|London
+87|Mugaritz|San Sebastián
+88|Salsify at the Roundhouse|Cape Town
+89|Huniik|Mérida
+90|Le Bernardin|New York
+91|Koan|Copenhagen
+92|Al Gatto Verde|Modena
+93|Burnt Ends|Singapore
+94|Meet the Bund|Shanghai
+95|Evvai|São Paulo
+96|Atelier Crenn|San Francisco
+97|Labyrinth|Singapore
+98|César|New York
+99|Amisfield Restaurant|Queenstown
+100|Neolokal|Istanbul

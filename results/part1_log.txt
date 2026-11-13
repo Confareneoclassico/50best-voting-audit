@@ -1,0 +1,60 @@
+     y0    y1  top  n_both  exits  spearman_survivors  median_abs_change  mean_abs_change  share_moved_10plus  top10_retained  no1_previous_rank
+0  2019  2021  100      75     25               0.788               11.0           13.880               0.533               6                  2
+1  2021  2022  100      72     28               0.650               13.0           17.375               0.556               5                  2
+2  2022  2023  100      80     20               0.629               16.0           17.925               0.650               6                  2
+3  2023  2024  100      85     15               0.766               10.0           14.388               0.553               8                  2
+4  2024  2025  100      83     17               0.709               12.0           15.831               0.566               8                  5
+5  2025  2026  100      82     18               0.680               13.0           16.841               0.585               6                  2
+     band  n_start  n_both  share_exit_top100  median_abs_change  q75_abs_change  q90_abs_change  share_moved_10plus  share_moved_25plus
+0    1-10       60      51              0.150                3.0            5.00            14.0               0.118               0.059
+1   11-25       90      86              0.044                8.5           15.00            27.0               0.430               0.140
+2   26-50      150     142              0.053               14.0           22.00            33.0               0.641               0.211
+3   51-75      150     116              0.227               18.0           26.00            40.0               0.698               0.310
+4  76-100      150      82              0.453               17.0           32.75            45.0               0.720               0.366
+dest     1-50  51-100  out of top 100
+half0                                
+1-50    0.753   0.177            0.07
+51-100  0.207   0.453            0.34
+    year                    no1  prev_rank  repeat                   heir  no1_is_heir  bob_era
+0   2003     The French Laundry          3   False               El Bulli        False    False
+1   2004     The French Laundry          1    True     The French Laundry         True    False
+2   2005           The Fat Duck          2   False     The French Laundry        False    False
+3   2006               El Bulli          2   False           The Fat Duck        False    False
+4   2007               El Bulli          1    True               El Bulli         True    False
+5   2008               El Bulli          1    True               El Bulli         True    False
+6   2009               El Bulli          1    True               El Bulli         True    False
+7   2010                   Noma          3   False               El Bulli        False    False
+8   2011                   Noma          1    True                   Noma         True    False
+9   2012                   Noma          1    True                   Noma         True    False
+10  2013  El Celler de Can Roca          2   False                   Noma        False    False
+11  2014                   Noma          2   False  El Celler de Can Roca        False    False
+12  2015  El Celler de Can Roca          2   False                   Noma        False    False
+13  2016    Osteria Francescana          2   False  El Celler de Can Roca        False    False
+14  2017    Eleven Madison Park          3   False    Osteria Francescana        False    False
+15  2018    Osteria Francescana          2   False    Eleven Madison Park        False    False
+16  2019                Mirazur          3   False                Mirazur         True     True
+17  2021                   Noma          2   False                   Noma         True     True
+18  2022               Geranium          2   False               Geranium         True     True
+19  2023                Central          2   False                Central         True     True
+20  2024              Disfrutar          2   False              Disfrutar         True     True
+21  2025                  Maido          5   False       Asador Etxebarri        False     True
+22  2026       Asador Etxebarri          2   False       Asador Etxebarri         True     True
+{
+  "top100_transitions": 6,
+  "pairs_pooled": 600,
+  "pairs_in_both": 477,
+  "spearman_survivors_top100_median": 0.6945979815506703,
+  "spearman_survivors_top100_range": [
+    0.6292076887013597,
+    0.7875960170697013
+  ],
+  "top50_from_y0_in_y1_51_100_or_out": 0.2466666666666667,
+  "half2_to_top50": 0.20666666666666667,
+  "half2_out_of_top100": 0.34,
+  "half1_out_of_top100": 0.07,
+  "bob_era_no1_is_heir": "6/7",
+  "pre_bob_changes_no1_was_prev2": "7/10",
+  "pre_bob_repeats": "6/16",
+  "top50_since2010_spearman_median": 0.7139836907278768,
+  "top50_since2010_survivors_median": 40.0
+}

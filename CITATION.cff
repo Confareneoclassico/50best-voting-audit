@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite it as below."
+title: "A sensitivity audit of The 50 Best Restaurants voting system: code and data"
+type: software
+authors:
+  - family-names: "Lo Piano"
+    given-names: "Samuele"
+    orcid: "https://orcid.org/0000-0002-2625-483X"
+    affiliation: "Gdansk University of Technology"
+version: "1.0.0"
+license: MIT
+repository-code: "https://github.com/Confareneoclassico/50best-voting-audit"
+# doi: added once Zenodo has minted it
+keywords:
+  - sensitivity auditing
+  - global sensitivity analysis
+  - rankings
+  - voting
+  - optimal transport
+  - restaurant rankings

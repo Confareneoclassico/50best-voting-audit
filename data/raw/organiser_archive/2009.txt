@@ -1,0 +1,50 @@
+1|El Bulli|Roses
+2|The Fat Duck|Maidenhead
+3|Noma|Copenhagen
+4|Mugaritz|San Sebastian
+5|El Celler de Can Roca|Girona
+6|Per Se|New York
+7|Bras|Laguiole
+8|Arzak|San Sebastian
+9|Pierre Gagnaire|Paris
+10|Alinea|Chicago
+11|L'Astrance|Paris
+12|The French Laundry|Yountville
+13|Osteria Francescana|Modena
+14|St John|London
+15|Le Bernardin|New York
+16|L'Hotel de Ville - Philippe Rochat|Crissier
+17|Tetsuya's|Sydney
+18|L'Atelier Saint Germain De Joël Robuchon|Paris
+19|Jean Georges|New York
+20|Narisawa|Tokyo
+21|Chez Dominique|Copenhagen, Finland
+22|Ristorante Cracco|Milan
+23|Die Schwarzaldstube|Baiersbronn
+24|D.O.M.|São Paulo
+25|Vendôme|Bergisch Gladbach
+26|Hof van Cleve|Kruishoutem
+27|Masa|New York
+28|Gambero Rosso|Vernazza
+29|Oud Sluis|Sluis
+30|Steirereck|Vienna
+31|Momofuku Ssäm Bar|New York
+32|Oaxen Krog|Stockholm
+33|Martin Berasategui|Lasarte-Oria
+34|Nobu|London
+35|Mirazur|Menton
+36|Hakkasan|London
+37|Le Quartier Français|Franschhoek
+38|La Colombe|Cape Town
+39|Asador Etxebarri|Axpe
+40|Le Chateaubriand|Paris
+41|Daniel|New York
+42|Combal Zero|Rivoli
+43|Le Louis XV|Monaco
+44|Tantris|München
+45|Iggy's|Singapore
+46|Quay|Sydney
+47|Les Ambassadeurs|Paris
+48|Dal Pescatore|Canneto sull'Oglio
+49|Le Calandre|Rubano
+50|Mathias Dhalgren|Stockholm

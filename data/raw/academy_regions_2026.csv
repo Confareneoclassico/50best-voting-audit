@@ -1,0 +1,62 @@
+country,region
+Spain,Spain & Portugal
+Portugal,Spain & Portugal
+Thailand,Southeast Asia (North)
+Vietnam,Southeast Asia (North)
+Cambodia,Southeast Asia (North)
+Philippines,Southeast Asia (North)
+Singapore,Southeast Asia (South)
+Malaysia,Southeast Asia (South)
+Indonesia,Southeast Asia (South)
+Denmark,Scandinavia & Baltics
+Sweden,Scandinavia & Baltics
+Norway,Scandinavia & Baltics
+Finland,Scandinavia & Baltics
+Iceland,Scandinavia & Baltics
+Estonia,Scandinavia & Baltics
+Mexico,Mexico & Central America
+Panama,Mexico & Central America
+Guatemala,Mexico & Central America
+Costa Rica,Mexico & Central America
+Hong Kong,"Hong Kong, Macau & Taiwan"
+Macau,"Hong Kong, Macau & Taiwan"
+Taiwan,"Hong Kong, Macau & Taiwan"
+Peru,South America (North) & the Caribbean
+Colombia,South America (North) & the Caribbean
+Ecuador,South America (North) & the Caribbean
+Venezuela,South America (North) & the Caribbean
+Barbados,South America (North) & the Caribbean
+Chile,"South America (South, excl. Brazil)"
+Argentina,"South America (South, excl. Brazil)"
+Uruguay,"South America (South, excl. Brazil)"
+Brazil,Brazil
+France,France
+Monaco,France
+South Korea,Korea
+Germany,Germany
+Italy,Italy
+China,Mainland China
+India,India & Subcontinent
+United Arab Emirates,Middle East
+Lebanon,Middle East
+Austria,"Austria, Switzerland, Hungary & Slovenia"
+Switzerland,"Austria, Switzerland, Hungary & Slovenia"
+Hungary,"Austria, Switzerland, Hungary & Slovenia"
+Slovenia,"Austria, Switzerland, Hungary & Slovenia"
+South Africa,South & East Africa
+Kenya,South & East Africa
+Mauritius,South & East Africa
+Egypt,North & West Africa
+Morocco,North & West Africa
+Belgium,Benelux
+Netherlands,Benelux
+United Kingdom,UK & Ireland
+Ireland,UK & Ireland
+Australia,Oceania
+New Zealand,Oceania
+Japan,Japan
+Türkiye,"Türkiye, Greece & the Balkans"
+Greece,"Türkiye, Greece & the Balkans"
+Russia,"Russia, Central Asia & Eastern Europe"
+United States,USA_CANADA_BY_CITY
+Canada,USA_CANADA_BY_CITY

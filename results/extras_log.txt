@@ -1,0 +1,465 @@
+{
+ "moves_2025_2026_M8": {
+  "n": 82,
+  "beyond_redraw_band": 19,
+  "beyond_renewal_band": 28,
+  "expected_beyond_by_chance": 8.200000000000001,
+  "names_beyond_redraw": [
+   [
+    "Gaggan",
+    6,
+    2.0
+   ],
+   [
+    "Don Julio",
+    10,
+    44.0
+   ],
+   [
+    "Wing",
+    11,
+    5.0
+   ],
+   [
+    "Ikoyi",
+    15,
+    48.0
+   ],
+   [
+    "The Chairman",
+    19,
+    6.0
+   ],
+   [
+    "Narisawa",
+    21,
+    59.0
+   ],
+   [
+    "Odette",
+    25,
+    15.0
+   ],
+   [
+    "Mérito",
+    26,
+    13.0
+   ],
+   [
+    "Kadeau",
+    41,
+    8.0
+   ],
+   [
+    "Rosetta",
+    46,
+    96.0
+   ],
+   [
+    "Vyn",
+    47,
+    23.0
+   ],
+   [
+    "Restaurant Jan",
+    50,
+    19.0
+   ],
+   [
+    "Den",
+    53,
+    91.0
+   ],
+   [
+    "Masque",
+    68,
+    26.0
+   ],
+   [
+    "Tuju",
+    70,
+    16.0
+   ],
+   [
+    "SingleThread",
+    80,
+    93.0
+   ],
+   [
+    "Aponiente",
+    84,
+    100.0
+   ],
+   [
+    "Al Gatto Verde",
+    92,
+    24.0
+   ],
+   [
+    "Meet the Bund",
+    94,
+    21.0
+   ]
+  ],
+  "bands": {
+   "renewal 1-10": [
+    -2.0,
+    3.0
+   ],
+   "renewal 11-25": [
+    -6.0,
+    11.0
+   ],
+   "renewal 26-50": [
+    -13.0,
+    28.0
+   ],
+   "renewal 51-75": [
+    -23.0,
+    30.0
+   ],
+   "renewal 76-100": [
+    -38.0,
+    13.0
+   ],
+   "redraw 1-10": [
+    -2.0,
+    7.0
+   ],
+   "redraw 11-25": [
+    -8.0,
+    33.0
+   ],
+   "redraw 26-50": [
+    -20.0,
+    47.0
+   ],
+   "redraw 51-75": [
+    -37.0,
+    33.0
+   ],
+   "redraw 76-100": [
+    -57.0,
+    11.0
+   ]
+  }
+ },
+ "moves_2025_2026_H8": {
+  "n": 82,
+  "beyond_redraw_band": 20,
+  "beyond_renewal_band": 31,
+  "expected_beyond_by_chance": 8.200000000000001,
+  "names_beyond_redraw": [
+   [
+    "Gaggan",
+    6,
+    2.0
+   ],
+   [
+    "Don Julio",
+    10,
+    44.0
+   ],
+   [
+    "Wing",
+    11,
+    5.0
+   ],
+   [
+    "Ikoyi",
+    15,
+    48.0
+   ],
+   [
+    "The Chairman",
+    19,
+    6.0
+   ],
+   [
+    "Narisawa",
+    21,
+    59.0
+   ],
+   [
+    "Odette",
+    25,
+    15.0
+   ],
+   [
+    "Mérito",
+    26,
+    13.0
+   ],
+   [
+    "Le Du",
+    30,
+    74.0
+   ],
+   [
+    "Kadeau",
+    41,
+    8.0
+   ],
+   [
+    "Rosetta",
+    46,
+    96.0
+   ],
+   [
+    "Vyn",
+    47,
+    23.0
+   ],
+   [
+    "Restaurant Jan",
+    50,
+    19.0
+   ],
+   [
+    "Den",
+    53,
+    91.0
+   ],
+   [
+    "Masque",
+    68,
+    26.0
+   ],
+   [
+    "Tuju",
+    70,
+    16.0
+   ],
+   [
+    "SingleThread",
+    80,
+    93.0
+   ],
+   [
+    "Aponiente",
+    84,
+    100.0
+   ],
+   [
+    "Al Gatto Verde",
+    92,
+    24.0
+   ],
+   [
+    "Meet the Bund",
+    94,
+    21.0
+   ]
+  ],
+  "bands": {
+   "renewal 1-10": [
+    -1.0,
+    2.0
+   ],
+   "renewal 11-25": [
+    -5.0,
+    9.0
+   ],
+   "renewal 26-50": [
+    -12.0,
+    23.0
+   ],
+   "renewal 51-75": [
+    -21.0,
+    28.0
+   ],
+   "renewal 76-100": [
+    -34.0,
+    14.0
+   ],
+   "redraw 1-10": [
+    -2.0,
+    6.0
+   ],
+   "redraw 11-25": [
+    -7.0,
+    24.0
+   ],
+   "redraw 26-50": [
+    -18.0,
+    44.0
+   ],
+   "redraw 51-75": [
+    -33.0,
+    32.0
+   ],
+   "redraw 76-100": [
+    -51.0,
+    12.0
+   ]
+  }
+ },
+ "geography_official_rules": {
+  "Japan": {
+   "published_in_top50": 0,
+   "sim_mean": 1.25,
+   "sim_dist": {
+    "0": 0.19791666666666666,
+    "1": 0.4375,
+    "2": 0.28125,
+    "3": 0.08333333333333333
+   }
+  },
+  "Thailand": {
+   "published_in_top50": 5,
+   "sim_mean": 4.947916666666667,
+   "sim_dist": {
+    "4": 0.17708333333333334,
+    "5": 0.6979166666666666,
+    "6": 0.125
+   }
+  },
+  "United States": {
+   "published_in_top50": 1,
+   "sim_mean": 1.0833333333333333,
+   "sim_dist": {
+    "1": 0.9166666666666666,
+    "2": 0.08333333333333333
+   }
+  },
+  "Peru": {
+   "published_in_top50": 3,
+   "sim_mean": 2.5729166666666665,
+   "sim_dist": {
+    "2": 0.4270833333333333,
+    "3": 0.5729166666666666
+   }
+  }
+ },
+ "displacement_cap": {
+  "share_beyond_cap": 0.13836226851851852,
+  "share_beyond_cap_by_curve": {
+   "L8": 0.2284201388888889,
+   "M8": 0.12181423611111111,
+   "H8": 0.06485243055555556
+  },
+  "disp_lower": {
+   "published_rules_mean": 34.66375,
+   "dowdall_minus_approval": 15.376874999999998,
+   "ballot7_minus_ballot10": 7.590625000000003,
+   "S": {
+    "aggregation": 0.1435,
+    "ballot": 0.0565,
+    "cap_share": 0.0014,
+    "allocation": 0.0104,
+    "tiebreak": 0.0,
+    "curve": 0.5901,
+    "home_bias": 0.0051,
+    "noise": 0.1529
+   },
+   "ST": {
+    "aggregation": 0.1663,
+    "ballot": 0.064,
+    "cap_share": 0.0046,
+    "allocation": 0.0338,
+    "tiebreak": 0.0,
+    "curve": 0.6121,
+    "home_bias": 0.0125,
+    "noise": 0.1529
+   }
+  },
+  "disp_uncapped": {
+   "published_rules_mean": 42.57666666666667,
+   "dowdall_minus_approval": 35.60083333333333,
+   "ballot7_minus_ballot10": 18.54145833333333,
+   "S": {
+    "aggregation": 0.0893,
+    "ballot": 0.042,
+    "cap_share": 0.0013,
+    "allocation": 0.0013,
+    "tiebreak": 0.0001,
+    "curve": 0.6409,
+    "home_bias": 0.0004,
+    "noise": 0.1461
+   },
+   "ST": {
+    "aggregation": 0.1372,
+    "ballot": 0.0642,
+    "cap_share": 0.002,
+    "allocation": 0.0165,
+    "tiebreak": 0.0,
+    "curve": 0.7084,
+    "home_bias": 0.0042,
+    "noise": 0.1461
+   }
+  }
+ },
+ "named_intervals": [
+  {
+   "rank": 1,
+   "name": "Asador Etxebarri",
+   "part3_official": [
+    1.0,
+    1.0
+   ],
+   "part3_all_rules": [
+    1.0,
+    1.0
+   ],
+   "part2_M8": [
+    1.0,
+    1.0
+   ],
+   "part2_H8": [
+    1.0,
+    1.0
+   ],
+   "part3_official_p_top50": 1.0
+  },
+  {
+   "rank": 2,
+   "name": "Gaggan",
+   "part3_official": [
+    2.0,
+    3.0
+   ],
+   "part3_all_rules": [
+    2.0,
+    3.0
+   ],
+   "part2_M8": [
+    2.0,
+    3.0
+   ],
+   "part2_H8": [
+    2.0,
+    2.0
+   ],
+   "part3_official_p_top50": 1.0
+  },
+  {
+   "rank": 10,
+   "name": "Plénitude",
+   "part3_official": [
+    7.75,
+    16.25
+   ],
+   "part3_all_rules": [
+    6.0,
+    18.0
+   ],
+   "part2_M8": [
+    7.0,
+    17.0
+   ],
+   "part2_H8": [
+    7.0,
+    16.0
+   ],
+   "part3_official_p_top50": 1.0
+  },
+  {
+   "rank": 15,
+   "name": "Odette",
+   "part3_official": [
+    11.0,
+    28.25
+   ],
+   "part3_all_rules": [
+    10.0,
+    39.

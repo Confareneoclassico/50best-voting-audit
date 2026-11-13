@@ -1,0 +1,50 @@
+1|Noma|Copenhagen, Denmark
+2|El Celler de Can Roca|Girona, Spain
+3|Osteria Francescana|Modena, Italy
+4|Eleven Madison Park|New York, USA
+5|Dinner by Heston Blumenthal|London, UK
+6|Mugaritz|San Sebastian, Spain
+7|D.O.M.|Sao Paulo, Brazil
+8|Arzak|San Sebastian, Spain
+9|Alinea|Chicago, USA
+10|The Ledbury|London, UK
+11|Mirazur|Menton, France
+12|Vendôme|Bergisch Gladbach, Germany
+13|Nahm|Bangkok, Thailand
+14|Narisawa|Tokyo, Japan
+15|Central|Lima, Peru
+16|Steirereck|Vienna, Austria
+17|Gaggan|Bangkok, Thailand
+18|Astrid y Gastón|Lima, Peru
+19|Fäviken|Järpen, Sweden
+20|Pujol|Mexico City, Mexico
+21|Le Bernardin|New York, USA
+22|Vila Joya|Albufeira, Portugal
+23|Restaurant Frantzén|Stockholm, Sweden
+24|Amber|Hong Kong, China
+25|Arpège|Paris, France
+26|Azurmendi|Larrabetzu, Spain
+27|Le Chateaubriand|Paris, France
+28|Aqua|Wolfsburg, Germany
+29|De Librije|Zwolle, Netherlands
+30|Per Se|New York, USA
+31|L'Atelier Saint Germain De Joël Robuchon|Paris, France
+32|Attica|Melbourne, Australia
+33|Nihonryori Ryugin|Tokyo, Japan
+34|Asador Etxebarri|Axpe, Spain
+35|Martín Berasategui|Lasarte-Oria, Spain
+36|Maní|São Paulo, Brazil
+37|Restaurant André|Singapore
+38|L'Astrance|Paris, France
+39|Piazza Duomo|Alba, Italy
+40|Daniel|New York, USA
+41|Quique Dacosta|Denia, Spain
+42|Geranium|Copenhagen, Denmark
+43|Schloss Schauenstein|Fürstenau, Switzerland
+44|The French Laundry|Yountville, USA
+45|Hof van Cleve|Kruishoutem, Belgium
+46|Le Calandre|Rubano, Italy
+47|The Fat Duck|Bray, UK
+48|The Test Kitchen|Cape Town, South Africa
+49|Coi|San Francisco, USA
+50|Waku Ghin|Singapore

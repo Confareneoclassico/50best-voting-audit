@@ -1,0 +1,1571 @@
+rank,name,city,year,source,country,rid,region,europe
+1,El Bulli,Roses,2002,organiser_archive/2002.txt,Spain,el bulli,,False
+2,Restaurant Gordon Ramsay,London,2002,organiser_archive/2002.txt,United Kingdom,gordon ramsay,,False
+3,The French Laundry,Yountville,2002,organiser_archive/2002.txt,United States,the french laundry,,False
+4,Rockpool,Sydney,2002,organiser_archive/2002.txt,Australia,rockpool,,False
+5,Spoon des Iles,Ile Maurice,2002,organiser_archive/2002.txt,Mauritius,spoon des iles,,False
+6,L'Auberge de l'Ill,Alsace,2002,organiser_archive/2002.txt,France,l auberge de l ill,,False
+7,1884,Godoy Cruz,2002,organiser_archive/2002.txt,Argentina,1884,,False
+8,The Ivy,London,2002,organiser_archive/2002.txt,United Kingdom,the ivy,,False
+9,Eigensinn Farm,Singhampton,2002,organiser_archive/2002.txt,Canada,eigensinn farm,,False
+10,Tetsuya's,Sydney,2002,organiser_archive/2002.txt,Australia,tetsuya s,,False
+11,Charlie Trotter's,Chicago,2002,organiser_archive/2002.txt,United States,charlie trotter s,,False
+12,Tangerine,Philadelphia,2002,organiser_archive/2002.txt,United States,tangerine,,False
+13,La Coupole,Paris,2002,organiser_archive/2002.txt,France,la coupole,,False
+14,Bukhara,New Delhi,2002,organiser_archive/2002.txt,India,bukhara,,False
+15,Vong,New York,2002,organiser_archive/2002.txt,United States,vong,,False
+16,L'Ambroisie,Paris,2002,organiser_archive/2002.txt,France,l ambroisie,,False
+17,Al Mahara,Dubai,2002,organiser_archive/2002.txt,United Arab Emirates,al mahara,,False
+18,Felix,Hong Kong,2002,organiser_archive/2002.txt,Hong Kong,felix,,False
+19,The Merchant House,Portsmouth,2002,organiser_archive/2002.txt,United Kingdom,the merchant house,,False
+20,Operakällaren,Stockholm,2002,organiser_archive/2002.txt,Sweden,operakallaren,,False
+21,Gramercy Tavern,New York,2002,organiser_archive/2002.txt,United States,gramercy tavern,,False
+22,Sukiyabashi Jiro,Tokyo,2002,organiser_archive/2002.txt,Japan,sukiyabashi jiro,,False
+23,Little Washington,Washington,2002,organiser_archive/2002.txt,United States,little washington,,False
+24,Alle Testiere,Venice,2002,organiser_archive/2002.txt,Italy,alle testiere,,False
+25,The Lone Star,Mount Standfast,2002,organiser_archive/2002.txt,Barbados,the lone star,,False
+26,Chez Vroney,Zermatt,2002,organiser_archive/2002.txt,Switzerland,chez vroney,,False
+27,Flower Drum,Melbourne,2002,organiser_archive/2002.txt,Australia,flower drum,,False
+28,The Three Chimneys,Isle of Skye,2002,organiser_archive/2002.txt,United Kingdom,the three chimneys,,False
+29,Chez Panisse,Berkeley,2002,organiser_archive/2002.txt,United States,chez panisse,,False
+30,Le Jardin des Sens,Montpellier,2002,organiser_archive/2002.txt,France,le jardin des sens,,False
+31,River Café,London,2002,organiser_archive/2002.txt,United Kingdom,river cafe,,False
+32,Kronenhalle,Zürich,2002,organiser_archive/2002.txt,Switzerland,kronenhalle,,False
+33,Il Pescatore,Orlando,2002,organiser_archive/2002.txt,United States,il pescatore,,False
+34,Nepenthe,Big Sur,2002,organiser_archive/2002.txt,United States,nepenthe,,False
+35,The Spa,Lamai Beach,2002,organiser_archive/2002.txt,Thailand,the spa,,False
+36,Hotel de Paris,Monaco,2002,organiser_archive/2002.txt,Monaco,le louis xv,,False
+37,Moulin de Mougin,Mougins,2002,organiser_archive/2002.txt,France,moulin de mougin,,False
+38,Ginza Sushiko,Beverly Hills,2002,organiser_archive/2002.txt,United States,ginza sushiko,,False
+39,Changa,Istanbul,2002,organiser_archive/2002.txt,Türkiye,changa,,False
+40,Michel Bras,Laguiole,2002,organiser_archive/2002.txt,France,michel bras,,False
+41,Le Quartier Français,Franschhoek,2002,organiser_archive/2002.txt,South Africa,le quartier francais,,False
+42,Roundwood House,County Laois,2002,organiser_archive/2002.txt,Ireland,roundwood house,,False
+43,The Supper Club,Amsterdam,2002,organiser_archive/2002.txt,Netherlands,the supper club,,False
+44,Blue Lagoon,Grindavik,2002,organiser_archive/2002.txt,Iceland,blue lagoon,,False
+45,Bayona,New Orleans,2002,organiser_archive/2002.txt,United States,bayona,,False
+46,The Grundel,Budapest,2002,organiser_archive/2002.txt,Hungary,the grundel,,False
+47,Carnivore,Nairobi,2002,organiser_archive/2002.txt,Kenya,carnivore,,False
+48,Bagatelle,Oslo,2002,organiser_archive/2002.txt,Norway,bagatelle,,False
+49,Susar,Toronto,2002,organiser_archive/2002.txt,Canada,susar,,False
+50,Tantris,München,2002,organiser_archive/2002.txt,Germany,tantris,,False
+1,The French Laundry,Yountville,2003,organiser_archive/2003.txt,United States,the french laundry,,False
+2,El Bulli,Roses,2003,organiser_archive/2003.txt,Spain,el bulli,,False
+3,Le Louis XV,Monaco,2003,organiser_archive/2003.txt,Monaco,le louis xv,,False
+4,Jean Georges,New York,2003,organiser_archive/2003.txt,United States,jean georges,,False
+5,Restaurant Gordon Ramsay,London,2003,organiser_archive/2003.txt,United Kingdom,gordon ramsay,,False
+6,Arpège,Paris,2003,organiser_archive/2003.txt,France,arpege,,False
+7,Comme Chez Soi,Brussels,2003,organiser_archive/2003.txt,Belgium,comme chez soi,,False
+8,Rockpool,Sydney,2003,organiser_archive/2003.txt,Australia,rockpool,,False
+9,L'Ambroisie,Paris,2003,organiser_archive/2003.txt,France,l ambroisie,,False
+10,Gramercy Tavern,New York,2003,organiser_archive/2003.txt,United States,gramercy tavern,,False
+11,Michel Bras,"Laguiole, France",2003,organiser_archive/2003.txt,France,michel bras,,False
+12,Chez Panisse,Berkeley,2003,organiser_archive/2003.txt,United States,chez panisse,,False
+13,Pierre Gagnaire,Paris,2003,organiser_archive/2003.txt,France,pierre gagnaire,,False
+14,The Merchant House,London,2003,organiser_archive/2003.txt,United Kingdom,the merchant house,,False
+15,Bocca,Tallinn,2003,organiser_archive/2003.txt,Estonia,bocca,,False
+16,Sukiyabashi Jiro,Tokyo,2003,organiser_archive/2003.txt,Japan,sukiyabashi jiro,,False
+17,Felix,Hong Kong,2003,organiser_archive/2003.txt,Hong Kong,felix,,False
+18,L'Auberge de l'Ill,Illhaeusern,2003,organiser_archive/2003.txt,France,l auberge de l ill,,False
+19,Gidleigh Park,Changford,2003,organiser_archive/2003.txt,United Kingdom,gidleigh park,,False
+20,Bukhara,New Delhi,2003,organiser_archive/2003.txt,India,bukhara,,False
+21,Paul Boscoe,France,2003,organiser_archive/2003.txt,France,paul boscoe,,False
+22,De Karmeliet,Bruges,2003,organiser_archive/2003.txt,Belgium,de karmeliet,,False
+23,Al Mahara,"Dubai, UAE",2003,organiser_archive/2003.txt,United Arab Emirates,al mahara,,False
+24,Vincent Guerithault on Camelback,Phoenix,2003,organiser_archive/2003.txt,United States,vincent guerithault on camelback,,False
+25,Thorton's,Dublin,2003,organiser_archive/2003.txt,Ireland,thorton s,,False
+26,Nobu,London,2003,organiser_archive/2003.txt,United Kingdom,nobu,,False
+27,Operakällaren,Stockholm,2003,organiser_archive/2003.txt,Sweden,operakallaren,,False
+28,Eigensinn Farm,Singhampton,2003,organiser_archive/2003.txt,Canada,eigensinn farm,,False
+29,Le Manoir aux Quat'Saison,Oxford,2003,organiser_archive/2003.txt,United Kingdom,le manoir aux quat saisons,,False
+30,Guy Savoy,Paris,2003,organiser_archive/2003.txt,France,guy savoy,,False
+31,The Ivy,London,2003,organiser_archive/2003.txt,United Kingdom,the ivy,,False
+32,The Three Chimneys,Isle of Skye,2003,organiser_archive/2003.txt,United Kingdom,the three chimneys,,False
+33,Petrus,London,2003,organiser_archive/2003.txt,United Kingdom,petrus,,False
+34,Daniel,New York,2003,organiser_archive/2003.txt,United States,daniel,,False
+35,Dal Pescatore,Canneto sull'Oglio,2003,organiser_archive/2003.txt,Italy,dal pescatore,,False
+36,Bagatelle,"Oslo, Norway",2003,organiser_archive/2003.txt,Norway,bagatelle,,False
+37,Tetsuya's,Sydney,2003,organiser_archive/2003.txt,Australia,tetsuya s,,False
+38,Quattro Passi,Massa Lubrense,2003,organiser_archive/2003.txt,Italy,quattro passi,,False
+39,Charlie Trotter's,Chicago,2003,organiser_archive/2003.txt,United States,charlie trotter s,,False
+40,Arzak,San Sebastian,2003,organiser_archive/2003.txt,Spain,arzak,,False
+41,Flower Drum,Melbourne,2003,organiser_archive/2003.txt,Australia,flower drum,,False
+42,The Cliff,Durants,2003,organiser_archive/2003.txt,Barbados,the cliff,,False
+43,The Square,London,2003,organiser_archive/2003.txt,United Kingdom,the square,,False
+44,Enoteca Pinchiorri,Florence,2003,organiser_archive/2003.txt,Italy,enoteca pinchiorri,,False
+45,1884,Godoy Cruz,2003,organiser_archive/2003.txt,Argentina,1884,,False
+46,Checchino Dal 1887,Rome,2003,organiser_archive/2003.txt,Italy,checchino dal 1887,,False
+47,River Café,London,2003,organiser_archive/2003.txt,United Kingdom,river cafe,,False
+48,New York Grill,Tokyo,2003,organiser_archive/2003.txt,Japan,new york grill,,False
+49,St John,London,2003,organiser_archive/2003.txt,United Kingdom,st john,,False
+50,Carnivore,Nairobi,2003,organiser_archive/2003.txt,Kenya,carnivore,,False
+1,The French Laundry,"Yountville, USA",2004,organiser_archive/2004.txt,United States,the french laundry,,False
+2,The Fat Duck,"Maidenhead, UK",2004,organiser_archive/2004.txt,United Kingdom,the fat duck,,False
+3,El Bulli,"Roses, Spain",2004,organiser_archive/2004.txt,Spain,el bulli,,False
+4,L'Atelier Saint Germain De Joël Robuchon,"Paris, France",2004,organiser_archive/2004.txt,France,l atelier saint germain de joel robuchon,,False
+5,Pierre Gagnaire,"Paris, France",2004,organiser_archive/2004.txt,France,pierre gagnaire,,False
+6,Guy Savoy,"Paris, France",2004,organiser_archive/2004.txt,France,guy savoy,,False
+7,Nobu,"London, UK",2004,organiser_archive/2004.txt,United Kingdom,nobu,,False
+8,Restaurant Gordon Ramsay,"London, UK",2004,organiser_archive/2004.txt,United Kingdom,gordon ramsay,,False
+9,Bras,"Laguiole, France",2004,organiser_archive/2004.txt,France,michel bras,,False
+10,Le Louis XV,Monaco,2004,organiser_archive/2004.txt,Monaco,le louis xv,,False
+11,Gramercy Tavern,"New York, USA",2004,organiser_archive/2004.txt,United States,gramercy tavern,,False
+12,Daniel,"New York, USA",2004,organiser_archive/2004.txt,United States,daniel,,False
+13,Tetsuya's,"Sydney, Australia",2004,organiser_archive/2004.txt,Australia,tetsuya s,,False
+14,Hakkasan,"London, UK",2004,organiser_archive/2004.txt,United Kingdom,hakkasan,,False
+15,The Waterside Inn,"London, UK",2004,organiser_archive/2004.txt,United Kingdom,the waterside inn,,False
+16,St John,"London, UK",2004,organiser_archive/2004.txt,United Kingdom,st john,,False
+17,L'Ami Louis,"Paris, France",2004,organiser_archive/2004.txt,France,l ami louis,,False
+18,Jean Georges,"New York, USA",2004,organiser_archive/2004.txt,United States,jean georges,,False
+19,Le Gavroche,"London, UK",2004,organiser_archive/2004.txt,United Kingdom,le gavroche,,False
+20,Flower Drum,"Melbourne, Australia",2004,organiser_archive/2004.txt,Australia,flower drum,,False
+21,The Merchant House,"London, UK",2004,organiser_archive/2004.txt,United Kingdom,the merchant house,,False
+22,Arzak,"San Sebastian, Spain",2004,organiser_archive/2004.txt,Spain,arzak,,False
+23,Dal Pescatore,"Canneto sull'Oglio, Italy",2004,organiser_archive/2004.txt,Italy,dal pescatore,,False
+24,The Ivy,"London, UK",2004,organiser_archive/2004.txt,United Kingdom,the ivy,,False
+25,Arpège,"Paris, France",2004,organiser_archive/2004.txt,France,arpege,,False
+26,Can Fabes,"Barcelona, Spain",2004,organiser_archive/2004.txt,Spain,can fabes,,False
+27,Die Schwarzaldstube,"Baiersbronn, Germany",2004,organiser_archive/2004.txt,Germany,die schwarzaldstube,,False
+28,The Cliff,"Durants, Barbados",2004,organiser_archive/2004.txt,Barbados,the cliff,,False
+29,Rockpool,"Sydney, Australia",2004,organiser_archive/2004.txt,Australia,rockpool,,False
+30,Le Manoir aux Quat'Saisons,"Oxford, UK",2004,organiser_archive/2004.txt,United Kingdom,le manoir aux quat saisons,,False
+31,Al Mahara,"Dubai, UAE",2004,organiser_archive/2004.txt,United Arab Emirates,al mahara,,False
+32,Charlie Trotter's,"Chicago, USA",2004,organiser_archive/2004.txt,United States,charlie trotter s,,False
+33,Le Jardin des Sens,"Montpellier, France",2004,organiser_archive/2004.txt,France,le jardin des sens,,False
+34,The Square,"London, UK",2004,organiser_archive/2004.txt,United Kingdom,the square,,False
+35,Spago,"Beverly Hills, USA",2004,organiser_archive/2004.txt,United States,spago,,False
+36,Bukhara,"New Delhi, India",2004,organiser_archive/2004.txt,India,bukhara,,False
+37,Chez Panisse,"Berkeley, USA",2004,organiser_archive/2004.txt,United States,chez panisse,,False
+38,Le Meurice,"Paris, France",2004,organiser_archive/2004.txt,France,le meurice,,False
+39,Troisgros,"Ouches, France",2004,organiser_archive/2004.txt,France,maison troisgros,,False
+40,Balthazar,"New York, USA",2004,organiser_archive/2004.txt,United States,balthazar,,False
+41,River Café,"London, UK",2004,organiser_archive/2004.txt,United Kingdom,river cafe,,False
+42,La Tupina,"Bordeaux, France",2004,organiser_archive/2004.txt,France,la tupina,,False
+43,L'Auberge de l'Ill,"Illhaeusern, France",2004,organiser_archive/2004.txt,France,l auberge de l ill,,False
+44,Craft,"New York, USA",2004,organiser_archive/2004.txt,United States,craft,,False
+45,La Tour D'Argent,"Paris, France",2004,organiser_archive/2004.txt,France,la tour d argent,,False
+46,Le Maison de Marc Veyrat,"Manigod, France",2004,organiser_archive/2004.txt,France,le maison de marc veyrat,,False
+47,Felix,Hong Kong,2004,organiser_archive/2004.txt,Hong Kong,felix,,False
+48,De Karmeliet,"Bruges, Belgium",2004,organiser_archive/2004.txt,Belgium,de karmeliet,,False
+49,The Wolseley,"London, UK",2004,organiser_archive/2004.txt,United Kingdom,the wolseley,,False
+50,Gambero Roso,"Vernazza, Italy",2004,organiser_archive/2004.txt,Italy,gambero rosso,,False
+1,The Fat Duck,"Maidenhead, UK",2005,organiser_archive/2005.txt,United Kingdom,the fat duck,,False
+2,El Bulli,"Roses, Spain",2005,organiser_archive/2005.txt,Spain,el bulli,,False
+3,The French Laundry,"Yountville, USA",2005,organiser_archive/2005.txt,United States,the french laundry,,False
+4,Tetsuya's,"Sydney, Australia",2005,organiser_archive/2005.txt,Australia,tetsuya s,,False
+5,Restaurant Gordon Ramsay,"London, UK",2005,organiser_archive/2005.txt,United Kingdom,gordon ramsay,,False
+6,Pierre Gagnaire,"Paris, France",2005,organiser_archive/2005.txt,France,pierre gagnaire,,False
+7,Per Se,"New York, USA",2005,organiser_archive/2005.txt,United States,per se,,False
+8,Tom Aikens,"London, UK",2005,organiser_archive/2005.txt,United Kingdom,tom aikens,,False
+9,Jean Georges,"New York, USA",2005,organiser_archive/2005.txt,United States,jean georges,,False
+10,St John,"London, UK",2005,organiser_archive/2005.txt,United Kingdom,st john,,False
+11,Bras,"Laguiole, France",2005,organiser_archive/2005.txt,France,michel bras,,False
+12,Le Louis XV,Monaco,2005,organiser_archive/2005.txt,Monaco,le louis xv,,False
+13,Chez Panisse,"Berkeley, USA",2005,organiser_archive/2005.txt,United States,chez panisse,,False
+14,Charlie Trotter's,"Chicago, USA",2005,organiser_archive/2005.txt,United States,charlie trotter s,,False
+15,Gramercy Tavern,"New York, USA",2005,organiser_archive/2005.txt,United States,gramercy tavern,,False
+16,Guy Savoy,"Paris, France",2005,organiser_archive/2005.txt,France,guy savoy,,False
+17,Alain Ducasse,"Paris, France",2005,organiser_archive/2005.txt,France,alain ducasse au plaza athenee,,False
+18,Sketch,"London, UK",2005,organiser_archive/2005.txt,United Kingdom,sketch,,False
+19,The Waterside Inn,"London, UK",2005,organiser_archive/2005.txt,United Kingdom,the waterside inn,,False
+20,Nobu,"London, UK",2005,organiser_archive/2005.txt,United Kingdom,nobu,,False
+21,Arzak,"San Sebastian, Spain",2005,organiser_archive/2005.txt,Spain,arzak,,False
+22,Can Fabes,"Barcelona, Spain",2005,organiser_archive/2005.txt,Spain,can fabes,,False
+23,Checchino Dal 1887,"Rome, Italy",2005,organiser_archive/2005.txt,Italy,checchino dal 1887,,False
+24,Le Meurice,"Paris, France",2005,organiser_archive/2005.txt,France,le meurice,,False
+25,L'Hotel de Ville,"Crissier, Switzerland",2005,organiser_archive/2005.txt,Switzerland,l hotel de ville,,False
+26,Arpège,"Paris, France",2005,organiser_archive/2005.txt,France,arpege,,False
+27,The Connaught,"London, UK",2005,organiser_archive/2005.txt,United Kingdom,the connaught,,False
+28,Le Manoir aux Quat'Saisons,"Oxford, UK",2005,organiser_archive/2005.txt,United Kingdom,le manoir aux quat saisons,,False
+29,Le Cinq,"Paris, France",2005,organiser_archive/2005.txt,France,le cinq,,False
+30,Hakkasan,"London, UK",2005,organiser_archive/2005.txt,United Kingdom,hakkasan,,False
+31,Cal Pep,"Barcelona, Spain",2005,organiser_archive/2005.txt,Spain,cal pep,,False
+32,Masa,"New York, USA",2005,organiser_archive/2005.txt,United States,masa,,False
+33,Flower Drum,"Melbourne, Australia",2005,organiser_archive/2005.txt,Australia,flower drum,,False
+34,WD~50,"New York, USA",2005,organiser_archive/2005.txt,United States,wd~50,,False
+35,Le Quartier Français,"Franschhoek, South Africa",2005,organiser_archive/2005.txt,South Africa,le quartier francais,,False
+36,Spice Market,"New York, USA",2005,organiser_archive/2005.txt,United States,spice market,,False
+37,L'Auberge de l'Ill,"Illhaeusern, France",2005,organiser_archive/2005.txt,France,l auberge de l ill,,False
+38,Manresa,"Port Townsend, USA",2005,organiser_archive/2005.txt,United States,manresa,,False
+39,Dieter Mueller,"Gladbach, Germany",2005,organiser_archive/2005.txt,Germany,dieter mueller,,False
+40,Troisgros,"Ouches, France",2005,organiser_archive/2005.txt,France,maison troisgros,,False
+41,The Wolseley,"London, UK",2005,organiser_archive/2005.txt,United Kingdom,the wolseley,,False
+42,Rockpool,"Sydney, Australia",2005,organiser_archive/2005.txt,Australia,rockpool,,False
+43,Yauatcha,"London, UK",2005,organiser_archive/2005.txt,United Kingdom,yauatcha,,False
+44,The Ivy,"London, UK",2005,organiser_archive/2005.txt,United Kingdom,the ivy,,False
+45,Gambero Rosso,"Vernazza, Italy",2005,organiser_archive/2005.txt,Italy,gambero rosso,,False
+46,The Cliff,"Durants, Barbados",2005,organiser_archive/2005.txt,Barbados,the cliff,,False
+47,Le Gavroche,"London, UK",2005,organiser_archive/2005.txt,United Kingdom,le gavroche,,False
+48,Enoteca Pinchiorri,"Florence, Italy",2005,organiser_archive/2005.txt,Italy,enoteca pinchiorri,,False
+49,Felix,Hong Kong,2005,organiser_archive/2005.txt,Hong Kong,felix,,False
+50,La Tupina,"Bordeaux, France",2005,organiser_archive/2005.txt,France,la tupina,,False
+1,El Bulli,"Roses, Spain",2006,organiser_archive/2006.txt,Spain,el bulli,,False
+2,The Fat Duck,"Maidenhead, UK",2006,organiser_archive/2006.txt,United Kingdom,the fat duck,,False
+3,Pierre Gagnaire,"Paris, France",2006,organiser_archive/2006.txt,France,pierre gagnaire,,False
+4,The French Laundry,"Yountville, USA",2006,organiser_archive/2006.txt,United States,the french laundry,,False
+5,Tetsuya's,"Sydney, Australia",2006,organiser_archive/2006.txt,Australia,tetsuya s,,False
+6,Bras,"Laguiole, France",2006,organiser_archive/2006.txt,France,michel bras,,False
+7,Le Louis XV,Monaco,2006,organiser_archive/2006.txt,Monaco,le louis xv,,False
+8,Per Se,"New York, USA",2006,organiser_archive/2006.txt,United States,per se,,False
+9,Arzak,"San Sebastian, Spain",2006,organiser_archive/2006.txt,Spain,arzak,,False
+10,Mugaritz,"Gipuzkoa, Spain",2006,organiser_archive/2006.txt,Spain,mugaritz,,False
+11,Can Fabes,"Barcelona, Spain",2006,organiser_archive/2006.txt,Spain,can fabes,,False
+12,Nobu,"London, UK",2006,organiser_archive/2006.txt,United Kingdom,nobu,,False
+13,Gambero Rosso,"Vernazza, Italy",2006,organiser_archive/2006.txt,Italy,gambero rosso,,False
+14,Restaurant Gordon Ramsay,"London, UK",2006,organiser_archive/2006.txt,United Kingdom,gordon ramsay,,False
+15,Alain Ducasse,"Paris, France",2006,organiser_archive/2006.txt,France,alain ducasse au plaza athenee,,False
+16,Jean Georges,"New York, USA",2006,organiser_archive/2006.txt,United States,jean georges,,False
+17,Le Cinq,"Paris, France",2006,organiser_archive/2006.txt,France,le cinq,,False
+18,Daniel,"New York, USA",2006,organiser_archive/2006.txt,United States,daniel,,False
+19,Oud Sluis,"Sluis, Netherlands",2006,organiser_archive/2006.txt,Netherlands,oud sluis,,False
+20,Chez Panisse,"Berkeley, USA",2006,organiser_archive/2006.txt,United States,chez panisse,,False
+21,El Celler de Can Roca,"Girona, Spain",2006,organiser_archive/2006.txt,Spain,el celler de can roca,,False
+22,L'Astrance,"Paris, France",2006,organiser_archive/2006.txt,France,l astrance,,False
+23,Hof van Cleve,"Kruisem, Belgium",2006,organiser_archive/2006.txt,Belgium,hof van cleve,,False
+24,Troisgros,"Ouches, France",2006,organiser_archive/2006.txt,France,maison troisgros,,False
+25,L'Atelier Saint Germain De Joël Robuchon,"Paris, France",2006,organiser_archive/2006.txt,France,l atelier saint germain de joel robuchon,,False
+26,Charlie Trotter's,"Chicago, USA",2006,organiser_archive/2006.txt,United States,charlie trotter s,,False
+27,Le Gavroche,"London, UK",2006,organiser_archive/2006.txt,United Kingdom,le gavroche,,False
+28,La Colombe,"Cape Town, South Africa",2006,organiser_archive/2006.txt,South Africa,la colombe,,False
+29,Enoteca Pinchiorri,"Florence, Italy",2006,organiser_archive/2006.txt,Italy,enoteca pinchiorri,,False
+30,Rockpool,"Sydney, Australia",2006,organiser_archive/2006.txt,Australia,rockpool,,False
+31,Le Calandre,"Padua, Italy",2006,organiser_archive/2006.txt,Italy,le calandre,,False
+32,Le Bernardin,"New York, USA",2006,organiser_archive/2006.txt,United States,le bernardin,,False
+33,Noma,"Copenhagen, Denmark",2006,organiser_archive/2006.txt,Denmark,noma (original),,False
+34,Dieter Mueller,"Gladbach, Germany",2006,organiser_archive/2006.txt,Germany,dieter mueller,,False
+35,St John,"London, UK",2006,organiser_archive/2006.txt,United Kingdom,st john,,False
+36,Hakkasan,"London, UK",2006,organiser_archive/2006.txt,United Kingdom,hakkasan,,False
+37,Martin Berasategui,"Lasarte-Oria, Spain",2006,organiser_archive/2006.txt,Spain,martin berasategui,,False
+38,Le Quartier Français,"Franschhoek, Aouth Africa",2006,organiser_archive/2006.txt,South Africa,le quartier francais,,False
+39,Chez Dominique,"Helsinki, Finland",2006,organiser_archive/2006.txt,Finland,chez dominique,,False
+40,L'Ambroisie,"Paris, France",2006,organiser_archive/2006.txt,France,l ambroisie,,False
+41,Die Schwarzaldstube,"Baiersbronn, Germany",2006,organiser_archive/2006.txt,Germany,die schwarzaldstube,,False
+42,Dal Pescatore,"Canneto sull'Oglio, Italy",2006,organiser_archive/2006.txt,Italy,dal pescatore,,False
+43,Bocuse,"Lyon, France",2006,organiser_archive/2006.txt,France,bocuse,,False
+44,Arpège,"Paris, France",2006,organiser_archive/2006.txt,France,arpege,,False
+45,Gramercy Tavern,"New York, USA",2006,organiser_archive/2006.txt,United States,gramercy tavern,,False
+46,Bukhara,"New Delhi, India",2006,organiser_archive/2006.txt,India,bukhara,,False
+47,De Karmeliet,"Bruges, Belgium",2006,organiser_archive/2006.txt,Belgium,de karmeliet,,False
+48,Oaxen Krog,"Stockholm, Sweden",2006,organiser_archive/2006.txt,Sweden,oaxen krog,,False
+49,Comme Chez Soi,"Brussels, Belgium",2006,organiser_archive/2006.txt,Belgium,comme chez soi,,False
+50,D.O.M.,"São Paulo, Brazil",2006,organiser_archive/2006.txt,Brazil,dom,,False
+1,El Bulli,"Roses, Spain",2007,organiser_archive/2007.txt,Spain,el bulli,,False
+2,The Fat Duck,"Maidenhead, UK",2007,organiser_archive/2007.txt,United Kingdom,the fat duck,,False
+3,Pierre Gagnaire,"Paris, France",2007,organiser_archive/2007.txt,France,pierre gagnaire,,False
+4,The French Laundry,"Yountville, USA",2007,organiser_archive/2007.txt,United States,the french laundry,,False
+5,Tetsuya's,"Sydney, Australia",2007,organiser_archive/2007.txt,Australia,tetsuya s,,False
+6,Bras,"Laguiole, France",2007,organiser_archive/2007.txt,France,michel bras,,False
+7,Mugaritz,"San Sebastian, Spain",2007,organiser_archive/2007.txt,Spain,mugaritz,,False
+8,Le Louis XV,Monaco,2007,organiser_archive/2007.txt,Monaco,le louis xv,,False
+9,Per Se,"New York, USA",2007,organiser_archive/2007.txt,United States,per se,,False
+10,Arzak,"San Sebastian, Spain",2007,organiser_archive/2007.txt,Spain,arzak,,False
+11,El Celler de Can Roca,"Girona, Spain",2007,organiser_archive/2007.txt,Spain,el celler de can roca,,False
+12,Gambero Rosso,"Vernazza, Italy",2007,organiser_archive/2007.txt,Italy,gambero rosso,,False
+13,L'Atelier Saint Germain De Joël Robuchon,"Paris, France",2007,organiser_archive/2007.txt,France,l atelier saint germain de joel robuchon,,False
+14,Hof van Cleve,"Kruishoutem, Belgium",2007,organiser_archive/2007.txt,Belgium,hof van cleve,,False
+15,Noma,"Copenhagen, Denmark",2007,organiser_archive/2007.txt,Denmark,noma (original),,False
+16,Le Calandre,"Rubano, Italy",2007,organiser_archive/2007.txt,Italy,le calandre,,False
+17,Nobu,"London, UK",2007,organiser_archive/2007.txt,United Kingdom,nobu,,False
+18,Jean Georges,"New York, USA",2007,organiser_archive/2007.txt,United States,jean georges,,False
+19,Hakkasan,"London, UK",2007,organiser_archive/2007.txt,United Kingdom,hakkasan,,False
+20,Alain Ducasse au Plaza Athénée,"Paris, France",2007,organiser_archive/2007.txt,France,alain ducasse au plaza athenee,,False
+21,L'Astrance,"Paris, France",2007,organiser_archive/2007.txt,France,l astrance,,False
+22,Can Fabes,"Barcelona, Spain",2007,organiser_archive/2007.txt,Spain,can fabes,,False
+23,L'Ambroisie,"Paris, France",2007,organiser_archive/2007.txt,France,l ambroisie,,False
+24,Restaurant Gordon Ramsay,"London, UK",2007,organiser_archive/2007.txt,United Kingdom,gordon ramsay,,False
+25,Troisgros,"Paris, France",2007,organiser_archive/2007.txt,France,maison troisgros,,False
+26,Le Bernardin,"New York, USA",2007,organiser_archive/2007.txt,United States,le bernardin,,False
+27,Martin Berasategui,"Lasarte-Oria, Spain",2007,organiser_archive/2007.txt,Spain,martin berasategui,,False
+28,Le Gavroche,"London, UK",2007,organiser_archive/2007.txt,United Kingdom,le gavroche,,False
+29,Le Cinq,"Paris, France",2007,organiser_archive/2007.txt,France,le cinq,,False
+30,Charlie Trotter's,"Chicago, USA",2007,organiser_archive/2007.txt,United States,charlie trotter s,,False
+31,Dal Pescatore,"Canneto sull'Oglio, Italy",2007,organiser_archive/2007.txt,Italy,dal pescatore,,False
+32,Daniel,"New York, USA",2007,organiser_archive/2007.txt,United States,daniel,,False
+33,Rockpool,"Sydney, Australia",2007,organiser_archive/2007.txt,Australia,rockpool,,False
+34,St John,"London, UK",2007,organiser_archive/2007.txt,United Kingdom,st john,,False
+35,Chez Dominique,"Helsinki, Finland",2007,organiser_archive/2007.txt,Finland,chez dominique,,False
+36,Alinea,"Chicago, USA",2007,organiser_archive/2007.txt,United States,alinea,,False
+37,Bukhara,"New Delhi, India",2007,organiser_archive/2007.txt,India,bukhara,,False
+38,D.O.M.,"São Paulo, Brazil",2007,organiser_archive/2007.txt,Brazil,dom,,False
+39,Oaxen Krog,"Stockholm, Sweden",2007,organiser_archive/2007.txt,Sweden,oaxen krog,,False
+40,Chez Panisse,"Berkeley, USA",2007,organiser_archive/2007.txt,United States,chez panisse,,False
+41,Enoteca Pinchiorri,"Florence, Italy",2007,organiser_archive/2007.txt,Italy,enoteca pinchiorri,,False
+42,Cracco Peck,"Milan, Italy",2007,organiser_archive/2007.txt,Italy,ristorante cracco,,False
+43,Arpège,"Paris, France",2007,organiser_archive/2007.txt,France,arpege,,False
+44,River Café,"London, UK",2007,organiser_archive/2007.txt,United Kingdom,river cafe,,False
+45,Oud Sluis,"Sluis, Netherlands",2007,organiser_archive/2007.txt,Netherlands,oud sluis,,False
+46,Combal Zero,"Rivoli, Italy",2007,organiser_archive/2007.txt,Italy,combal zero,,False
+47,Le Quartier Français,"Franschhoek, South Africa",2007,organiser_archive/2007.txt,South Africa,le quartier francais,,False
+48,Taillevent,"Paris, France",2007,organiser_archive/2007.txt,France,taillevent,,False
+49,Bocuse,"Lyon, France",2007,organiser_archive/2007.txt,France,bocuse,,False
+50,Les Ambassadeurs,"Paris, France",2007,organiser_archive/2007.txt,France,les ambassadeurs,,False
+1,El Bulli,"Roses, Spain",2008,organiser_archive/2008.txt,Spain,el bulli,,False
+2,The Fat Duck,"Maidenhead, UK",2008,organiser_archive/2008.txt,United Kingdom,the fat duck,,False
+3,Pierre Gagnaire,"Paris, France",2008,organiser_archive/2008.txt,France,pierre gagnaire,,False
+4,Mugaritz,"San Sebastian, Spain",2008,organiser_archive/2008.txt,Spain,mugaritz,,False
+5,The French Laundry,"Yountville, USA",2008,organiser_archive/2008.txt,United States,the french laundry,,False
+6,Per Se,"New York, USA",2008,organiser_archive/2008.txt,United States,per se,,False
+7,Bras,"Laguiole, France",2008,organiser_archive/2008.txt,France,michel bras,,False
+8,Arzak,"San Sebastian, Spain",2008,organiser_archive/2008.txt,Spain,arzak,,False
+9,Tetsuya's,"Sydney, Australia",2008,organiser_archive/2008.txt,Australia,tetsuya s,,False
+10,Noma,"Copenhagen, Denmark",2008,organiser_archive/2008.txt,Denmark,noma (original),,False
+11,L'Astrance,"Paris, France",2008,organiser_archive/2008.txt,France,l astrance,,False
+12,Gambero Rosso,"Vernazza, Italy",2008,organiser_archive/2008.txt,Italy,gambero rosso,,False
+13,Restaurant Gordon Ramsay,"London, UK",2008,organiser_archive/2008.txt,United Kingdom,gordon ramsay,,False
+14,L'Atelier Saint Germain De Joël Robuchon,"Paris, France",2008,organiser_archive/2008.txt,France,l atelier saint germain de joel robuchon,,False
+15,Le Louis XV,Monaco,2008,organiser_archive/2008.txt,Monaco,le louis xv,,False
+16,St John,"London, UK",2008,organiser_archive/2008.txt,United Kingdom,st john,,False
+17,Jean Georges,"New York, USA",2008,organiser_archive/2008.txt,United States,jean georges,,False
+18,Alain Ducasse au Plaza Athénée,"Paris, France",2008,organiser_archive/2008.txt,France,alain ducasse au plaza athenee,,False
+19,Hakkasan,"London, UK",2008,organiser_archive/2008.txt,United Kingdom,hakkasan,,False
+20,Le Bernardin,"New York, USA",2008,organiser_archive/2008.txt,United States,le bernardin,,False
+21,Alinea,"Chicago, USA",2008,organiser_archive/2008.txt,United States,alinea,,False
+22,Le Gavroche,"London, UK",2008,organiser_archive/2008.txt,United Kingdom,le gavroche,,False
+23,Dal Pescatore,"Canneto sull'Oglio, Italy",2008,organiser_archive/2008.txt,Italy,dal pescatore,,False
+24,Le Cinq,"Paris, France",2008,organiser_archive/2008.txt,France,le cinq,,False
+25,Troisgros,"Paris, France",2008,organiser_archive/2008.txt,France,maison troisgros,,False
+26,El Celler de Can Roca,"Girona, Spain",2008,organiser_archive/2008.txt,Spain,el celler de can roca,,False
+27,L'Hotel de Ville - Philippe Rochat,"Crissier, Switzerland",2008,organiser_archive/2008.txt,Switzerland,l hotel de ville,,False
+28,Hof van Cleve,"Kruishoutem, Belgium",2008,organiser_archive/2008.txt,Belgium,hof van cleve,,False
+29,Martin Berasategui,"Lasarte-Oria, Spain",2008,organiser_archive/2008.txt,Spain,martin berasategui,,False
+30,Nobu,"London, UK",2008,organiser_archive/2008.txt,United Kingdom,nobu,,False
+31,Can Fabes,"Barcelona, Spain",2008,organiser_archive/2008.txt,Spain,can fabes,,False
+32,Enoteca Pinchiorri,"Florence, Italy",2008,organiser_archive/2008.txt,Italy,enoteca pinchiorri,,False
+33,Le Meurice,"Paris, France",2008,organiser_archive/2008.txt,France,le meurice,,False
+34,Vendôme,"Bergisch Gladbach, Germany",2008,organiser_archive/2008.txt,Germany,vendome,,False
+35,Die Schwarzaldstube,"Baiersbronn, Germany",2008,organiser_archive/2008.txt,Germany,die schwarzaldstube,,False
+36,Le Calandre,"Rubano, Italy",2008,organiser_archive/2008.txt,Italy,le calandre,,False
+37,Chez Panisse,"Berkeley, USA",2008,organiser_archive/2008.txt,United States,chez panisse,,False
+38,Charlie Trotter's,"Chicago, USA",2008,organiser_archive/2008.txt,United States,charlie trotter s,,False
+39,Chez Dominique,"Helsinki, Finland",2008,organiser_archive/2008.txt,Finland,chez dominique,,False
+40,D.O.M.,"São Paulo, Brazil",2008,organiser_archive/2008.txt,Brazil,dom,,False
+41,Daniel,"New York, USA",2008,organiser_archive/2008.txt,United States,daniel,,False
+42,Oud Sluis,"Sluis, Netherlands",2008,organiser_archive/2008.txt,Netherlands,oud sluis,,False
+43,Ristorante Cracco,"Milan, Italy",2008,organiser_archive/2008.txt,Italy,ristorante cracco,,False
+44,Asador Etxebarri,"Axte, Spain",2008,organiser_archive/2008.txt,Spain,asador etxebarri,,False
+45,Les Ambassadeurs,"Paris, France",2008,organiser_archive/2008.txt,France,les ambassadeurs,,False
+46,Arpège,"Paris, France",2008,organiser_archive/2008.txt,France,arpege,,False
+47,Tantris,"München, Germany",2008,organiser_archive/2008.txt,Germany,tantris,,False
+48,Oaxen Krog,"Stockholm, Sweden",2008,organiser_archive/2008.txt,Sweden,oaxen krog,,False
+49,Rockpool,"Sydney, Australia",2008,organiser_archive/2008.txt,Australia,rockpool,,False
+50,Le Quartier Français,"Franschhoek, South Africa",2008,organiser_archive/2008.txt,South Africa,le quartier francais,,False
+1,El Bulli,Roses,2009,organiser_archive/2009.txt,Spain,el bulli,,False
+2,The Fat Duck,Maidenhead,2009,organiser_archive/2009.txt,United Kingdom,the fat duck,,False
+3,Noma,Copenhagen,2009,organiser_archive/2009.txt,Denmark,noma (original),,False
+4,Mugaritz,San Sebastian,2009,organiser_archive/2009.txt,Spain,mugaritz,,False
+5,El Celler de Can Roca,Girona,2009,organiser_archive/2009.txt,Spain,el celler de can roca,,False
+6,Per Se,New York,2009,organiser_archive/2009.txt,United States,per se,,False
+7,Bras,Laguiole,2009,organiser_archive/2009.txt,France,michel bras,,False
+8,Arzak,San Sebastian,2009,organiser_archive/2009.txt,Spain,arzak,,False
+9,Pierre Gagnaire,Paris,2009,organiser_archive/2009.txt,France,pierre gagnaire,,False
+10,Alinea,Chicago,2009,organiser_archive/2009.txt,United States,alinea,,False
+11,L'Astrance,Paris,2009,organiser_archive/2009.txt,France,l astrance,,False
+12,The French Laundry,Yountville,2009,organiser_archive/2009.txt,United States,the french laundry,,False
+13,Osteria Francescana,Modena,2009,organiser_archive/2009.txt,Italy,osteria francescana,,False
+14,St John,London,2009,organiser_archive/2009.txt,United Kingdom,st john,,False
+15,Le Bernardin,New York,2009,organiser_archive/2009.txt,United States,le bernardin,,False
+16,L'Hotel de Ville - Philippe Rochat,Crissier,2009,organiser_archive/2009.txt,Switzerland,l hotel de ville,,False
+17,Tetsuya's,Sydney,2009,organiser_archive/2009.txt,Australia,tetsuya s,,False
+18,L'Atelier Saint Germain De Joël Robuchon,Paris,2009,organiser_archive/2009.txt,France,l atelier saint germain de joel robuchon,,False
+19,Jean Georges,New York,2009,organiser_archive/2009.txt,United States,jean georges,,False
+20,Narisawa,Tokyo,2009,organiser_archive/2009.txt,Japan,narisawa,,False
+21,Chez Dominique,"Copenhagen, Finland",2009,organiser_archive/2009.txt,Finland,chez dominique,,False
+22,Ristorante Cracco,Milan,2009,organiser_archive/2009.txt,Italy,ristorante cracco,,False
+23,Die Schwarzaldstube,Baiersbronn,2009,organiser_archive/2009.txt,Germany,die schwarzaldstube,,False
+24,D.O.M.,São Paulo,2009,organiser_archive/2009.txt,Brazil,dom,,False
+25,Vendôme,Bergisch Gladbach,2009,organiser_archive/2009.txt,Germany,vendome,,False
+26,Hof van Cleve,Kruishoutem,2009,organiser_archive/2009.txt,Belgium,hof van cleve,,False
+27,Masa,New York,2009,organiser_archive/2009.txt,United States,masa,,False
+28,Gambero Rosso,Vernazza,2009,organiser_archive/2009.txt,Italy,gambero rosso,,False
+29,Oud Sluis,Sluis,2009,organiser_archive/2009.txt,Netherlands,oud sluis,,False
+30,Steirereck,Vienna,2009,organiser_archive/2009.txt,Austria,steirereck,,False
+31,Momofuku Ssäm Bar,New York,2009,organiser_archive/2009.txt,United States,momofuku ssam bar,,False
+32,Oaxen Krog,Stockholm,2009,organiser_archive/2009.txt,Sweden,oaxen krog,,False
+33,Martin Berasategui,Lasarte-Oria,2009,organiser_archive/2009.txt,Spain,martin berasategui,,False
+34,Nobu,London,2009,organiser_archive/2009.txt,United Kingdom,nobu,,False
+35,Mirazur,Menton,2009,organiser_archive/2009.txt,France,mirazur,,False
+36,Hakkasan,London,2009,organiser_archive/2009.txt,United Kingdom,hakkasan,,False
+37,Le Quartier Français,Franschhoek,2009,organiser_archive/2009.txt,South Africa,le quartier francais,,False
+38,La Colombe,Cape Town,2009,organiser_archive/2009.txt,South Africa,la colombe,,False
+39,Asador Etxebarri,Axpe,2009,organiser_archive/2009.txt,Spain,asador etxebarri,,False
+40,Le Chateaubriand,Paris,2009,organiser_archive/2009.txt,France,le chateaubriand,,False
+41,Daniel,New York,2009,organiser_archive/2009.txt,United States,daniel,,False
+42,Combal Zero,Rivoli,2009,organiser_archive/2009.txt,Italy,combal zero,,False
+43,Le Louis XV,Monaco,2009,organiser_archive/2009.txt,Monaco,le louis xv,,False
+44,Tantris,München,2009,organiser_archive/2009.txt,Germany,tantris,,False
+45,Iggy's,Singapore,2009,organiser_archive/2009.txt,Singapore,iggy s,,False
+46,Quay,Sydney,2009,organiser_archive/2009.txt,Australia,quay,,False
+47,Les Ambassadeurs,Paris,2009,organiser_archive/2009.txt,France,les ambassadeurs,,False
+48,Dal Pescatore,Canneto sull'Oglio,2009,organiser_archive/2009.txt,Italy,dal pescatore,,False
+49,Le Calandre,Rubano,2009,organiser_archive/2009.txt,Italy,le calandre,,False
+50,Mathias Dhalgren,Stockholm,2009,organiser_archive/2009.txt,Sweden,mathias dahlgren,,False
+1,Noma,"Copenhagen, Denmark",2010,organiser_archive/2010.txt,Denmark,noma (original),,False
+2,El Bulli,"Roses, Spain",2010,organiser_archive/2010.txt,Spain,el bulli,,False
+3,The Fat Duck,"Bray, UK",2010,organiser_archive/2010.txt,United Kingdom,the fat duck,,False
+4,El Celler de Can Roca,"Girona, Spain",2010,organiser_archive/2010.txt,Spain,el celler de can roca,,False
+5,Mugaritz,"San Sebastian, Spain",2010,organiser_archive/2010.txt,Spain,mugaritz,,False
+6,Osteria Francescana,"Modena, Italy",2010,organiser_archive/2010.txt,Italy,osteria francescana,,False
+7,Alinea,"Chicago, USA",2010,organiser_archive/2010.txt,United States,alinea,,False
+8,Daniel,"New York, USA",2010,organiser_archive/2010.txt,United States,daniel,,False
+9,Arzak,"San Sebastian, Spain",2010,organiser_archive/2010.txt,Spain,arzak,,False
+10,Per Se,"New York, USA",2010,organiser_archive/2010.txt,United States,per se,,False
+11,Le Chateaubriand,"Paris, France",2010,organiser_archive/2010.txt,France,le chateaubriand,,False
+12,La Colombe,"Cape Town, South Africa",2010,organiser_archive/2010.txt,South Africa,la colombe,,False
+13,Pierre Gagnaire,"Paris, France",2010,organiser_archive/2010.txt,France,pierre gagnaire,,False
+14,L'Hotel de Ville - Philippe Rochat,"Crissier, Switzerland",2010,organiser_archive/2010.txt,Switzerland,l hotel de ville,,False
+15,Le Bernardin,"New York, USA",2010,organiser_archive/2010.txt,United States,le bernardin,,False
+16,L'Astrance,"Paris, France",2010,organiser_archive/2010.txt,France,l astrance,,False
+17,Hof van Cleve,"Kruishoutem, Belgium",2010,organiser_archive/2010.txt,Belgium,hof van cleve,,False
+18,D.O.M.,"Sao Paulo, Brazil",2010,organiser_archive/2010.txt,Brazil,dom,,False
+19,Oud Sluis,"Sluis, Netherlands",2010,organiser_archive/2010.txt,Netherlands,oud sluis,,False
+20,Le Calandre,"Rubano, Italy",2010,organiser_archive/2010.txt,Italy,le calandre,,False
+21,Steirereck,"Vienna, Austria",2010,organiser_archive/2010.txt,Austria,steirereck,,False
+22,Vendôme,"Bergisch Gladbach, Germany",2010,organiser_archive/2010.txt,Germany,vendome,,False
+23,Chez Dominique,"Helsinki, Finland",2010,organiser_archive/2010.txt,Finland,chez dominique,,False
+24,Narisawa,"Tokyo, Japan",2010,organiser_archive/2010.txt,Japan,narisawa,,False
+25,Mathias Dhalgren,"Stockholm, Sweden",2010,organiser_archive/2010.txt,Sweden,mathias dahlgren,,False
+26,Momofuku Ssäm Bar,"New York, USA",2010,organiser_archive/2010.txt,United States,momofuku ssam bar,,False
+27,Quay,"Sydney, Australia",2010,organiser_archive/2010.txt,Australia,quay,,False
+28,Iggy's,Singapore,2010,organiser_archive/2010.txt,Singapore,iggy s,,False
+29,L'Atelier Saint Germain De Joël Robuchon,"Paris, France",2010,organiser_archive/2010.txt,France,l atelier saint germain de joel robuchon,,False
+30,Schloss Schauenstein,"Fürstenau, Switzerland",2010,organiser_archive/2010.txt,Switzerland,schloss schauenstein,,False
+31,Le Quartier Francais,"Franschhoek, South Africa",2010,organiser_archive/2010.txt,South Africa,le quartier francais,,False
+32,The French Laundry,"Yountville, USA",2010,organiser_archive/2010.txt,United States,the french laundry,,False
+33,Martin Berasategui,"Lasarte-Oria, Spain",2010,organiser_archive/2010.txt,Spain,martin berasategui,,False
+34,Aqua,"Wolfsburg, Germany",2010,organiser_archive/2010.txt,Germany,aqua,,False
+35,Combal Zero,"Rivoli, Italy",2010,organiser_archive/2010.txt,Italy,combal zero,,False
+36,Dal Pescatore,"Canneto sull'Oglio, Italy",2010,organiser_archive/2010.txt,Italy,dal pescatore,,False
+37,De Librije,"Zwolle, Netherlands",2010,organiser_archive/2010.txt,Netherlands,de librije,,False
+38,Tetsuya's,"Sydney, Australia",2010,organiser_archive/2010.txt,Australia,tetsuya s,,False
+39,Jaan Par Andre,Singapore,2010,organiser_archive/2010.txt,Singapore,jaan par andre,,False
+40,Il Canto,"Siena, Italy",2010,organiser_archive/2010.txt,Italy,il canto,,False
+41,Alain Ducasse au Plaza Athénée,"Paris, France",2010,organiser_archive/2010.txt,France,alain ducasse au plaza athenee,,False
+42,Oaxen Krog,"Stockholm, Sweden",2010,organiser_archive/2010.txt,Sweden,oaxen krog,,False
+43,St John,"London, UK",2010,organiser_archive/2010.txt,United Kingdom,st john,,False
+44,Maison Troisgros,"Lyon, France",2010,organiser_archive/2010.txt,France,maison troisgros,,False
+45,WD~50,"New York, USA",2010,organiser_archive/2010.txt,United States,wd~50,,False
+46,Biko,"Mexico City, Mexico",2010,organiser_archive/2010.txt,Mexico,biko,,False
+47,Die Schwarzaldstube,"Baiersbronn, Germany",2010,organiser_archive/2010.txt,Germany,die schwarzaldstube,,False
+48,Nihonryori Ryugin,"Tokyo, Japan",2010,organiser_archive/2010.txt,Japan,nihonryori ryugin,,False
+49,Hibiscus,"London, UK",2010,organiser_archive/2010.txt,United Kingdom,hibiscus,,False
+50,Eleven Madison Park,"New York, USA",2010,organiser_archive/2010.txt,United States,eleven madison park,,False
+1,Noma,"Copenhagen, Denmark",2011,organiser_archive/2011.txt,Denmark,noma (original),,False
+2,El Celler de Can Roca,"Girona, Spain",2011,organiser_archive/2011.txt,Spain,el celler de can roca,,False
+3,Mugaritz,"San Sebastian, Spain",2011,organiser_archive/2011.txt,Spain,mugaritz,,False
+4,Osteria Francescana,"Modena, Italy",2011,organiser_archive/2011.txt,Italy,osteria francescana,,False
+5,The Fat Duck,"Bray, UK",2011,organiser_archive/2011.txt,United Kingdom,the fat duck,,False
+6,Alinea,"Chicago, USA",2011,organiser_archive/2011.txt,United States,alinea,,False
+7,D.O.M.,"Sao Paulo, Brazil",2011,organiser_archive/2011.txt,Brazil,dom,,False
+8,Arzak,"San Sebastian, Spain",2011,organiser_archive/2011.txt,Spain,arzak,,False
+9,Le Chateaubriand,"Paris, France",2011,organiser_archive/2011.txt,France,le chateaubriand,,False
+10,Per Se,"New York, USA",2011,organiser_archive/2011.txt,United States,per se,,False
+11,Daniel,"New York, USA",2011,organiser_archive/2011.txt,United States,daniel,,False
+12,Narisawa,"Tokyo, Japan",2011,organiser_archive/2011.txt,Japan,narisawa,,False
+13,L'Astrance,"Paris, France",2011,organiser_archive/2011.txt,France,l astrance,,False
+14,L'Atelier Saint Germain De Joël Robuchon,"Paris, France",2011,organiser_archive/2011.txt,France,l atelier saint germain de joel robuchon,,False
+15,Hof van Cleve,"Kruishoutem, Belgium",2011,organiser_archive/2011.txt,Belgium,hof van cleve,,False
+16,Pierre Gagnaire,"Paris, France",2011,organiser_archive/2011.txt,France,pierre gagnaire,,False
+17,Oud Sluis,"Sluis, Netherlands",2011,organiser_archive/2011.txt,Netherlands,oud sluis,,False
+18,Le Bernardin,"New York, USA",2011,organiser_archive/2011.txt,United States,le bernardin,,False
+19,Arpège,"Paris, France",2011,organiser_archive/2011.txt,France,arpege,,False
+20,Restaurant Frantzén,"Stockholm, Sweden",2011,organiser_archive/2011.txt,Sweden,frantzen,,False
+21,Vendôme,"Bergisch Gladbach, Germany",2011,organiser_archive/2011.txt,Germany,vendome,,False
+22,Steirereck,"Vienna, Austria",2011,organiser_archive/2011.txt,Austria,steirereck,,False
+23,Schloss Schauenstein,"Fürstenau, Switzerland",2011,organiser_archive/2011.txt,Switzerland,schloss schauenstein,,False
+24,Eleven Madison Park,"New York, USA",2011,organiser_archive/2011.txt,United States,eleven madison park,,False
+25,Aqua,"Wolfsburg, Germany",2011,organiser_archive/2011.txt,Germany,aqua,,False
+26,Quay,"Sydney, Australia",2011,organiser_archive/2011.txt,Australia,quay,,False
+27,Iggy's,Singapore,2011,organiser_archive/2011.txt,Singapore,iggy s,,False
+28,Combal Zero,"Rivoli, Italy",2011,organiser_archive/2011.txt,Italy,combal zero,,False
+29,Martin Berasategui,"Lasarte-Oria, Spain",2011,organiser_archive/2011.txt,Spain,martin berasategui,,False
+30,Bras Restaurant,"Laguiole, France",2011,organiser_archive/2011.txt,France,michel bras,,False
+31,Biko,"Mexico City, Mexico",2011,organiser_archive/2011.txt,Mexico,biko,,False
+32,Le Calandre,"Rubano, Italy",2011,organiser_archive/2011.txt,Italy,le calandre,,False
+33,Ristorante Cracco,"Milan, Italy",2011,organiser_archive/2011.txt,Italy,ristorante cracco,,False
+34,The Ledbury,"London, UK",2011,organiser_archive/2011.txt,United Kingdom,the ledbury,,False
+35,Chez Dominique,"Helsinki, Finland",2011,organiser_archive/2011.txt,Finland,chez dominique,,False
+36,Le Quartier Français,"Franschhoek, South Africa",2011,organiser_archive/2011.txt,South Africa,le quartier francais,,False
+37,Amber,"Hong Kong, China",2011,organiser_archive/2011.txt,Hong Kong,amber,,False
+38,Dal Pescatore,"Canneto sull'Oglio, Italy",2011,organiser_archive/2011.txt,Italy,dal pescatore,,False
+39,Il Canto,"Siena, Italy",2011,organiser_archive/2011.txt,Italy,il canto,,False
+40,Momofuku Ssäm Bar,"New York, USA",2011,organiser_archive/2011.txt,United States,momofuku ssam bar,,False
+41,St John,"London, UK",2011,organiser_archive/2011.txt,United Kingdom,st john,,False
+42,Astrid y Gastón,"Lima, Peru",2011,organiser_archive/2011.txt,Peru,astrid y gaston,,False
+43,Hibiscus,"London, UK",2011,organiser_archive/2011.txt,United Kingdom,hibiscus,,False
+44,Maison Troisgros,"Lyon, France",2011,organiser_archive/2011.txt,France,maison troisgros,,False
+45,Alain Ducasse au Plaza Athénée,"Paris, France",2011,organiser_archive/2011.txt,France,alain ducasse au plaza athenee,,False
+46,De Librije,"Zwolle, Netherlands",2011,organiser_archive/2011.txt,Netherlands,de librije,,False
+47,Restaurant de l'Hotel de Ville,"Crissier, Switzerland",2011,organiser_archive/2011.txt,Switzerland,l hotel de ville,,False
+48,Varvary,"Moscow, Russia",2011,organiser_archive/2011.txt,Russia,varvary,,False
+49,Pujol,"Mexico City, Mexico",2011,organiser_archive/2011.txt,Mexico,pujol,,False
+50,Asador Etxebarri,"Axpe, Spain",2011,organiser_archive/2011.txt,Spain,asador etxebarri,,False
+1,Noma,"Copenhagen, Denmark",2012,organiser_archive/2012.txt,Denmark,noma (original),,False
+2,El Celler de Can Roca,"Girona, Spain",2012,organiser_archive/2012.txt,Spain,el celler de can roca,,False
+3,Mugaritz,"San Sebastian, Spain",2012,organiser_archive/2012.txt,Spain,mugaritz,,False
+4,D.O.M.,"Sao Paulo, Brazil",2012,organiser_archive/2012.txt,Brazil,dom,,False
+5,Osteria Francescana,"Modena, Italy",2012,organiser_archive/2012.txt,Italy,osteria francescana,,False
+6,Per Se,"New York, USA",2012,organiser_archive/2012.txt,United States,per se,,False
+7,Alinea,"Chicago, USA",2012,organiser_archive/2012.txt,United States,alinea,,False
+8,Arzak,"San Sebastian, Spain",2012,organiser_archive/2012.txt,Spain,arzak,,False
+9,Dinner by Heston Blumenthal,"London, UK",2012,organiser_archive/2012.txt,United Kingdom,dinner by heston blumenthal,,False
+10,Eleven Madison Park,"New York, USA",2012,organiser_archive/2012.txt,United States,eleven madison park,,False
+11,Steirereck,"Vienna, Austria",2012,organiser_archive/2012.txt,Austria,steirereck,,False
+12,L'Atelier Saint Germain De Joël Robuchon,"Paris, France",2012,organiser_archive/2012.txt,France,l atelier saint germain de joel robuchon,,False
+13,The Fat Duck,"Bray, UK",2012,organiser_archive/2012.txt,United Kingdom,the fat duck,,False
+14,The Ledbury,"London, UK",2012,organiser_archive/2012.txt,United Kingdom,the ledbury,,False
+15,Le Chateaubriand,"Paris, France",2012,organiser_archive/2012.txt,France,le chateaubriand,,False
+16,Arpège,"Paris, France",2012,organiser_archive/2012.txt,France,arpege,,False
+17,Pierre Gagnaire,"Paris, France",2012,organiser_archive/2012.txt,France,pierre gagnaire,,False
+18,L'Astrance,"Paris, France",2012,organiser_archive/2012.txt,France,l astrance,,False
+19,Le Bernardin,"New York, USA",2012,organiser_archive/2012.txt,United States,le bernardin,,False
+20,Restaurant Frantzén,"Stockholm, Sweden",2012,organiser_archive/2012.txt,Sweden,frantzen,,False
+21,Oud Sluis,"Sluis, Netherlands",2012,organiser_archive/2012.txt,Netherlands,oud sluis,,False
+22,Aqua,"Wolfsburg, Germany",2012,organiser_archive/2012.txt,Germany,aqua,,False
+23,Vendôme,"Bergisch Gladbach, Germany",2012,organiser_archive/2012.txt,Germany,vendome,,False
+24,Mirazur,"Menton, France",2012,organiser_archive/2012.txt,France,mirazur,,False
+25,Daniel,"New York, USA",2012,organiser_archive/2012.txt,United States,daniel,,False
+26,Iggy's,Singapore,2012,organiser_archive/2012.txt,Singapore,iggy s,,False
+27,Narisawa,"Tokyo, Japan",2012,organiser_archive/2012.txt,Japan,narisawa,,False
+28,Nihonryori Ryugin,"Tokyo, Japan",2012,organiser_archive/2012.txt,Japan,nihonryori ryugin,,False
+29,Quay,"Sydney, Australia",2012,organiser_archive/2012.txt,Australia,quay,,False
+30,Schloss Schauenstein,"Fürstenau, Switzerland",2012,organiser_archive/2012.txt,Switzerland,schloss schauenstein,,False
+31,Asador Etxebarri,"Axpe, Spain",2012,organiser_archive/2012.txt,Spain,asador etxebarri,,False
+32,Le Calandre,"Rubano, Italy",2012,organiser_archive/2012.txt,Italy,le calandre,,False
+33,De Librije,"Zwolle, Netherlands",2012,organiser_archive/2012.txt,Netherlands,de librije,,False
+34,Fäviken,"Järpen, Sweden",2012,organiser_archive/2012.txt,Sweden,faviken,,False
+35,Astrid y Gastón,"Lima, Peru",2012,organiser_archive/2012.txt,Peru,astrid y gaston,,False
+36,Pujol,"Mexico City, Mexico",2012,organiser_archive/2012.txt,Mexico,pujol,,False
+37,Momofuku Ssäm Bar,"New York, USA",2012,organiser_archive/2012.txt,United States,momofuku ssam bar,,False
+38,Biko,"Mexico City, Mexico",2012,organiser_archive/2012.txt,Mexico,biko,,False
+39,Waku Ghin,Singapore,2012,organiser_archive/2012.txt,Singapore,waku ghin,,False
+40,Quique Dacosta,"Denia, Spain",2012,organiser_archive/2012.txt,Spain,quique dacosta,,False
+41,Mathias Dahlgren,"Stockholm, Sweden",2012,organiser_archive/2012.txt,Sweden,mathias dahlgren,,False
+42,Hof van Cleve,"Kruishoutem, Belgium",2012,organiser_archive/2012.txt,Belgium,hof van cleve,,False
+43,The French Laundry,"Yountville, USA",2012,organiser_archive/2012.txt,United States,the french laundry,,False
+44,Amber,"Hong Kong, China",2012,organiser_archive/2012.txt,Hong Kong,amber,,False
+45,Vila Joya,"Albufeira, Portugal",2012,organiser_archive/2012.txt,Portugal,vila joya,,False
+46,Il Canto,"Siena, Italy",2012,organiser_archive/2012.txt,Italy,il canto,,False
+47,Bras Restaurant,"Laguiole, France",2012,organiser_archive/2012.txt,France,michel bras,,False
+48,Manresa,"Los Gatos, USA",2012,organiser_archive/2012.txt,United States,manresa,,False
+49,Geranium,"Copenhagen, Denmark",2012,organiser_archive/2012.txt,Denmark,geranium,,False
+50,Nahm,"Bangkok, Thailand",2012,organiser_archive/2012.txt,Thailand,nahm,,False
+1,El Celler de Can Roca,"Girona, Spain",2013,organiser_archive/2013.txt,Spain,el celler de can roca,,False
+2,Noma,"Copenhagen, Denmark",2013,organiser_archive/2013.txt,Denmark,noma (original),,False
+3,Osteria Francescana,"Modena, Italy",2013,organiser_archive/2013.txt,Italy,osteria francescana,,False
+4,Mugaritz,"San Sebastian, Spain",2013,organiser_archive/2013.txt,Spain,mugaritz,,False
+5,Eleven Madison Park,"New York, USA",2013,organiser_archive/2013.txt,United States,eleven madison park,,False
+6,D.O.M.,"Sao Paulo, Brazil",2013,organiser_archive/2013.txt,Brazil,dom,,False
+7,Dinner by Heston Blumenthal,"London, UK",2013,organiser_archive/2013.txt,United Kingdom,dinner by heston blumenthal,,False
+8,Arzak,"San Sebastian, Spain",2013,organiser_archive/2013.txt,Spain,arzak,,False
+9,Steirereck,"Vienna, Austria",2013,organiser_archive/2013.txt,Austria,steirereck,,False
+10,Vendôme,"Bergisch Gladbach, Germany",2013,organiser_archive/2013.txt,Germany,vendome,,False
+11,Per Se,"New York, USA",2013,organiser_archive/2013.txt,United States,per se,,False
+12,Frantzén/Lindeberg,"Stockholm, Sweden",2013,organiser_archive/2013.txt,Sweden,frantzen,,False
+13,The Ledbury,"London, UK",2013,organiser_archive/2013.txt,United Kingdom,the ledbury,,False
+14,Astrid y Gastón,"Lima, Peru",2013,organiser_archive/2013.txt,Peru,astrid y gaston,,False
+15,Alinea,"Chicago, USA",2013,organiser_archive/2013.txt,United States,alinea,,False
+16,Arpège,"Paris, France",2013,organiser_archive/2013.txt,France,arpege,,False
+17,Pujol,"Mexico City, Mexico",2013,organiser_archive/2013.txt,Mexico,pujol,,False
+18,Le Chateaubriand,"Paris, France",2013,organiser_archive/2013.txt,France,le chateaubriand,,False
+19,Le Bernardin,"New York, USA",2013,organiser_archive/2013.txt,United States,le bernardin,,False
+20,Narisawa,"Tokyo, Japan",2013,organiser_archive/2013.txt,Japan,narisawa,,False
+21,Attica,"Melbourne, Australia",2013,organiser_archive/2013.txt,Australia,attica,,False
+22,Nihonryori Ryugin,"Tokyo, Japan",2013,organiser_archive/2013.txt,Japan,nihonryori ryugin,,False
+23,L'Astrance,"Paris, France",2013,organiser_archive/2013.txt,France,l astrance,,False
+24,L'Atelier Saint Germain De Joël Robuchon,"Paris, France",2013,organiser_archive/2013.txt,France,l atelier saint germain de joel robuchon,,False
+25,Hof van Cleve,"Kruishoutem, Belgium",2013,organiser_archive/2013.txt,Belgium,hof van cleve,,False
+26,Quique Dacosta,"Denia, Spain",2013,organiser_archive/2013.txt,Spain,quique dacosta,,False
+27,Le Calandre,"Rubano, Italy",2013,organiser_archive/2013.txt,Italy,le calandre,,False
+28,Mirazur,"Menton, France",2013,organiser_archive/2013.txt,France,mirazur,,False
+29,Daniel,"New York, USA",2013,organiser_archive/2013.txt,United States,daniel,,False
+30,Aqua,"Wolfsburg, Germany",2013,organiser_archive/2013.txt,Germany,aqua,,False
+31,Biko,"Mexico City, Mexico",2013,organiser_archive/2013.txt,Mexico,biko,,False
+32,Nahm,"Bangkok, Thailand",2013,organiser_archive/2013.txt,Thailand,nahm,,False
+33,The Fat Duck,"Bray, UK",2013,organiser_archive/2013.txt,United Kingdom,the fat duck,,False
+34,Fäviken,"Järpen, Sweden",2013,organiser_archive/2013.txt,Sweden,faviken,,False
+35,Oud Sluis,"Sluis, Netherlands",2013,organiser_archive/2013.txt,Netherlands,oud sluis,,False
+36,Amber,"Hong Kong, China",2013,organiser_archive/2013.txt,Hong Kong,amber,,False
+37,Vila Joya,"Albufeira, Portugal",2013,organiser_archive/2013.txt,Portugal,vila joya,,False
+38,Restaurant André,Singapore,2013,organiser_archive/2013.txt,Singapore,andre,,False
+39,8 1/2 Otto e Mezzo Bombana,"Hong Kong, China",2013,organiser_archive/2013.txt,Hong Kong,8 1 2 otto e mezzo bombana,,False
+40,Combal.Zero,"Rivoli, Italy",2013,organiser_archive/2013.txt,Italy,combal zero,,False
+41,Piazza Duomo,"Alba, Italy",2013,organiser_archive/2013.txt,Italy,piazza duomo,,False
+42,Schloss Schauenstein,"Fürstenau, Switzerland",2013,organiser_archive/2013.txt,Switzerland,schloss schauenstein,,False
+43,Mr and Mrs Bund,"Shanghai, China",2013,organiser_archive/2013.txt,China,mr and mrs bund,,False
+44,Asador Etxebarri,"Axpe, Spain",2013,organiser_archive/2013.txt,Spain,asador etxebarri,,False
+45,Geranium,"Copenhagen, Denmark",2013,organiser_archive/2013.txt,Denmark,geranium,,False
+46,Maní,"São Paulo, Brazil",2013,organiser_archive/2013.txt,Brazil,mani,,False
+47,The French Laundry,"Yountville, USA",2013,organiser_archive/2013.txt,United States,the french laundry,,False
+48,Quay,"Sydney, Australia",2013,organiser_archive/2013.txt,Australia,quay,,False
+49,Septime,"Paris, France",2013,organiser_archive/2013.txt,France,septime,,False
+50,Central,"Lima, Peru",2013,organiser_archive/2013.txt,Peru,central,,False
+1,Noma,"Copenhagen, Denmark",2014,organiser_archive/2014.txt,Denmark,noma (original),,False
+2,El Celler de Can Roca,"Girona, Spain",2014,organiser_archive/2014.txt,Spain,el celler de can roca,,False
+3,Osteria Francescana,"Modena, Italy",2014,organiser_archive/2014.txt,Italy,osteria francescana,,False
+4,Eleven Madison Park,"New York, USA",2014,organiser_archive/2014.txt,United States,eleven madison park,,False
+5,Dinner by Heston Blumenthal,"London, UK",2014,organiser_archive/2014.txt,United Kingdom,dinner by heston blumenthal,,False
+6,Mugaritz,"San Sebastian, Spain",2014,organiser_archive/2014.txt,Spain,mugaritz,,False
+7,D.O.M.,"Sao Paulo, Brazil",2014,organiser_archive/2014.txt,Brazil,dom,,False
+8,Arzak,"San Sebastian, Spain",2014,organiser_archive/2014.txt,Spain,arzak,,False
+9,Alinea,"Chicago, USA",2014,organiser_archive/2014.txt,United States,alinea,,False
+10,The Ledbury,"London, UK",2014,organiser_archive/2014.txt,United Kingdom,the ledbury,,False
+11,Mirazur,"Menton, France",2014,organiser_archive/2014.txt,France,mirazur,,False
+12,Vendôme,"Bergisch Gladbach, Germany",2014,organiser_archive/2014.txt,Germany,vendome,,False
+13,Nahm,"Bangkok, Thailand",2014,organiser_archive/2014.txt,Thailand,nahm,,False
+14,Narisawa,"Tokyo, Japan",2014,organiser_archive/2014.txt,Japan,narisawa,,False
+15,Central,"Lima, Peru",2014,organiser_archive/2014.txt,Peru,central,,False
+16,Steirereck,"Vienna, Austria",2014,organiser_archive/2014.txt,Austria,steirereck,,False
+17,Gaggan,"Bangkok, Thailand",2014,organiser_archive/2014.txt,Thailand,gaggan (original),,False
+18,Astrid y Gastón,"Lima, Peru",2014,organiser_archive/2014.txt,Peru,astrid y gaston,,False
+19,Fäviken,"Järpen, Sweden",2014,organiser_archive/2014.txt,Sweden,faviken,,False
+20,Pujol,"Mexico City, Mexico",2014,organiser_archive/2014.txt,Mexico,pujol,,False
+21,Le Bernardin,"New York, USA",2014,organiser_archive/2014.txt,United States,le bernardin,,False
+22,Vila Joya,"Albufeira, Portugal",2014,organiser_archive/2014.txt,Portugal,vila joya,,False
+23,Restaurant Frantzén,"Stockholm, Sweden",2014,organiser_archive/2014.txt,Sweden,frantzen,,False
+24,Amber,"Hong Kong, China",2014,organiser_archive/2014.txt,Hong Kong,amber,,False
+25,Arpège,"Paris, France",2014,organiser_archive/2014.txt,France,arpege,,False
+26,Azurmendi,"Larrabetzu, Spain",2014,organiser_archive/2014.txt,Spain,azurmendi,,False
+27,Le Chateaubriand,"Paris, France",2014,organiser_archive/2014.txt,France,le chateaubriand,,False
+28,Aqua,"Wolfsburg, Germany",2014,organiser_archive/2014.txt,Germany,aqua,,False
+29,De Librije,"Zwolle, Netherlands",2014,organiser_archive/2014.txt,Netherlands,de librije,,False
+30,Per Se,"New York, USA",2014,organiser_archive/2014.txt,United States,per se,,False
+31,L'Atelier Saint Germain De Joël Robuchon,"Paris, France",2014,organiser_archive/2014.txt,France,l atelier saint germain de joel robuchon,,False
+32,Attica,"Melbourne, Australia",2014,organiser_archive/2014.txt,Australia,attica,,False
+33,Nihonryori Ryugin,"Tokyo, Japan",2014,organiser_archive/2014.txt,Japan,nihonryori ryugin,,False
+34,Asador Etxebarri,"Axpe, Spain",2014,organiser_archive/2014.txt,Spain,asador etxebarri,,False
+35,Martín Berasategui,"Lasarte-Oria, Spain",2014,organiser_archive/2014.txt,Spain,martin berasategui,,False
+36,Maní,"São Paulo, Brazil",2014,organiser_archive/2014.txt,Brazil,mani,,False
+37,Restaurant André,Singapore,2014,organiser_archive/2014.txt,Singapore,andre,,False
+38,L'Astrance,"Paris, France",2014,organiser_archive/2014.txt,France,l astrance,,False
+39,Piazza Duomo,"Alba, Italy",2014,organiser_archive/2014.txt,Italy,piazza duomo,,False
+40,Daniel,"New York, USA",2014,organiser_archive/2014.txt,United States,daniel,,False
+41,Quique Dacosta,"Denia, Spain",2014,organiser_archive/2014.txt,Spain,quique dacosta,,False
+42,Geranium,"Copenhagen, Denmark",2014,organiser_archive/2014.txt,Denmark,geranium,,False
+43,Schloss Schauenstein,"Fürstenau, Switzerland",2014,organiser_archive/2014.txt,Switzerland,schloss schauenstein,,False
+44,The French Laundry,"Yountville, USA",2014,organiser_archive/2014.txt,United States,the french laundry,,False
+45,Hof van Cleve,"Kruishoutem, Belgium",2014,organiser_archive/2014.txt,Belgium,hof van cleve,,False
+46,Le Calandre,"Rubano, Italy",2014,organiser_archive/2014.txt,Italy,le calandre,,False
+47,The Fat Duck,"Bray, UK",2014,organiser_archive/2014.txt,United Kingdom,the fat duck,,False
+48,The Test Kitchen,"Cape Town, South Africa",2014,organiser_archive/2014.txt,South Africa,the test kitchen,,False
+49,Coi,"San Francisco, USA",2014,organiser_archive/2014.txt,United States,coi,,False
+50,Waku Ghin,Singapore,2014,organiser_archive/2014.txt,Singapore,waku ghin,,False
+1,El Celler de Can Roca,"Girona, Spain",2015,organiser_archive/2015.txt,Spain,el celler de can roca,,False
+2,Osteria Francescana,"Modena, Italy",2015,organiser_archive/2015.txt,Italy,osteria francescana,,False
+3,Noma,"Copenhagen, Denmark",2015,organiser_archive/2015.txt,Denmark,noma (original),,False
+4,Central,"Lima, Peru",2015,organiser_archive/2015.txt,Peru,central,,False
+5,Eleven Madison Park,"New York, USA",2015,organiser_archive/2015.txt,United States,eleven madison park,,False
+6,Mugaritz,"San Sebastian, Spain",2015,organiser_archive/2015.txt,Spain,mugaritz,,False
+7,Dinner by Heston Blumenthal,"London, UK",2015,organiser_archive/2015.txt,United Kingdom,dinner by heston blumenthal,,False
+8,Narisawa,"Tokyo, Japan",2015,organiser_archive/2015.txt,Japan,narisawa,,False
+9,D.O.M.,"Sao Paulo, Brazil",2015,organiser_archive/2015.txt,Brazil,dom,,False
+10,Gaggan,"Bangkok, Thailand",2015,organiser_archive/2015.txt,Thailand,gaggan (original),,False
+11,Mirazur,"Menton, France",2015,organiser_archive/2015.txt,France,mirazur,,False
+12,Arpège,"Paris, France",2015,organiser_archive/2015.txt,France,arpege,,False
+13,Asador Etxebarri,"Axpe, Spain",2015,organiser_archive/2015.txt,Spain,asador etxebarri,,False
+14,Astrid y Gastón,"Lima, Peru",2015,organiser_archive/2015.txt,Peru,astrid y gaston,,False
+15,Steirereck,"Vienna, Austria",2015,organiser_archive/2015.txt,Austria,steirereck,,False
+16,Pujol,"Mexico City, Mexico",2015,organiser_archive/2015.txt,Mexico,pujol,,False
+17,Arzak,"San Sebastian, Spain",2015,organiser_archive/2015.txt,Spain,arzak,,False
+18,Le Bernardin,"New York, USA",2015,organiser_archive/2015.txt,United States,le bernardin,,False
+19,Azurmendi,"Larrabetzu, Spain",2015,organiser_archive/2015.txt,Spain,azurmendi,,False
+20,The Ledbury,"London, UK",2015,organiser_archive/2015.txt,United Kingdom,the ledbury,,False
+21,Le Chateaubriand,"Paris, France",2015,organiser_archive/2015.txt,France,le chateaubriand,,False
+22,Nahm,"Bangkok, Thailand",2015,organiser_archive/2015.txt,Thailand,nahm,,False
+23,White Rabbit,"Moscow, Russia",2015,organiser_archive/2015.txt,Russia,white rabbit,,False
+24,Ultraviolet by Paul Pairet,"Shanghai, China",2015,organiser_archive/2015.txt,China,ultraviolet by paul pairet,,False
+25,Fäviken,"Järpen, Sweden",2015,organiser_archive/2015.txt,Sweden,faviken,,False
+26,Alinea,"Chicago, USA",2015,organiser_archive/2015.txt,United States,alinea,,False
+27,Piazza Duomo,"Alba, Italy",2015,organiser_archive/2015.txt,Italy,piazza duomo,,False
+28,The Test Kitchen,"Cape Town, South Africa",2015,organiser_archive/2015.txt,South Africa,the test kitchen,,False
+29,Nihonryori Ryugin,"Tokyo, Japan",2015,organiser_archive/2015.txt,Japan,nihonryori ryugin,,False
+30,Vendôme,"Bergisch Gladbach, Germany",2015,organiser_archive/2015.txt,Germany,vendome,,False
+31,Restaurant Frantzén,"Stockholm, Sweden",2015,organiser_archive/2015.txt,Sweden,frantzen,,False
+32,Attica,"Melbourne, Australia",2015,organiser_archive/2015.txt,Australia,attica,,False
+33,Aqua,"Wolfsburg, Germany",2015,organiser_archive/2015.txt,Germany,aqua,,False
+34,Le Calandre,"Rubano, Italy",2015,organiser_archive/2015.txt,Italy,le calandre,,False
+35,Quintonil,"Mexico City, Mexico",2015,organiser_archive/2015.txt,Mexico,quintonil,,False
+36,L'Astrance,"Paris, France",2015,organiser_archive/2015.txt,France,l astrance,,False
+37,Biko,"Mexico City, Mexico",2015,organiser_archive/2015.txt,Mexico,biko,,False
+38,Amber,"Hong Kong, China",2015,organiser_archive/2015.txt,Hong Kong,amber,,False
+39,Quique Dacosta,"Denia, Spain",2015,organiser_archive/2015.txt,Spain,quique dacosta,,False
+40,Per Se,"New York, USA",2015,organiser_archive/2015.txt,United States,per se,,False
+41,Maní,"São Paulo, Brazil",2015,organiser_archive/2015.txt,Brazil,mani,,False
+42,Boragó,"Santiago, Chile",2015,organiser_archive/2015.txt,Chile,borago,,False
+42,Tickets,"Barcelona, Spain",2015,"organiser_archive/2015.txt, corrected",Spain,tickets,,False
+44,Maido,"Lima, Peru",2015,organiser_archive/2015.txt,Peru,maido,,False
+45,Relae,"Copenhagen, Denmark",2015,organiser_archive/2015.txt,Denmark,relae,,False
+46,Restaurant André,Singapore,2015,organiser_archive/2015.txt,Singapore,andre,,False
+47,Alain Ducasse au Plaza Athénée,"Paris, France",2015,organiser_archive/2015.txt,France,alain ducasse au plaza athenee,,False
+48,Schloss Schauenstein,"Fürstenau, Switzerland",2015,organiser_archive/2015.txt,Switzerland,schloss schauenstein,,False
+49,Blue Hill at Stone Barns,"Pocantico Hills, USA",2015,organiser_archive/2015.txt,United States,blue hill at stone barns,,False
+50,The French Laundry,"Yountville, USA",2015,organiser_archive/2015.txt,United States,the french laundry,,False
+1,Osteria Francescana,"Modena, Italy",2016,organiser_archive/2016.txt,Italy,osteria francescana,,False
+2,El Celler de Can Roca,"Girona, Spain",2016,organiser_archive/2016.txt,Spain,el celler de can roca,,False
+3,Eleven Madison Park,"New York, USA",2016,organiser_archive/2016.txt,United States,eleven madison park,,False
+4,Central,"Lima, Peru",2016,organiser_archive/2016.txt,Peru,central,,False
+5,Noma,"Copenhagen, Denmark",2016,organiser_archive/2016.txt,Denmark,noma (original),,False
+6,Mirazur,"Menton, France",2016,organiser_archive/2016.txt,France,mirazur,,False
+7,Mugaritz,"San Sebastian, Spain",2016,organiser_archive/2016.txt,Spain,mugaritz,,False
+8,Narisawa,"Tokyo, Japan",2016,organiser_archive/2016.txt,Japan,narisawa,,False
+9,Steirereck,"Vienna, Austria",2016,organiser_archive/2016.txt,Austria,steirereck,,False
+10,Asador Etxebarri,"Axpe, Spain",2016,organiser_archive/2016.txt,Spain,asador etxebarri,,False
+11,D.O.M.,"Sao Paulo, Brazil",2016,organiser_archive/2016.txt,Brazil,dom,,False
+12,Quintonil,"Mexico City, Mexico",2016,organiser_archive/2016.txt,Mexico,quintonil,,False
+13,Maido,"Lima, Peru",2016,organiser_archive/2016.txt,Peru,maido,,False
+14,The Ledbury,"London, UK",2016,organiser_archive/2016.txt,United Kingdom,the ledbury,,False
+15,Alinea,"Chicago, USA",2016,organiser_archive/2016.txt,United States,alinea,,False
+16,Azurmendi,"Larrabetzu, Spain",2016,organiser_archive/2016.txt,Spain,azurmendi,,False
+17,Piazza Duomo,"Alba, Italy",2016,organiser_archive/2016.txt,Italy,piazza duomo,,False
+18,White Rabbit,"Moscow, Russia",2016,"organiser_archive/2016.txt, corrected",Russia,white rabbit,,False
+19,Arpège,"Paris, France",2016,organiser_archive/2016.txt,France,arpege,,False
+20,Amber,"Hong Kong, China",2016,organiser_archive/2016.txt,Hong Kong,amber,,False
+21,Arzak,"San Sebastian, Spain",2016,organiser_archive/2016.txt,Spain,arzak,,False
+22,The Test Kitchen,"Cape Town, South Africa",2016,organiser_archive/2016.txt,South Africa,the test kitchen,,False
+23,Gaggan,"Bangkok, Thailand",2016,organiser_archive/2016.txt,Thailand,gaggan (original),,False
+24,Le Bernardin,"New York, USA",2016,organiser_archive/2016.txt,United States,le bernardin,,False
+25,Pujol,"Mexico City, Mexico",2016,organiser_archive/2016.txt,Mexico,pujol,,False
+26,The Clove Club,"London, UK",2016,organiser_archive/2016.txt,United Kingdom,the clove club,,False
+27,Saison,"San Francisco, USA",2016,organiser_archive/2016.txt,United States,saison,,False
+28,Geranium,"Copenhagen, Denmark",2016,organiser_archive/2016.txt,Denmark,geranium,,False
+29,Tickets,"Barcelona, Spain",2016,organiser_archive/2016.txt,Spain,tickets,,False
+30,Astrid y Gastón,"Lima, Peru",2016,organiser_archive/2016.txt,Peru,astrid y gaston,,False
+31,Nihonryori Ryugin,"Tokyo, Japan",2016,organiser_archive/2016.txt,Japan,nihonryori ryugin,,False
+32,Restaurant André,Singapore,2016,organiser_archive/2016.txt,Singapore,andre,,False
+33,Attica,"Melbourne, Australia",2016,organiser_archive/2016.txt,Australia,attica,,False
+34,Restaurant Tim Raue,"Berlin, Germany",2016,organiser_archive/2016.txt,Germany,tim raue,,False
+35,Vendôme,"Bergisch Gladbach, Germany",2016,organiser_archive/2016.txt,Germany,vendome,,False
+36,Boragó,"Santiago, Chile",2016,organiser_archive/2016.txt,Chile,borago,,False
+37,Nahm,"Bangkok, Thailand",2016,"organiser_archive/2016.txt, corrected",Thailand,nahm,,False
+38,De Librije,"Zwolle, Netherlands",2016,organiser_archive/2016.txt,Netherlands,de librije,,False
+39,Le Calandre,"Rubano, Italy",2016,organiser_archive/2016.txt,Italy,le calandre,,False
+40,Relae,"Copenhagen, Denmark",2016,organiser_archive/2016.txt,Denmark,relae,,False
+41,Fäviken,"Järpen, Sweden",2016,organiser_archive/2016.txt,Sweden,faviken,,False
+42,Ultraviolet by Paul Pairet,"Shanghai, China",2016,organiser_archive/2016.txt,China,ultraviolet by paul pairet,,False
+43,Biko,"Mexico City, Mexico",2016,organiser_archive/2016.txt,Mexico,biko,,False
+44,Estela,"New York, USA",2016,organiser_archive/2016.txt,United States,estela,,False
+45,Dinner by Heston Blumenthal,"London, UK",2016,organiser_archive/2016.txt,United Kingdom,dinner by heston blumenthal,,False
+46,Combal Zero,"Rivoli, Italy",2016,organiser_archive/2016.txt,Italy,combal zero,,False
+47,Schloss Schauenstein,"Fürstenau, Switzerland",2016,organiser_archive/2016.txt,Switzerland,schloss schauenstein,,False
+48,Blue Hill at Stone Barns,"Pocantico Hills, USA",2016,organiser_archive/2016.txt,United States,blue hill at stone barns,,False
+49,Quique Dacosta,"Denia, Spain",2016,organiser_archive/2016.txt,Spain,quique dacosta,,False
+50,Septime,"Paris, France",2016,organiser_archive/2016.txt,France,septime,,False
+1,Eleven Madison Park,"New York, USA",2017,organiser_archive/2017.txt,United States,eleven madison park,,False
+2,Osteria Francescana,"Modena, Italy",2017,organiser_archive/2017.txt,Italy,osteria francescana,,False
+3,El Celler de Can Roca,"Girona, Spain",2017,organiser_archive/2017.txt,Spain,el celler de can roca,,False
+4,Mirazur,"Menton, France",2017,organiser_archive/2017.txt,France,mirazur,,False
+5,Central,"Lima, Peru",2017,organiser_archive/2017.txt,Peru,central,,False
+6,Asador Etxebarri,"Axpe, Spain",2017,organiser_archive/2017.txt,Spain,asador etxebarri,,False
+7,Gaggan,"Bangkok, Thailand",2017,organiser_archive/2017.txt,Thailand,gaggan (original),,False
+8,Maido,"Lima, Peru",2017,organiser_archive/2017.txt,Peru,maido,,False
+9,Mugaritz,"San Sebastian, Spain",2017,organiser_archive/2017.txt,Spain,mugaritz,,False
+10,Steirereck,"Vienna, Austria",2017,organiser_archive/2017.txt,Austria,steirereck,,False
+11,Blue Hill at Stone Barns,"Pocantico Hills, USA",2017,organiser_archive/2017.txt,United States,blue hill at stone barns,,False
+12,Arpège,"Paris, France",2017,organiser_archive/2017.txt,France,arpege,,False
+13,Alain Ducasse au Plaza Athénée,"Paris, France",2017,organiser_archive/2017.txt,France,alain ducasse au plaza athenee,,False
+14,Restaurant André,Singapore,2017,organiser_archive/2017.txt,Singapore,andre,,False
+15,Piazza Duomo,"Alba, Italy",2017,organiser_archive/2017.txt,Italy,piazza duomo,,False
+16,D.O.M.,"Sao Paulo, Brazil",2017,organiser_archive/2017.txt,Brazil,dom,,False
+17,Le Bernardin,"New York, USA",2017,organiser_archive/2017.txt,United States,le bernardin,,False
+18,Narisawa,"Tokyo, Japan",2017,organiser_archive/2017.txt,Japan,narisawa,,False
+19,Geranium,"Copenhagen, Denmark",2017,organiser_archive/2017.txt,Denmark,geranium,,False
+20,Pujol,"Mexico City, Mexico",2017,organiser_archive/2017.txt,Mexico,pujol,,False
+21,Alinea,"Chicago, USA",2017,organiser_archive/2017.txt,United States,alinea,,False
+22,Quintonil,"Mexico City, Mexico",2017,organiser_archive/2017.txt,Mexico,quintonil,,False
+23,White Rabbit,"Moscow, Russia",2017,organiser_archive/2017.txt,Russia,white rabbit,,False
+24,Amber,"Hong Kong, China",2017,organiser_archive/2017.txt,Hong Kong,amber,,False
+25,Tickets,"Barcelona, Spain",2017,organiser_archive/2017.txt,Spain,tickets,,False
+26,The Clove Club,"London, UK",2017,organiser_archive/2017.txt,United Kingdom,the clove club,,False
+27,The Ledbury,"London, UK",2017,organiser_archive/2017.txt,United Kingdom,the ledbury,,False
+28,Nahm,"Bangkok, Thailand",2017,organiser_archive/2017.txt,Thailand,nahm,,False
+29,Le Calandre,"Rubano, Italy",2017,organiser_archive/2017.txt,Italy,le calandre,,False
+30,Arzak,"San Sebastian, Spain",2017,organiser_archive/2017.txt,Spain,arzak,,False
+31,Alléno Paris au Pavillon Ledoyen,"Paris, France",2017,organiser_archive/2017.txt,France,alleno paris au pavillon ledoyen,,False
+32,Attica,"Melbourne, Australia",2017,organiser_archive/2017.txt,Australia,attica,,False
+33,Astrid y Gastón,"Lima, Peru",2017,organiser_archive/2017.txt,Peru,astrid y gaston,,False
+34,De Librije,"Zwolle, Netherlands",2017,organiser_archive/2017.txt,Netherlands,de librije,,False
+35,Septime,"Paris, France",2017,organiser_archive/2017.txt,France,septime,,False
+36,Dinner by Heston Blumenthal,"London, UK",2017,organiser_archive/2017.txt,United Kingdom,dinner by heston blumenthal,,False
+37,Saison,"San Francisco, USA",2017,organiser_archive/2017.txt,United States,saison,,False
+38,Azurmendi,"Larrabetzu, Spain",2017,organiser_archive/2017.txt,Spain,azurmendi,,False
+39,Relae,"Copenhagen, Denmark",2017,organiser_archive/2017.txt,Denmark,relae,,False
+40,Cosme,"New York, USA",2017,organiser_archive/2017.txt,United States,cosme,,False
+41,Ultraviolet by Paul Pairet,"Shanghai, China",2017,organiser_archive/2017.txt,China,ultraviolet by paul pairet,,False
+42,Boragó,"Santiago, Chile",2017,organiser_archive/2017.txt,Chile,borago,,False
+43,Reale,"Castel di Sangro, Italy",2017,organiser_archive/2017.txt,Italy,reale,,False
+44,Brae,"Birregurra, Australia",2017,organiser_archive/2017.txt,Australia,brae,,False
+45,Den,"Tokyo, Japan",2017,organiser_archive/2017.txt,Japan,den,,False
+46,L'Astrance,"Paris, France",2017,organiser_archive/2017.txt,France,l astrance,,False
+47,Vendôme,"Bergisch Gladbach, Germany",2017,organiser_archive/2017.txt,Germany,vendome,,False
+48,Restaurant Tim Raue,"Berlin, Germany",2017,organiser_archive/2017.txt,Germany,tim raue,,False
+49,Tegui,"Buenos Aires, Argentina",2017,organiser_archive/2017.txt,Argentina,tegui,,False
+50,Hof Van Cleve,"Kruishoutem, Belgium",2017,organiser_archive/2017.txt,Belgium,hof van cleve,,False
+1,Osteria Francescana,"Modena, Italy",2018,organiser_archive/2018.txt,Italy,osteria francescana,,False
+2,El Celler de Can Roca,"Girona, Spain",2018,organiser_archive/2018.txt,Spain,el celler de can roca,,False
+3,Mirazur,"Menton, France",2018,organiser_archive/2018.txt,France,mirazur,,False
+4,Eleven Madison Park,"New York, USA",2018,organiser_archive/2018.txt,United States,eleven madison park,,False
+5,Gaggan,"Bangkok, Thailand",2018,organiser_archive/2018.txt,Thailand,gaggan (original),,False
+6,Central,"Lima, Peru",2018,organiser_archive/2018.txt,Peru,central,,False
+7,Maido,"Lima, Peru",2018,organiser_archive/2018.txt,Peru,maido,,False
+8,Arpège,"Paris, France",2018,organiser_archive/2018.txt,France,arpege,,False
+9,Mugaritz,"San Sebastian, Spain",2018,organiser_archive/2018.txt,Spain,mugaritz,,False
+10,Asador Etxebarri,"Axpe, Spain",2018,organiser_archive/2018.txt,Spain,asador etxebarri,,False
+11,Quintonil,"Mexico City, Mexico",2018,organiser_archive/2018.txt,Mexico,quintonil,,False
+12,Blue Hill at Stone Barns,"Pocantico Hills, USA",2018,organiser_archive/2018.txt,United States,blue hill at stone barns,,False
+13,Pujol,"Mexico City, Mexico",2018,organiser_archive/2018.txt,Mexico,pujol,,False
+14,Steirereck,"Vienna, Austria",2018,organiser_archive/2018.txt,Austria,steirereck,,False
+15,White Rabbit,"Moscow, Russia",2018,organiser_archive/2018.txt,Russia,white rabbit,,False
+16,Piazza Duomo,"Alba, Italy",2018,organiser_archive/2018.txt,Italy,piazza duomo,,False
+17,Den,"Tokyo, Japan",2018,organiser_archive/2018.txt,Japan,den,,False
+18,Disfrutar,"Barcelona, Spain",2018,organiser_archive/2018.txt,Spain,disfrutar,,False
+19,Geranium,"Copenhagen, Denmark",2018,organiser_archive/2018.txt,Denmark,geranium,,False
+20,Attica,"Melbourne, Australia",2018,organiser_archive/2018.txt,Australia,attica,,False
+21,Alain Ducasse au Plaza Athénée,"Paris, France",2018,organiser_archive/2018.txt,France,alain ducasse au plaza athenee,,False
+22,Narisawa,"Tokyo, Japan",2018,organiser_archive/2018.txt,Japan,narisawa,,False
+23,Le Calandre,"Rubano, Italy",2018,organiser_archive/2018.txt,Italy,le calandre,,False
+24,Ultraviolet by Paul Pairet,"Shanghai, China",2018,organiser_archive/2018.txt,China,ultraviolet by paul pairet,,False
+25,Cosme,"New York, USA",2018,organiser_archive/2018.txt,United States,cosme,,False
+26,Le Bernardin,"New York, USA",2018,organiser_archive/2018.txt,United States,le bernardin,,False
+27,Boragó,"Santiago, Chile",2018,organiser_archive/2018.txt,Chile,borago,,False
+28,Odette,Singapore,2018,organiser_archive/2018.txt,Singapore,odette,,False
+29,Alléno Paris au Pavillon Ledoyen,"Paris, France",2018,organiser_archive/2018.txt,France,alleno paris au pavillon ledoyen,,False
+30,D.O.M,"São Paulo, Brazil",2018,organiser_archive/2018.txt,Brazil,dom,,False
+31,Arzak,"San Sebastian, Spain",2018,organiser_archive/2018.txt,Spain,arzak,,False
+32,Tickets,"Barcelona, Spain",2018,organiser_archive/2018.txt,Spain,tickets,,False
+33,The Clove Club,"London, UK",2018,organiser_archive/2018.txt,United Kingdom,the clove club,,False
+34,Alinea,"Chicago, USA",2018,organiser_archive/2018.txt,United States,alinea,,False
+35,Maaemo,"Oslo, Norway",2018,organiser_archive/2018.txt,Norway,maaemo,,False
+36,Reale,"Castel di Sangro, Italy",2018,organiser_archive/2018.txt,Italy,reale,,False
+37,Restaurant Tim Raue,"Berlin, Germany",2018,organiser_archive/2018.txt,Germany,tim raue,,False
+38,Lyle's,"London, UK",2018,organiser_archive/2018.txt,United Kingdom,lyle s,,False
+39,Astrid y Gastón,"Lima, Peru",2018,organiser_archive/2018.txt,Peru,astrid y gaston,,False
+40,Septime,"Paris, France",2018,organiser_archive/2018.txt,France,septime,,False
+41,Nihonryori Ryugin,"Tokyo, Japan",2018,organiser_archive/2018.txt,Japan,nihonryori ryugin,,False
+42,The Ledbury,"London, UK",2018,organiser_archive/2018.txt,United Kingdom,the ledbury,,False
+43,Azurmendi,"Larrabetzu, Spain",2018,organiser_archive/2018.txt,Spain,azurmendi,,False
+44,Mikla,"Istanbul, Turkey",2018,organiser_archive/2018.txt,Türkiye,mikla,,False
+45,Dinner by Heston Blumenthal,"London, UK",2018,organiser_archive/2018.txt,United Kingdom,dinner by heston blumenthal,,False
+46,Saison,"San Francisco, USA",2018,organiser_archive/2018.txt,United States,saison,,False
+47,Schloss Schauenstein,"Fürstenau, Switzerland",2018,organiser_archive/2018.txt,Switzerland,schloss schauenstein,,False
+48,Hiša Franko,"Kobarid, Slovenia",2018,organiser_archive/2018.txt,Slovenia,hisa franko,,False
+49,Nahm,"Bangkok, Thailand",2018,organiser_archive/2018.txt,Thailand,nahm,,False
+50,The Test Kitchen,"Cape Town, South Africa",2018,organiser_archive/2018.txt,South Africa,the test kitchen,,False
+1,Mirazur,Menton,2019,organiser_archive/2019.txt,France,mirazur,France,True
+2,Noma,Copenhagen,2019,organiser_archive/2019.txt,Denmark,noma 2.0,Scandinavia & Baltics,True
+3,Asador Etxebarri,Axpe,2019,organiser_archive/2019.txt,Spain,asador etxebarri,Spain & Portugal,True
+4,Gaggan,Bangkok,2019,organiser_archive/2019.txt,Thailand,gaggan (original),Southeast Asia (North),False
+5,Geranium,Copenhagen,2019,organiser_archive/2019.txt,Denmark,geranium,Scandinavia & Baltics,True
+6,Central,Lima,2019,organiser_archive/2019.txt,Peru,central,South America (North) & the Caribbean,False
+7,Mugaritz,San Sebastián,2019,organiser_archive/2019.txt,Spain,mugaritz,Spain & Portugal,True
+8,Arpège,Paris,2019,organiser_archive/2019.txt,France,arpege,France,True
+9,Disfrutar,Barcelona,2019,organiser_archive/2019.txt,Spain,disfrutar,Spain & Portugal,True
+10,Maido,Lima,2019,organiser_archive/2019.txt,Peru,maido,South America (North) & the Caribbean,False
+11,Den,Tokyo,2019,organiser_archive/2019.txt,Japan,den,Japan,False
+12,Pujol,Mexico City,2019,organiser_archive/2019.txt,Mexico,pujol,Mexico & Central America,False
+13,White Rabbit,Moscow,2019,organiser_archive/2019.txt,Russia,white rabbit,"Russia, Central Asia & Eastern Europe",True
+14,Azurmendi,Larrabetzu,2019,organiser_archive/2019.txt,Spain,azurmendi,Spain & Portugal,True
+15,Septime,Paris,2019,organiser_archive/2019.txt,France,septime,France,True
+16,Alain Ducasse au Plaza Athénée,Paris,2019,organiser_archive/2019.txt,France,alain ducasse au plaza athenee,France,True
+17,Steirereck,Vienna,2019,organiser_archive/2019.txt,Austria,steirereck,"Austria, Switzerland, Hungary & Slovenia",True
+18,Odette,Singapore,2019,organiser_archive/2019.txt,Singapore,odette,Southeast Asia (South),False
+19,Twins Garden,Moscow,2019,organiser_archive/2019.txt,Russia,twins garden,"Russia, Central Asia & Eastern Europe",True
+20,Tickets,Barcelona,2019,organiser_archive/2019.txt,Spain,tickets,Spain & Portugal,True
+21,Frantzén,Stockholm,2019,organiser_archive/2019.txt,Sweden,frantzen,Scandinavia & Baltics,True
+22,Narisawa,Tokyo,2019,organiser_archive/2019.txt,Japan,narisawa,Japan,False
+23,Cosme,New York,2019,organiser_archive/2019.txt,United States,cosme,East USA & East Canada,False
+24,Quintonil,Mexico City,2019,organiser_archive/2019.txt,Mexico,quintonil,Mexico & Central America,False
+25,Alléno Paris au Pavillon Ledoyen,Paris,2019,organiser_archive/2019.txt,France,alleno paris au pavillon ledoyen,France,True
+26,Boragó,Santiago,2019,organiser_archive/2019.txt,Chile,borago,"South America (South, excl. Brazil)",False
+27,The Clove Club,London,2019,organiser_archive/2019.txt,United Kingdom,the clove club,UK & Ireland,True
+28,Blue Hill at Stone Barns,Pocantico Hills,2019,organiser_archive/2019.txt,United States,blue hill at stone barns,East USA & East Canada,False
+29,Piazza Duomo,Alba,2019,organiser_archive/2019.txt,Italy,piazza duomo,Italy,True
+30,Elkano,Getaria,2019,organiser_archive/2019.txt,Spain,elkano,Spain & Portugal,True
+31,Le Calandre,Rubano,2019,organiser_archive/2019.txt,Italy,le calandre,Italy,True
+32,Nerua Guggenheim Bilbao,Bilbao,2019,organiser_archive/2019.txt,Spain,nerua,Spain & Portugal,True
+33,Lyle's,London,2019,organiser_archive/2019.txt,United Kingdom,lyle s,UK & Ireland,True
+34,Don Julio,Buenos Aires,2019,organiser_archive/2019.txt,Argentina,don julio,"South America (South, excl. Brazil)",False
+35,Atelier Crenn,San Francisco,2019,organiser_archive/2019.txt,United States,atelier crenn,West USA & West Canada,False
+36,Le Bernardin,New York,2019,organiser_archive/2019.txt,United States,le bernardin,East USA & East Canada,False
+37,Alinea,Chicago,2019,organiser_archive/2019.txt,United States,alinea,Mid USA & Mid Canada,False
+38,Hiša Franko,Kobarid,2019,organiser_archive/2019.txt,Slovenia,hisa franko,"Austria, Switzerland, Hungary & Slovenia",True
+39,A Casa do Porco,São Paulo,2019,organiser_archive/2019.txt,Brazil,a casa do porco,Brazil,False
+40,Restaurant Tim Raue,Berlin,2019,organiser_archive/2019.txt,Germany,tim raue,Germany,True
+41,The Chairman,Hong Kong,2019,organiser_archive/2019.txt,Hong Kong,the chairman,"Hong Kong, Macau & Taiwan",False
+42,Belcanto,Lisbon,2019,organiser_archive/2019.txt,Portugal,belcanto,Spain & Portugal,True
+43,Hof Van Cleve,Kruisem,2019,organiser_archive/2019.txt,Belgium,hof van cleve,Benelux,True
+44,The Test Kitchen,Cape Town,2019,organiser_archive/2019.txt,South Africa,the test kitchen,South & East Africa,False
+45,Sühring,Bangkok,2019,organiser_archive/2019.txt,Thailand,suhring,Southeast Asia (North),False
+46,De Librije,Zwolle,2019,organiser_archive/2019.txt,Netherlands,de librije,Benelux,True
+47,Benu,San Francisco,2019,organiser_archive/2019.txt,United States,benu,West USA & West Canada,False
+48,Ultraviolet by Paul Pairet,Shanghai,2019,organiser_archive/2019.txt,China,ultraviolet by paul pairet,Mainland China,False
+49,Leo,Bogotá,2019,organiser_archive/2019.txt,Colombia,leo,South America (North) & the Caribbean,False
+50,Schloss Schauenstein,Fürstenau,2019,organiser_archive/2019.txt,Switzerland,schloss schauenstein,"Austria, Switzerland, Hungary & Slovenia",True
+51,Reale,Castel di Sangro,2019,list_2019_51_120.csv,Italy,reale,Italy,True
+52,Mikla,Istanbul,2019,list_2019_51_120.csv,Türkiye,mikla,"Türkiye, Greece & the Balkans",True
+53,Arzak,San Sebastián,2019,list_2019_51_120.csv,Spain,arzak,Spain & Portugal,True
+54,D.O.M.,São Paulo,2019,list_2019_51_120.csv,Brazil,dom,Brazil,False
+55,Maaemo,Oslo,2019,list_2019_51_120.csv,Norway,maaemo,Scandinavia & Baltics,True
+56,Relae,Copenhagen,2019,list_2019_51_120.csv,Denmark,relae,Scandinavia & Baltics,True
+57,Nobelhart & Schmutzig,Berlin,2019,list_2019_51_120.csv,Germany,nobelhart and schmutzig,Germany,True
+58,Sud 777,Mexico City,2019,list_2019_51_120.csv,Mexico,sud 777,Mexico & Central America,False
+59,Burnt Ends,Singapore,2019,list_2019_51_120.csv,Singapore,burnt ends,Southeast Asia (South),False
+60,Indian Accent,New Delhi,2019,list_2019_51_120.csv,India,indian accent,India & Subcontinent,False
+61,Uliassi,Senigallia,2019,list_2019_51_120.csv,Italy,uliassi,Italy,True
+62,Nihonryori RyuGin,Tokyo,2019,list_2019_51_120.csv,Japan,nihonryori ryugin,Japan,False
+63,Florilège,Tokyo,2019,list_2019_51_120.csv,Japan,florilege,Japan,False
+64,The Ledbury,London,2019,list_2019_51_120.csv,United Kingdom,the ledbury,UK & Ireland,True
+65,Selfie,Moscow,2019,list_2019_51_120.csv,Russia,selfie,"Russia, Central Asia & Eastern Europe",True
+66,Core by Clare Smyth,London,2019,list_2019_51_120.csv,United Kingdom,core by clare smyth,UK & Ireland,True
+67,Astrid y Gastón,Lima,2019,list_2019_51_120.csv,Peru,astrid y gaston,South America (North) & the Caribbean,False
+68,Fäviken,Järpen,2019,list_2019_51_120.csv,Sweden,faviken,Scandinavia & Baltics,True
+69,Nahm,Bangkok,2019,list_2019_51_120.csv,Thailand,nahm,Southeast Asia (North),False
+70,Saison,San Francisco,2019,list_2019_51_120.csv,United States,saison,West USA & West Canada,False
+71,SingleThread,Healdsburg,2019,list_2019_51_120.csv,United States,singlethread,West USA & West Canada,False
+72,Aqua,Wolfsburg,2019,list_2019_51_120.csv,Germany,aqua,Germany,True
+73,Maní,São Paulo,2019,list_2019_51_120.csv,Brazil,mani,Brazil,False
+74,Lasai,Rio de Janeiro,2019,list_2019_51_120.csv,Brazil,lasai,Brazil,False
+75,Diverxo,Madrid,2019,list_2019_51_120.csv,Spain,diverxo,Spain & Portugal,True
+76,Momofuku Ko,New York,2019,list_2019_51_120.csv,United States,momofuku ko,East USA & East Canada,False
+77,Chef's Table at Brooklyn Fare,New York,2019,list_2019_51_120.csv,United States,chef s table at brooklyn fare,East USA & East Canada,False
+78,Lido 84,Gardone Riviera,2019,list_2019_51_120.csv,Italy,lido 84,Italy,True
+79,Mingles,Seoul,2019,list_2019_51_120.csv,South Korea,mingles,Korea,False
+80,Estela,New York,2019,list_2019_51_120.csv,United States,estela,East USA & East Canada,False
+81,Quique Dacosta,Dénia,2019,list_2019_51_120.csv,Spain,quique dacosta,Spain & Portugal,True
+82,Enigma,Barcelona,2019,list_2019_51_120.csv,Spain,enigma,Spain & Portugal,True
+83,Dinner by Heston Blumenthal,London,2019,list_2019_51_120.csv,United Kingdom,dinner by heston blumenthal,UK & Ireland,True
+84,Attica,Melbourne,2019,list_2019_51_120.csv,Australia,attica,Oceania,False
+85,Amass,Copenhagen,2019,list_2019_51_120.csv,Denmark,amass,Scandinavia & Baltics,True
+86,Tegui,Buenos Aires,2019,list_2019_51_120.csv,Argentina,tegui,"South America (South, excl. Brazil)",False
+87,Martin Berasategui,Lasarte-Oria,2019,list_2019_51_120.csv,Spain,martin berasategui,Spain & Portugal,True
+88,Lung King Heen,Hong Kong,2019,list_2019_51_120.csv,Hong Kong,lung king heen,"Hong Kong, Macau & Taiwan",False
+89,108,Copenhagen,2019,list_2019_51_120.csv,Denmark,108,Scandinavia & Baltics,True
+90,Alo,Toronto,2019,list_2019_51_120.csv,Canada,alo,Mid USA & Mid Canada,False
+91,Sushi Saito,Tokyo,2019,list_2019_51_120.csv,Japan,sushi saito,Japan,False
+92,Harvest,Moscow,2019,list_2019_51_120.csv,Russia,harvest,"Russia, Central Asia & Eastern Europe",True
+93,La Cime,Osaka,2019,list_2019_51_120.csv,Japan,la cime,Japan,False
+94,Aponiente,El Puerto de Santa María,2019,list_2019_51_120.csv,Spain,aponiente,Spain & Portugal,True
+95,Gaa,Bangkok,2019,list_2019_51_120.csv,Thailand,gaa,Southeast Asia (North),False
+96,Belon,Hong Kong,2019,list_2019_51_120.csv,Hong Kong,belon,"Hong Kong, Macau & Taiwan",False
+97,Vendôme,Bergisch Gladbach,2019,list_2019_51_120.csv,Germany,vendome,Germany,True
+98,Anne-Sophie Pic,Valence,2019,list_2019_51_120.csv,France,anne sophie pic,France,True
+99,The Jane,Antwerp,2019,list_2019_51_120.csv,Belgium,the jane,Benelux,True
+100,Oteque,Rio de Janeiro,2019,list_2019_51_120.csv,Brazil,oteque,Brazil,False
+101,Brae,Birregurra,2019,list_2019_51_120.csv,Australia,brae,Oceania,False
+102,Amber,Hong Kong,2019,list_2019_51_120.csv,Hong Kong,amber,"Hong Kong, Macau & Taiwan",False
+103,Jade Dragon,Macau,2019,list_2019_51_120.csv,Macau,jade dragon,"Hong Kong, Macau & Taiwan",False
+104,Cococo,Saint Petersburg,2019,list_2019_51_120.csv,Russia,cococo,"Russia, Central Asia & Eastern Europe",True
+105,Kadeau,Copenhagen,2019,list_2019_51_120.csv,Denmark,kadeau,Scandinavia & Baltics,True
+106,Restaurant David Toutain,Paris,2019,list_2019_51_120.csv,France,david toutain,France,True
+107,Il Ristorante Luca Fantin,Tokyo,2019,list_2019_51_120.csv,Japan,il ristorante luca fantin,Japan,False
+108,L'Astrance,Paris,2019,list_2019_51_120.csv,France,l astrance,France,True
+109,Alcalde,Guadalajara,2019,list_2019_51_120.csv,Mexico,alcalde,Mexico & Central America,False
+110,Neolokal,Istanbul,2019,list_2019_51_120.csv,Türkiye,neolokal,"Türkiye, Greece & the Balkans",True
+111,Chambre Séparée,Ghent,2019,list_2019_51_120.csv,Belgium,chambre separee,Benelux,True
+112,St John,London,2019,list_2019_51_120.csv,United Kingdom,st john,UK & Ireland,True
+113,Vea,Hong Kong,2019,list_2019_51_120.csv,Hong Kong,vea,"Hong Kong, Macau & Taiwan",False
+114,La Colombe,Cape Town,2019,list_2019_51_120.csv,South Africa,la colombe,South & East Africa,False
+115,Per Se,New York,2019,list_2019_51_120.csv,United States,per se,East USA & East Canada,False
+116,St. Hubertus,San Cassiano,2019,list_2019_51_120.csv,Italy,st hubertus,Italy,True
+117,Epicure,Paris,2019,list_2019_51_120.csv,France,epicure,France,True
+118,Ernst,Berlin,2019,list_2019_51_120.csv,Germany,ernst,Germany,True
+119,Atomix,New York,2019,list_2019_51_120.csv,United States,atomix,East USA & East Canada,False
+120,Sugalabo,Tokyo,2019,list_2019_51_120.csv,Japan,sugalabo,Japan,False
+1,Noma,Copenhagen,2021,organiser_archive/2021.txt,Denmark,noma 2.0,Scandinavia & Baltics,True
+2,Geranium,Copenhagen,2021,organiser_archive/2021.txt,Denmark,geranium,Scandinavia & Baltics,True
+3,Asador Etxebarri,Atxondo,2021,organiser_archive/2021.txt,Spain,asador etxebarri,Spain & Portugal,True
+4,Central,Lima,2021,organiser_archive/2021.txt,Peru,central,South America (North) & the Caribbean,False
+5,Disfrutar,Barcelona,2021,organiser_archive/2021.txt,Spain,disfrutar,Spain & Portugal,True
+6,Frantzén,Stockholm,2021,organiser_archive/2021.txt,Sweden,frantzen,Scandinavia & Baltics,True
+7,Maido,Lima,2021,organiser_archive/2021.txt,Peru,maido,South America (North) & the Caribbean,False
+8,Odette,Singapore,2021,organiser_archive/2021.txt,Singapore,odette,Southeast Asia (South),False
+9,Pujol,Mexico City,2021,organiser_archive/2021.txt,Mexico,pujol,Mexico & Central America,False
+10,The Chairman,Hong Kong,2021,organiser_archive/2021.txt,Hong Kong,the chairman,"Hong Kong, Macau & Taiwan",False
+11,Den,Tokyo,2021,organiser_archive/2021.txt,Japan,den,Japan,False
+12,Steirereck,Vienna,2021,organiser_archive/2021.txt,Austria,steirereck,"Austria, Switzerland, Hungary & Slovenia",True
+13,Don Julio,Buenos Aires,2021,organiser_archive/2021.txt,Argentina,don julio,"South America (South, excl. Brazil)",False
+14,Mugaritz,San Sebastian,2021,organiser_archive/2021.txt,Spain,mugaritz,Spain & Portugal,True
+15,Lido 84,Gardone Riviera,2021,organiser_archive/2021.txt,Italy,lido 84,Italy,True
+16,Elkano,Getaria,2021,organiser_archive/2021.txt,Spain,elkano,Spain & Portugal,True
+17,A Casa do Porco,São Paulo,2021,organiser_archive/2021.txt,Brazil,a casa do porco,Brazil,False
+18,Piazza Duomo,Alba,2021,organiser_archive/2021.txt,Italy,piazza duomo,Italy,True
+19,Narisawa,Tokyo,2021,organiser_archive/2021.txt,Japan,narisawa,Japan,False
+20,DiverXO,Madrid,2021,organiser_archive/2021.txt,Spain,diverxo,Spain & Portugal,True
+21,Hiša Franko,Kobarid,2021,organiser_archive/2021.txt,Slovenia,hisa franko,"Austria, Switzerland, Hungary & Slovenia",True
+22,Cosme,New York,2021,organiser_archive/2021.txt,United States,cosme,East USA & East Canada,False
+23,Arpège,Paris,2021,organiser_archive/2021.txt,France,arpege,France,True
+24,Septime,Paris,2021,organiser_archive/2021.txt,France,septime,France,True
+25,White Rabbit,Moscow,2021,organiser_archive/2021.txt,Russia,white rabbit,"Russia, Central Asia & Eastern Europe",True
+26,Le Calandre,Rubano,2021,organiser_archive/2021.txt,Italy,le calandre,Italy,True
+27,Quintonil,Mexico City,2021,organiser_archive/2021.txt,Mexico,quintonil,Mexico & Central America,False
+28,Benu,San Francisco,2021,organiser_archive/2021.txt,United States,benu,West USA & West Canada,False
+29,Reale,Castel di Sangro,2021,organiser_archive/2021.txt,Italy,reale,Italy,True
+30,Twins Garden,Moscow,2021,organiser_archive/2021.txt,Russia,twins garden,"Russia, Central Asia & Eastern Europe",True
+31,Restaurant Tim Raue,Berlin,2021,organiser_archive/2021.txt,Germany,tim raue,Germany,True
+32,The Clove Club,London,2021,organiser_archive/2021.txt,United Kingdom,the clove club,UK & Ireland,True
+33,Lyle's,London,2021,organiser_archive/2021.txt,United Kingdom,lyle s,UK & Ireland,True
+34,Burnt Ends,Singapore,2021,organiser_archive/2021.txt,Singapore,burnt ends,Southeast Asia (South),False
+35,Ultraviolet by Paul Pairet,Shanghai,2021,organiser_archive/2021.txt,China,ultraviolet by paul pairet,Mainland China,False
+36,Hof Van Cleve,Kruishoutem,2021,organiser_archive/2021.txt,Belgium,hof van cleve,Benelux,True
+37,SingleThread,Healdsburg,2021,organiser_archive/2021.txt,United States,singlethread,West USA & West Canada,False
+38,Boragó,Santiago,2021,organiser_archive/2021.txt,Chile,borago,"South America (South, excl. Brazil)",False
+39,Florilège,Tokyo,2021,organiser_archive/2021.txt,Japan,florilege,Japan,False
+40,Sühring,Bangkok,2021,organiser_archive/2021.txt,Thailand,suhring,Southeast Asia (North),False
+41,Alléno Paris au Pavillon Ledoyen,Paris,2021,organiser_archive/2021.txt,France,alleno paris au pavillon ledoyen,France,True
+42,Belcanto,Lisbon,2021,organiser_archive/2021.txt,Portugal,belcanto,Spain & Portugal,True
+43,Atomix,New York,2021,organiser_archive/2021.txt,United States,atomix,East USA & East Canada,False
+44,Le Bernardin,New York,2021,organiser_archive/2021.txt,United States,le bernardin,East USA & East Canada,False
+45,Nobelhart & Schmutzig,Berlin,2021,organiser_archive/2021.txt,Germany,nobelhart and schmutzig,Germany,True
+46,Leo,Bogotá,2021,organiser_archive/2021.txt,Colombia,leo,South America (North) & the Caribbean,False
+47,Maaemo,Oslo,2021,organiser_archive/2021.txt,Norway,maaemo,Scandinavia & Baltics,True
+48,Atelier Crenn,San Francisco,2021,organiser_archive/2021.txt,United States,atelier crenn,West USA & West Canada,False
+49,Azurmendi,Larrabetzu,2021,organiser_archive/2021.txt,Spain,azurmendi,Spain & Portugal,True
+50,Wolfgat,Paternoster,2021,organiser_archive/2021.txt,South Africa,wolfgat,South & East Africa,False
+51,Nihonryori RyuGin,Tokyo,2021,list_2021_51_100.csv,Japan,nihonryori ryugin,Japan,False
+52,Uliassi,Senigallia,2021,list_2021_51_100.csv,Italy,uliassi,Italy,True
+53,Nerua,Bilbao,2021,list_2021_51_100.csv,Spain,nerua,Spain & Portugal,True
+54,St. Hubertus,San Cassiano,2021,list_2021_51_100.csv,Italy,st hubertus,Italy,True
+55,Chef's Table at Brooklyn Fare,New York,2021,list_2021_51_100.csv,United States,chef s table at brooklyn fare,East USA & East Canada,False
+56,Sud 777,Mexico City,2021,list_2021_51_100.csv,Mexico,sud 777,Mexico & Central America,False
+57,Brae,Birregurra,2021,list_2021_51_100.csv,Australia,brae,Oceania,False
+58,Alchemist,Copenhagen,2021,list_2021_51_100.csv,Denmark,alchemist,Scandinavia & Baltics,True
+59,Schloss Schauenstein,Fürstenau,2021,list_2021_51_100.csv,Switzerland,schloss schauenstein,"Austria, Switzerland, Hungary & Slovenia",True
+60,Mikla,Istanbul,2021,list_2021_51_100.csv,Türkiye,mikla,"Türkiye, Greece & the Balkans",True
+61,D.O.M.,São Paulo,2021,list_2021_51_100.csv,Brazil,dom,Brazil,False
+62,Mingles,Seoul,2021,list_2021_51_100.csv,South Korea,mingles,Korea,False
+63,Sorn,Bangkok,2021,list_2021_51_100.csv,Thailand,sorn,Southeast Asia (North),False
+64,Core by Clare Smyth,London,2021,list_2021_51_100.csv,United Kingdom,core by clare smyth,UK & Ireland,True
+65,Dinner by Heston Blumenthal,London,2021,list_2021_51_100.csv,United Kingdom,dinner by heston blumenthal,UK & Ireland,True
+66,The Jane,Antwerp,2021,list_2021_51_100.csv,Belgium,the jane,Benelux,True
+67,Oteque,Rio de Janeiro,2021,list_2021_51_100.csv,Brazil,oteque,Brazil,False
+68,Alcalde,Guadalajara,2021,list_2021_51_100.csv,Mexico,alcalde,Mexico & Central America,False
+69,De Librije,Zwolle,2021,list_2021_51_100.csv,Netherlands,de librije,Benelux,True
+70,Alinea,Chicago,2021,list_2021_51_100.csv,United States,alinea,Mid USA & Mid Canada,False
+71,Vea,Hong Kong,2021,list_2021_51_100.csv,Hong Kong,vea,"Hong Kong, Macau & Taiwan",False
+72,Le Du,Bangkok,2021,list_2021_51_100.csv,Thailand,le du,Southeast Asia (North),False
+73,Il Ristorante Luca Fantin,Tokyo,2021,list_2021_51_100.csv,Japan,il ristorante luca fantin,Japan,False
+74,Quique Dacosta,Dénia,2021,list_2021_51_100.csv,Spain,quique dacosta,Spain & Portugal,True
+75,Sazenka,Tokyo,2021,list_2021_51_100.csv,Japan,sazenka,Japan,False
+76,La Cime,Osaka,2021,list_2021_51_100.csv,Japan,la cime,Japan,False
+77,Willem Hiele,Koksijde,2021,list_2021_51_100.csv,Belgium,willem hiele,Benelux,True
+78,Brat,London,2021,list_2021_51_100.csv,United Kingdom,brat,UK & Ireland,True
+79,Aponiente,El Puerto de Santa María,2021,list_2021_51_100.csv,Spain,aponiente,Spain & Portugal,True
+80,El Chato,Bogotá,2021,list_2021_51_100.csv,Colombia,el chato,South America (North) & the Caribbean,False
+81,La Colombe,Cape Town,2021,list_2021_51_100.csv,South Africa,la colombe,South & East Africa,False
+82,Indian Accent,New Delhi,2021,list_2021_51_100.csv,India,indian accent,India & Subcontinent,False
+83,Epicure,Paris,2021,list_2021_51_100.csv,France,epicure,France,True
+84,Le Clarence,Paris,2021,list_2021_51_100.csv,France,le clarence,France,True
+85,Lasai,Rio de Janeiro,2021,list_2021_51_100.csv,Brazil,lasai,Brazil,False
+86,Restaurant David Toutain,Paris,2021,list_2021_51_100.csv,France,david toutain,France,True
+87,Ikoyi,London,2021,list_2021_51_100.csv,United Kingdom,ikoyi,UK & Ireland,True
+88,Belon,Hong Kong,2021,list_2021_51_100.csv,Hong Kong,belon,"Hong Kong, Macau & Taiwan",False
+89,Amass,Copenhagen,2021,list_2021_51_100.csv,Denmark,amass,Scandinavia & Baltics,True
+90,Mil,Cusco,2021,list_2021_51_100.csv,Peru,mil,South America (North) & the Caribbean,False
+91,La Grenouillère,La Madelaine-sous-Montreuil,2021,list_2021_51_100.csv,France,la grenouillere,France,True
+92,Fyn,Cape Town,2021,list_2021_51_100.csv,South Africa,fyn,South & East Africa,False
+93,Gaa,Bangkok,2021,list_2021_51_100.csv,Thailand,gaa,Southeast Asia (North),False
+94,Arzak,San Sebastián,2021,list_2021_51_100.csv,Spain,arzak,Spain & Portugal,True
+95,Kjolle,Lima,2021,list_2021_51_100.csv,Peru,kjolle,South America (North) & the Caribbean,False
+96,Astrid y Gastón,Lima,2021,list_2021_51_100.csv,Peru,astrid y gaston,South America (North) & the Caribbean,False
+97,Attica,Melbourne,2021,list_2021_51_100.csv,Australia,attica,Oceania,False
+98,Alo,Toronto,2021,list_2021_51_100.csv,Canada,alo,Mid USA & Mid Canada,False
+99,L'Effervescence,Tokyo,2021,list_2021_51_100.csv,Japan,l effervescence,Japan,False
+100,Amber,Hong Kong,2021,list_2021_51_100.csv,Hong Kong,amber,"Hong Kong, Macau & Taiwan",False
+1,Geranium,Copenhagen,2022,organiser_archive/2022.txt,Denmark,geranium,Scandinavia & Baltics,True
+2,Central,Lima,2022,organiser_archive/2022.txt,Peru,central,South America (North) & the Caribbean,False
+3,Disfrutar,Barcelona,2022,organiser_archive/2022.txt,Spain,disfrutar,Spain & Portugal,True
+4,Diverxo,Madrid,2022,organiser_archive/2022.txt,Spain,diverxo,Spain & Portugal,True
+5,Pujol,Mexico City,2022,organiser_archive/2022.txt,Mexico,pujol,Mexico & Central America,False
+6,Asador Etxebarri,Atxondo,2022,organiser_archive/2022.txt,Spain,asador etxebarri,Spain & Portugal,True
+7,A Casa do Porco,São Paulo,2022,organiser_archive/2022.txt,Brazil,a casa do porco,Brazil,False
+8,Lido 84,Gardone Riviera,2022,organiser_archive/2022.txt,Italy,lido 84,Italy,True
+9,Quintonil,Mexico City,2022,organiser_archive/2022.txt,Mexico,quintonil,Mexico & Central America,False
+10,Le Calandre,Rubano,2022,organiser_archive/2022.txt,Italy,le calandre,Italy,True
+11,Maido,Lima,2022,organiser_archive/2022.txt,Peru,maido,South America (North) & the Caribbean,False
+12,Uliassi,Senigallia,2022,organiser_archive/2022.txt,Italy,uliassi,Italy,True
+13,Steirereck,Vienna,2022,organiser_archive/2022.txt,Austria,steirereck,"Austria, Switzerland, Hungary & Slovenia",True
+14,Don Julio,Buenos Aires,2022,organiser_archive/2022.txt,Argentina,don julio,"South America (South, excl. Brazil)",False
+15,Reale,Castel di Sangro,2022,organiser_archive/2022.txt,Italy,reale,Italy,True
+16,Elkano,Getaria,2022,organiser_archive/2022.txt,Spain,elkano,Spain & Portugal,True
+17,Nobelhart & Schmutzig,Berlin,2022,organiser_archive/2022.txt,Germany,nobelhart and schmutzig,Germany,True
+18,Alchemist,Copenhagen,2022,organiser_archive/2022.txt,Denmark,alchemist,Scandinavia & Baltics,True
+19,Piazza Duomo,Alba,2022,organiser_archive/2022.txt,Italy,piazza duomo,Italy,True
+20,Den,Tokyo,2022,organiser_archive/2022.txt,Japan,den,Japan,False
+21,Mugaritz,San Sebastian,2022,organiser_archive/2022.txt,Spain,mugaritz,Spain & Portugal,True
+22,Septime,Paris,2022,organiser_archive/2022.txt,France,septime,France,True
+23,The Jane,Antwerp,2022,organiser_archive/2022.txt,Belgium,the jane,Benelux,True
+24,The Chairman,Hong Kong,2022,organiser_archive/2022.txt,Hong Kong,the chairman,"Hong Kong, Macau & Taiwan",False
+25,Frantzén,Stockholm,2022,organiser_archive/2022.txt,Sweden,frantzen,Scandinavia & Baltics,True
+26,Restaurant Tim Raue,Berlin,2022,organiser_archive/2022.txt,Germany,tim raue,Germany,True
+27,Hof Van Cleve,Kruishoutem,2022,organiser_archive/2022.txt,Belgium,hof van cleve,Benelux,True
+28,Le Clarence,Paris,2022,organiser_archive/2022.txt,France,le clarence,France,True
+29,St. Hubertus,San Cassiano,2022,organiser_archive/2022.txt,Italy,st hubertus,Italy,True
+30,Florilège,Tokyo,2022,organiser_archive/2022.txt,Japan,florilege,Japan,False
+31,Arpège,Paris,2022,organiser_archive/2022.txt,France,arpege,France,True
+32,Mayta,Lima,2022,organiser_archive/2022.txt,Peru,mayta,South America (North) & the Caribbean,False
+33,Atomix,New York,2022,organiser_archive/2022.txt,United States,atomix,East USA & East Canada,False
+34,Hiša Franko,Kobarid,2022,organiser_archive/2022.txt,Slovenia,hisa franko,"Austria, Switzerland, Hungary & Slovenia",True
+35,The Clove Club,London,2022,organiser_archive/2022.txt,United Kingdom,the clove club,UK & Ireland,True
+36,Odette,Singapore,2022,organiser_archive/2022.txt,Singapore,odette,Southeast Asia (South),False
+37,Fyn,Cape Town,2022,organiser_archive/2022.txt,South Africa,fyn,South & East Africa,False
+38,Jordnær,Copenhagen,2022,organiser_archive/2022.txt,Denmark,jordnaer,Scandinavia & Baltics,True
+39,Sorn,Bangkok,2022,organiser_archive/2022.txt,Thailand,sorn,Southeast Asia (North),False
+40,Schloss Schauenstein,Fürstenau,2022,organiser_archive/2022.txt,Switzerland,schloss schauenstein,"Austria, Switzerland, Hungary & Slovenia",True
+41,La Cime,Osaka,2022,organiser_archive/2022.txt,Japan,la cime,Japan,False
+42,Quique Dacosta,Dénia,2022,organiser_archive/2022.txt,Spain,quique dacosta,Spain & Portugal,True
+43,Boragó,Santiago,2022,organiser_archive/2022.txt,Chile,borago,"South America (South, excl. Brazil)",False
+44,Le Bernardin,New York,2022,organiser_archive/2022.txt,United States,le bernardin,East USA & East Canada,False
+45,Narisawa,Tokyo,2022,organiser_archive/2022.txt,Japan,narisawa,Japan,False
+46,Belcanto,Lisbon,2022,organiser_archive/2022.txt,Portugal,belcanto,Spain & Portugal,True
+47,Oteque,Rio de Janeiro,2022,organiser_archive/2022.txt,Brazil,oteque,Brazil,False
+48,Leo,Bogotá,2022,organiser_archive/2022.txt,Colombia,leo,South America (North) & the Caribbean,False
+49,Ikoyi,London,2022,organiser_archive/2022.txt,United Kingdom,ikoyi,UK & Ireland,True
+50,SingleThread,Healdsburg,2022,organiser_archive/2022.txt,United States,singlethread,West USA & West Canada,False
+51,Alcalde,Guadalajara,2022,list_2022_51_100.csv,Mexico,alcalde,Mexico & Central America,False
+52,Sud 777,Mexico City,2022,list_2022_51_100.csv,Mexico,sud 777,Mexico & Central America,False
+53,D.O.M.,São Paulo,2022,list_2022_51_100.csv,Brazil,dom,Brazil,False
+54,Lyle's,London,2022,list_2022_51_100.csv,United Kingdom,lyle s,UK & Ireland,True
+55,Azurmendi,Larrabetzu,2022,list_2022_51_100.csv,Spain,azurmendi,Spain & Portugal,True
+56,La Colombe,Cape Town,2022,list_2022_51_100.csv,South Africa,la colombe,South & East Africa,False
+57,Trèsind Studio,Dubai,2022,list_2022_51_100.csv,United Arab Emirates,tresind studio,Middle East,False
+58,Alléno Paris au Pavillon Ledoyen,Paris,2022,list_2022_51_100.csv,France,alleno paris au pavillon ledoyen,France,True
+59,Sazenka,Tokyo,2022,list_2022_51_100.csv,Japan,sazenka,Japan,False
+60,Rosetta,Mexico City,2022,list_2022_51_100.csv,Mexico,rosetta,Mexico & Central America,False
+61,La Grenouillère,La Madelaine-sous-Montreuil,2022,list_2022_51_100.csv,France,la grenouillere,France,True
+62,Ernst,Berlin,2022,list_2022_51_100.csv,Germany,ernst,Germany,True
+63,Chef's Table at Brooklyn Fare,New York,2022,list_2022_51_100.csv,United States,chef s table at brooklyn fare,East USA & East Canada,False
+64,Fu He Hui,Shanghai,2022,list_2022_51_100.csv,China,fu he hui,Mainland China,False
+65,Le Du,Bangkok,2022,list_2022_51_100.csv,Thailand,le du,Southeast Asia (North),False
+66,Sühring,Bangkok,2022,list_2022_51_100.csv,Thailand,suhring,Southeast Asia (North),False
+67,Evvai,São Paulo,2022,list_2022_51_100.csv,Brazil,evvai,Brazil,False
+68,Kjolle,Lima,2022,list_2022_51_100.csv,Peru,kjolle,South America (North) & the Caribbean,False
+69,Cosme,New York,2022,list_2022_51_100.csv,United States,cosme,East USA & East Canada,False
+70,Zén,Singapore,2022,list_2022_51_100.csv,Singapore,zen,Southeast Asia (South),False
+71,Mingles,Seoul,2022,list_2022_51_100.csv,South Korea,mingles,Korea,False
+72,Atelier Crenn,San Francisco,2022,list_2022_51_100.csv,United States,atelier crenn,West USA & West Canada,False
+73,Kol,London,2022,list_2022_51_100.csv,United Kingdom,kol,UK & Ireland,True
+74,Blue Hill at Stone Barns,Pocantico Hills,2022,list_2022_51_100.csv,United States,blue hill at stone barns,East USA & East Canada,False
+75,Samrub Samrub Thai,Bangkok,2022,list_2022_51_100.csv,Thailand,samrub samrub thai,Southeast Asia (North),False
+76,Neighborhood,Hong Kong,2022,list_2022_51_100.csv,Hong Kong,neighborhood,"Hong Kong, Macau & Taiwan",False
+77,Table by Bruno Verjus,Paris,2022,list_2022_51_100.csv,France,table by bruno verjus,France,True
+78,Lasai,Rio de Janeiro,2022,list_2022_51_100.csv,Brazil,lasai,Brazil,False
+79,Estela,New York,2022,list_2022_51_100.csv,United States,estela,East USA & East Canada,False
+80,AM par Alexandre Mazzia,Marseille,2022,list_2022_51_100.csv,France,am par alexandre mazzia,France,True
+81,Brat,London,2022,list_2022_51_100.csv,United Kingdom,brat,UK & Ireland,True
+82,Sézanne,Tokyo,2022,list_2022_51_100.csv,Japan,sezanne,Japan,False
+83,El Chato,Bogotá,2022,list_2022_51_100.csv,Colombia,el chato,South America (North) & the Caribbean,False
+84,Gimlet at Cavendish House,Melbourne,2022,list_2022_51_100.csv,Australia,gimlet at cavendish house,Oceania,False
+85,Raan Jay Fai,Bangkok,2022,list_2022_51_100.csv,Thailand,raan jay fai,Southeast Asia (North),False
+86,Mikla,Istanbul,2022,list_2022_51_100.csv,Türkiye,mikla,"Türkiye, Greece & the Balkans",True
+87,Orfali Bros Bistro,Dubai,2022,list_2022_51_100.csv,United Arab Emirates,orfali bros,Middle East,False
+88,Mishiguene,Buenos Aires,2022,list_2022_51_100.csv,Argentina,mishiguene,"South America (South, excl. Brazil)",False
+89,Máximo Bistrot,Mexico City,2022,list_2022_51_100.csv,Mexico,maximo bistrot,Mexico & Central America,False
+90,Wolfgat,Paternoster,2022,list_2022_51_100.csv,South Africa,wolfgat,South & East Africa,False
+91,Oriole,Chicago,2022,list_2022_51_100.csv,United States,oriole,Mid USA & Mid Canada,False
+92,Indian Accent,New Delhi,2022,list_2022_51_100.csv,India,indian accent,India & Subcontinent,False
+93,Hertog Jan at Botanic Sanctuary,Antwerp,2022,list_2022_51_100.csv,Belgium,hertog jan at botanic sanctuary,Benelux,True
+94,Burnt Ends,Singapore,2022,list_2022_51_100.csv,Singapore,burnt ends,Southeast Asia (South),False
+95,Meta,Singapore,2022,list_2022_51_100.csv,Singapore,meta,Southeast Asia (South),False
+96,Maní,São Paulo,2022,list_2022_51_100.csv,Brazil,mani,Brazil,False
+97,Benu,San Francisco,2022,list_2022_51_100.csv,United States,benu,West USA & West Canada,False
+98,Tantris,Munich,2022,list_2022_51_100.csv,Germany,tantris,Germany,True
+99,Flocons de Sel,Megève,2022,list_2022_51_100.csv,France,flocons de sel,France,True
+100,Wing,Hong Kong,2022,list_2022_51_100.csv,Hong Kong,wing,"Hong Kong, Macau & Taiwan",False
+1,Central,Lima,2023,organiser_archive/2023.txt,Peru,central,South America (North) & the Caribbean,False
+2,Disfrutar,Barcelona,2023,organiser_archive/2023.txt,Spain,disfrutar,Spain & Portugal,True
+3,Diverxo,Madrid,2023,organiser_archive/2023.txt,Spain,diverxo,Spain & Portugal,True
+4,Asador Etxebarri,Atxondo,2023,organiser_archive/2023.txt,Spain,asador etxebarri,Spain & Portugal,True
+5,Alchemist,Copenhagen,2023,organiser_archive/2023.txt,Denmark,alchemist,Scandinavia & Baltics,True
+6,Maido,Lima,2023,organiser_archive/2023.txt,Peru,maido,South America (North) & the Caribbean,False
+7,Lido 84,Gardone Riviera,2023,organiser_archive/2023.txt,Italy,lido 84,Italy,True
+8,Atomix,New York,2023,organiser_archive/2023.txt,United States,atomix,East USA & East Canada,False
+9,Quintonil,Mexico City,2023,organiser_archive/2023.txt,Mexico,quintonil,Mexico & Central America,False
+10,Table by Bruno Verjus,Paris,2023,organiser_archive/2023.txt,France,table by bruno verjus,France,True
+11,Trèsind Studio,Dubai,2023,organiser_archive/2023.txt,United Arab Emirates,tresind studio,Middle East,False
+12,A Casa do Porco,São Paulo,2023,organiser_archive/2023.txt,Brazil,a casa do porco,Brazil,False
+13,Pujol,Mexico City,2023,organiser_archive/2023.txt,Mexico,pujol,Mexico & Central America,False
+14,Odette,Singapore,2023,organiser_archive/2023.txt,Singapore,odette,Southeast Asia (South),False
+15,Le Du,Bangkok,2023,organiser_archive/2023.txt,Thailand,le du,Southeast Asia (North),False
+16,Reale,Castel di Sangro,2023,organiser_archive/2023.txt,Italy,reale,Italy,True
+17,Gaggan Anand,Bangkok,2023,organiser_archive/2023.txt,Thailand,gaggan anand,Southeast Asia (North),False
+18,Steirereck,Vienna,2023,organiser_archive/2023.txt,Austria,steirereck,"Austria, Switzerland, Hungary & Slovenia",True
+19,Don Julio,Buenos Aires,2023,organiser_archive/2023.txt,Argentina,don julio,"South America (South, excl. Brazil)",False
+20,Quique Dacosta,Dénia,2023,organiser_archive/2023.txt,Spain,quique dacosta,Spain & Portugal,True
+21,Den,Tokyo,2023,organiser_archive/2023.txt,Japan,den,Japan,False
+22,Elkano,Getaria,2023,organiser_archive/2023.txt,Spain,elkano,Spain & Portugal,True
+23,Kol,London,2023,organiser_archive/2023.txt,United Kingdom,kol,UK & Ireland,True
+24,Septime,Paris,2023,organiser_archive/2023.txt,France,septime,France,True
+25,Belcanto,Lisbon,2023,organiser_archive/2023.txt,Portugal,belcanto,Spain & Portugal,True
+26,Schloss Schauenstein,Fürstenau,2023,organiser_archive/2023.txt,Switzerland,schloss schauenstein,"Austria, Switzerland, Hungary & Slovenia",True
+27,Florilège,Tokyo,2023,organiser_archive/2023.txt,Japan,florilege,Japan,False
+28,Kjolle,Lima,2023,organiser_archive/2023.txt,Peru,kjolle,South America (North) & the Caribbean,False
+29,Boragó,Santiago,2023,organiser_archive/2023.txt,Chile,borago,"South America (South, excl. Brazil)",False
+30,Frantzén,Stockholm,2023,organiser_archive/2023.txt,Sweden,frantzen,Scandinavia & Baltics,True
+31,Mugaritz,San Sebastian,2023,organiser_archive/2023.txt,Spain,mugaritz,Spain & Portugal,True
+32,Hiša Franko,Kobarid,2023,organiser_archive/2023.txt,Slovenia,hisa franko,"Austria, Switzerland, Hungary & Slovenia",True
+33,El Chato,Bogotá,2023,organiser_archive/2023.txt,Colombia,el chato,South America (North) & the Caribbean,False
+34,Uliassi,Senigallia,2023,organiser_archive/2023.txt,Italy,uliassi,Italy,True
+35,Ikoyi,London,2023,organiser_archive/2023.txt,United Kingdom,ikoyi,UK & Ireland,True
+36,Plénitude,Paris,2023,organiser_archive/2023.txt,France,plenitude,France,True
+37,Sézanne,Tokyo,2023,organiser_archive/2023.txt,Japan,sezanne,Japan,False
+38,The Clove Club,London,2023,organiser_archive/2023.txt,United Kingdom,the clove club,UK & Ireland,True
+39,The Jane,Antwerp,2023,organiser_archive/2023.txt,Belgium,the jane,Benelux,True
+40,Restaurant Tim Raue,Berlin,2023,organiser_archive/2023.txt,Germany,tim raue,Germany,True
+41,Le Calandre,Rubano,2023,organiser_archive/2023.txt,Italy,le calandre,Italy,True
+42,Piazza Duomo,Alba,2023,organiser_archive/2023.txt,Italy,piazza duomo,Italy,True
+43,Leo,Bogotá,2023,organiser_archive/2023.txt,Colombia,leo,South America (North) & the Caribbean,False
+44,Le Bernardin,New York,2023,organiser_archive/2023.txt,United States,le bernardin,East USA & East Canada,False
+45,Nobelhart & Schmutzig,Berlin,2023,organiser_archive/2023.txt,Germany,nobelhart and schmutzig,Germany,True
+46,Orfali Bros Bistro,Dubai,2023,organiser_archive/2023.txt,United Arab Emirates,orfali bros,Middle East,False
+47,Mayta,Lima,2023,organiser_archive/2023.txt,Peru,mayta,South America (North) & the Caribbean,False
+48,La Grenouillère,La Madelaine-sous-Montreuil,2023,organiser_archive/2023.txt,France,la grenouillere,France,True
+49,Rosetta,Mexico City,2023,organiser_archive/2023.txt,Mexico,rosetta,Mexico & Central America,False
+50,The Chairman,Hong Kong,2023,organiser_archive/2023.txt,Hong Kong,the chairman,"Hong Kong, Macau & Taiwan",False
+51,Narisawa,Tokyo,2023,organiser_archive/2023.txt,Japan,narisawa,Japan,False
+52,Hof Van Cleve,Kruishoutem,2023,organiser_archive/2023.txt,Belgium,hof van cleve,Benelux,True
+53,Brat,London,2023,organiser_archive/2023.txt,United Kingdom,brat,UK & Ireland,True
+54,Alcalde,Guadalajara,2023,organiser_archive/2023.txt,Mexico,alcalde,Mexico & Central America,False
+55,Ernst,Berlin,2023,organiser_archive/2023.txt,Germany,ernst,Germany,True
+56,Sorn,Bangkok,2023,organiser_archive/2023.txt,Thailand,sorn,Southeast Asia (North),False
+57,Jordnær,Copenhagen,2023,organiser_archive/2023.txt,Denmark,jordnaer,Scandinavia & Baltics,True
+58,Lasai,Rio de Janeiro,2023,organiser_archive/2023.txt,Brazil,lasai,Brazil,False
+59,Mérito,Lima,2023,organiser_archive/2023.txt,Peru,merito,South America (North) & the Caribbean,False
+60,La Cime,Osaka,2023,organiser_archive/2023.txt,Japan,la cime,Japan,False
+61,Chef's Table at Brooklyn Fare,New York,2023,organiser_archive/2023.txt,United States,chef s table at brooklyn fare,East USA & East Canada,False
+62,Arpège,Paris,2023,organiser_archive/2023.txt,France,arpege,France,True
+63,Neolokal,Istanbul,2023,organiser_archive/2023.txt,Türkiye,neolokal,"Türkiye, Greece & the Balkans",True
+64,Aponiente,El Puerto de Santa María,2023,organiser_archive/2023.txt,Spain,aponiente,Spain & Portugal,True
+65,Burnt Ends,Singapore,2023,organiser_archive/2023.txt,Singapore,burnt ends,Southeast Asia (South),False
+66,Turk Fatih Tutak,Istanbul,2023,organiser_archive/2023.txt,Türkiye,turk fatih tutak,"Türkiye, Greece & the Balkans",True
+67,Le Clarence,Paris,2023,organiser_archive/2023.txt,France,le clarence,France,True
+68,SingleThread,Healdsburg,2023,organiser_archive/2023.txt,United States,singlethread,West USA & West Canada,False
+69,Zén,Singapore,2023,organiser_archive/2023.txt,Singapore,zen,Southeast Asia (South),False
+70,Sud 777,Mexico City,2023,organiser_archive/2023.txt,Mexico,sud 777,Mexico & Central America,False
+71,Core by Clare Smyth,London,2023,organiser_archive/2023.txt,United Kingdom,core by clare smyth,UK & Ireland,True
+72,Sühring,Bangkok,2023,organiser_archive/2023.txt,Thailand,suhring,Southeast Asia (North),False
+73,Cosme,New York,2023,organiser_archive/2023.txt,United States,cosme,East USA & East Canada,False
+74,Nusara,Bangkok,2023,organiser_archive/2023.txt,Thailand,nusara,Southeast Asia (North),False
+75,Fyn,Cape Town,2023,organiser_archive/2023.txt,South Africa,fyn,South & East Africa,False
+76,Oteque,Rio de Janeiro,2023,organiser_archive/2023.txt,Brazil,oteque,Brazil,False
+77,Tantris,Munich,2023,organiser_archive/2023.txt,Germany,tantris,Germany,True
+78,Alléno Paris au Pavillon Ledoyen,Paris,2023,organiser_archive/2023.txt,France,alleno paris au pavillon ledoyen,France,True
+79,Nuema,Quito,2023,organiser_archive/2023.txt,Ecuador,nuema,South America (North) & the Caribbean,False
+80,Flocons de Sel,Megève,2023,organiser_archive/2023.txt,France,flocons de sel,France,True
+81,Azurmendi,Larrabetzu,2023,organiser_archive/2023.txt,Spain,azurmendi,Spain & Portugal,True
+82,Enigma,Barcelona,2023,organiser_archive/2023.txt,Spain,enigma,Spain & Portugal,True
+83,Sazenka,Tokyo,2023,organiser_archive/2023.txt,Japan,sazenka,Japan,False
+84,Meta,Singapore,2023,organiser_archive/2023.txt,Singapore,meta,Southeast Asia (South),False
+85,Enrico Bartolini,Milan,2023,organiser_archive/2023.txt,Italy,enrico bartolini,Italy,True
+86,Lyle's,London,2023,organiser_archive/2023.txt,United Kingdom,lyle s,UK & Ireland,True
+87,Ossiano,Dubai,2023,organiser_archive/2023.txt,United Arab Emirates,ossiano,Middle East,False
+88,Potong,Bangkok,2023,organiser_archive/2023.txt,Thailand,potong,Southeast Asia (North),False
+89,Mingles,Seoul,2023,organiser_archive/2023.txt,South Korea,mingles,Korea,False
+90,Wing,Hong Kong,2023,organiser_archive/2023.txt,Hong Kong,wing,"Hong Kong, Macau & Taiwan",False
+91,Kadeau,Copenhagen,2023,organiser_archive/2023.txt,Denmark,kadeau,Scandinavia & Baltics,True
+92,Neighborhood,Hong Kong,2023,organiser_archive/2023.txt,Hong Kong,neighborhood,"Hong Kong, Macau & Taiwan",False
+93,Kei,Paris,2023,organiser_archive/2023.txt,France,kei,France,True
+94,La Colombe,Cape Town,2023,organiser_archive/2023.txt,South Africa,la colombe,South & East Africa,False
+95,Ceto,Roquebrune-Cap-Martin,2023,organiser_archive/2023.txt,France,ceto,France,True
+96,Ricard Camarena Restaurant,Valencia,2023,organiser_archive/2023.txt,Spain,ricard camarena,Spain & Portugal,True
+97,Labyrinth,Singapore,2023,organiser_archive/2023.txt,Singapore,labyrinth,Southeast Asia (South),False
+98,Saison,San Francisco,2023,organiser_archive/2023.txt,United States,saison,West USA & West Canada,False
+99,Fu He Hui,Shanghai,2023,organiser_archive/2023.txt,China,fu he hui,Mainland China,False
+100,Maito,Panama City,2023,organiser_archive/2023.txt,Panama,maito,Mexico & Central America,False
+1,Disfrutar,Barcelona,2024,organiser_archive/2024.txt,Spain,disfrutar,Spain & Portugal,True
+2,Asador Etxebarri,Atxondo,2024,organiser_archive/2024.txt,Spain,asador etxebarri,Spain & Portugal,True
+3,Table by Bruno Verjus,Paris,2024,organiser_archive/2024.txt,France,table by bruno verjus,France,True
+4,Diverxo,Madrid,2024,organiser_archive/2024.txt,Spain,diverxo,Spain & Portugal,True
+5,Maido,Lima,2024,organiser_archive/2024.txt,Peru,maido,South America (North) & the Caribbean,False
+6,Atomix,New York,2024,organiser_archive/2024.txt,United States,atomix,East USA & East Canada,False
+7,Quintonil,Mexico City,2024,organiser_archive/2024.txt,Mexico,quintonil,Mexico & Central America,False
+8,Alchemist,Copenhagen,2024,organiser_archive/2024.txt,Denmark,alchemist,Scandinavia & Baltics,True
+9,Gaggan,Bangkok,2024,organiser_archive/2024.txt,Thailand,gaggan anand,Southeast Asia (North),False
+10,Don Julio,Buenos Aires,2024,organiser_archive/2024.txt,Argentina,don julio,"South America (South, excl. Brazil)",False
+11,Septime,Paris,2024,organiser_archive/2024.txt,France,septime,France,True
+12,Lido 84,Gardone Riviera,2024,organiser_archive/2024.txt,Italy,lido 84,Italy,True
+13,Trèsind Studio,Dubai,2024,organiser_archive/2024.txt,United Arab Emirates,tresind studio,Middle East,False
+14,Quique Dacosta,Dénia,2024,organiser_archive/2024.txt,Spain,quique dacosta,Spain & Portugal,True
+15,Sézanne,Tokyo,2024,organiser_archive/2024.txt,Japan,sezanne,Japan,False
+16,Kjolle,Lima,2024,organiser_archive/2024.txt,Peru,kjolle,South America (North) & the Caribbean,False
+17,Kol,London,2024,organiser_archive/2024.txt,United Kingdom,kol,UK & Ireland,True
+18,Plénitude,Paris,2024,organiser_archive/2024.txt,France,plenitude,France,True
+19,Reale,Castel di Sangro,2024,organiser_archive/2024.txt,Italy,reale,Italy,True
+20,Wing,Hong Kong,2024,organiser_archive/2024.txt,Hong Kong,wing,"Hong Kong, Macau & Taiwan",False
+21,Florilège,Tokyo,2024,organiser_archive/2024.txt,Japan,florilege,Japan,False
+22,Steirereck,Vienna,2024,organiser_archive/2024.txt,Austria,steirereck,"Austria, Switzerland, Hungary & Slovenia",True
+23,Sühring,Bangkok,2024,organiser_archive/2024.txt,Thailand,suhring,Southeast Asia (North),False
+24,Odette,Singapore,2024,organiser_archive/2024.txt,Singapore,odette,Southeast Asia (South),False
+25,El Chato,Bogotá,2024,organiser_archive/2024.txt,Colombia,el chato,South America (North) & the Caribbean,False
+26,The Chairman,Hong Kong,2024,organiser_archive/2024.txt,Hong Kong,the chairman,"Hong Kong, Macau & Taiwan",False
+27,A Casa do Porco,São Paulo,2024,organiser_archive/2024.txt,Brazil,a casa do porco,Brazil,False
+28,Elkano,Getaria,2024,organiser_archive/2024.txt,Spain,elkano,Spain & Portugal,True
+29,Boragó,Santiago,2024,organiser_archive/2024.txt,Chile,borago,"South America (South, excl. Brazil)",False
+30,Restaurant Tim Raue,Berlin,2024,organiser_archive/2024.txt,Germany,tim raue,Germany,True
+31,Belcanto,Lisbon,2024,organiser_archive/2024.txt,Portugal,belcanto,Spain & Portugal,True
+32,Den,Tokyo,2024,organiser_archive/2024.txt,Japan,den,Japan,False
+33,Pujol,Mexico City,2024,organiser_archive/2024.txt,Mexico,pujol,Mexico & Central America,False
+34,Rosetta,Mexico City,2024,organiser_archive/2024.txt,Mexico,rosetta,Mexico & Central America,False
+35,Frantzén,Stockholm,2024,organiser_archive/2024.txt,Sweden,frantzen,Scandinavia & Baltics,True
+36,The Jane,Antwerp,2024,organiser_archive/2024.txt,Belgium,the jane,Benelux,True
+37,Oteque,Rio de Janeiro,2024,organiser_archive/2024.txt,Brazil,oteque,Brazil,False
+38,Sorn,Bangkok,2024,organiser_archive/2024.txt,Thailand,sorn,Southeast Asia (North),False
+39,Piazza Duomo,Alba,2024,organiser_archive/2024.txt,Italy,piazza duomo,Italy,True
+40,Le Du,Bangkok,2024,organiser_archive/2024.txt,Thailand,le du,Southeast Asia (North),False
+41,Mayta,Lima,2024,organiser_archive/2024.txt,Peru,mayta,South America (North) & the Caribbean,False
+42,Ikoyi,London,2024,organiser_archive/2024.txt,United Kingdom,ikoyi,UK & Ireland,True
+43,Nobelhart & Schmutzig,Berlin,2024,organiser_archive/2024.txt,Germany,nobelhart and schmutzig,Germany,True
+44,Mingles,Seoul,2024,organiser_archive/2024.txt,South Korea,mingles,Korea,False
+45,Arpège,Paris,2024,organiser_archive/2024.txt,France,arpege,France,True
+46,SingleThread,Healdsburg,2024,organiser_archive/2024.txt,United States,singlethread,West USA & West Canada,False
+47,Schloss Schauenstein,Fürstenau,2024,organiser_archive/2024.txt,Switzerland,schloss schauenstein,"Austria, Switzerland, Hungary & Slovenia",True
+48,Hiša Franko,Kobarid,2024,organiser_archive/2024.txt,Slovenia,hisa franko,"Austria, Switzerland, Hungary & Slovenia",True
+49,La Colombe,Cape Town,2024,organiser_archive/2024.txt,South Africa,la colombe,South & East Africa,False
+50,Uliassi,Senigallia,2024,organiser_archive/2024.txt,Italy,uliassi,Italy,True
+51,Le Calandre,Rubano,2024,organiser_archive/2024.txt,Italy,le calandre,Italy,True
+52,Atelier Moessmer Norbert Niederkofler,Brunico,2024,organiser_archive/2024.txt,Italy,atelier moessmer norbert niederkofler,Italy,True
+53,Leo,Bogotá,2024,organiser_archive/2024.txt,Colombia,leo,South America (North) & the Caribbean,False
+54,Kadeau,Copenhagen,2024,organiser_archive/2024.txt,Denmark,kadeau,Scandinavia & Baltics,True
+55,Mérito,Lima,2024,organiser_archive/2024.txt,Peru,merito,South America (North) & the Caribbean,False
+56,Narisawa,Tokyo,2024,organiser_archive/2024.txt,Japan,narisawa,Japan,False
+57,Potong,Bangkok,2024,organiser_archive/2024.txt,Thailand,potong,Southeast Asia (North),False
+58,Lasai,Rio de Janeiro,2024,organiser_archive/2024.txt,Brazil,lasai,Brazil,False
+59,Enigma,Barcelona,2024,organiser_archive/2024.txt,Spain,enigma,Spain & Portugal,True
+60,Fyn,Cape Town,2024,organiser_archive/2024.txt,South Africa,fyn,South & East Africa,False
+61,Nuema,Quito,2024,organiser_archive/2024.txt,Ecuador,nuema,South America (North) & the Caribbean,False
+62,Coda,Berlin,2024,organiser_archive/2024.txt,Germany,coda,Germany,True
+63,Bozar,Brussels,2024,organiser_archive/2024.txt,Belgium,bozar,Benelux,True
+64,Orfali Bros Bistro,Dubai,2024,organiser_archive/2024.txt,United Arab Emirates,orfali bros,Middle East,False
+65,Brat,London,2024,organiser_archive/2024.txt,United Kingdom,brat,UK & Ireland,True
+66,La Cime,Osaka,2024,organiser_archive/2024.txt,Japan,la cime,Japan,False
+67,Alcalde,Guadalajara,2024,organiser_archive/2024.txt,Mexico,alcalde,Mexico & Central America,False
+68,Burnt Ends,Singapore,2024,organiser_archive/2024.txt,Singapore,burnt ends,Southeast Asia (South),False
+69,Fu He Hui,Shanghai,2024,organiser_archive/2024.txt,China,fu he hui,Mainland China,False
+70,Le Doyenné,Saint-Vrain,2024,organiser_archive/2024.txt,France,le doyenne,France,True
+71,Le Bernardin,New York,2024,organiser_archive/2024.txt,United States,le bernardin,East USA & East Canada,False
+72,Aponiente,El Puerto de Santa María,2024,organiser_archive/2024.txt,Spain,aponiente,Spain & Portugal,True
+73,Mil,Cusco,2024,organiser_archive/2024.txt,Peru,mil,South America (North) & the Caribbean,False
+74,Nusara,Bangkok,2024,organiser_archive/2024.txt,Thailand,nusara,Southeast Asia (North),False
+75,Ernst,Berlin,2024,organiser_archive/2024.txt,Germany,ernst,Germany,True
+76,Flocons de Sel,Megève,2024,organiser_archive/2024.txt,France,flocons de sel,France,True
+77,La Grenouillère,La Madeleine-sous-Montreuil,2024,organiser_archive/2024.txt,France,la grenouillere,France,True
+78,Masque,Mumbai,2024,organiser_archive/2024.txt,India,masque,India & Subcontinent,False
+79,Alléno Paris Au Pavillon Ledoyen,Paris,2024,organiser_archive/2024.txt,France,alleno paris au pavillon ledoyen,France,True
+80,The Clove Club,London,2024,organiser_archive/2024.txt,United Kingdom,the clove club,UK & Ireland,True
+81,Mugaritz,San Sebastian,2024,organiser_archive/2024.txt,Spain,mugaritz,Spain & Portugal,True
+82,Sud 777,Mexico City,2024,organiser_archive/2024.txt,Mexico,sud 777,Mexico & Central America,False
+83,Willem Hiele,Oudenburg,2024,organiser_archive/2024.txt,Belgium,willem hiele,Benelux,True
+84,Restaurant Jan,Munich,2024,organiser_archive/2024.txt,Germany,jan,Germany,True
+85,Ceto,Roquebrune-Cap-Martin,2024,organiser_archive/2024.txt,France,ceto,France,True
+86,Mosu,Seoul,2024,organiser_archive/2024.txt,South Korea,mosu,Korea,False
+87,Lyle's,London,2024,organiser_archive/2024.txt,United Kingdom,lyle s,UK & Ireland,True
+88,Tantris,Munich,2024,organiser_archive/2024.txt,Germany,tantris,Germany,True
+89,Indian Accent,New Delhi,2024,organiser_archive/2024.txt,India,indian accent,India & Subcontinent,False
+90,Smyth,Chicago,2024,organiser_archive/2024.txt,United States,smyth,Mid USA & Mid Canada,False
+91,Neolokal,Istanbul,2024,organiser_archive/2024.txt,Türkiye,neolokal,"Türkiye, Greece & the Balkans",True
+92,Labyrinth,Singapore,2024,organiser_archive/2024.txt,Singapore,labyrinth,Southeast Asia (South),False
+93,Sazenka,Tokyo,2024,organiser_archive/2024.txt,Japan,sazenka,Japan,False
+94,Mountain,London,2024,organiser_archive/2024.txt,United Kingdom,mountain,UK & Ireland,True
+95,Meta,Singapore,2024,organiser_archive/2024.txt,Singapore,meta,Southeast Asia (South),False
+96,Onjium,Seoul,2024,organiser_archive/2024.txt,South Korea,onjium,Korea,False
+97,Core by Clare Smyth,London,2024,organiser_archive/2024.txt,United Kingdom,core by clare smyth,UK & Ireland,True
+98,Saint Peter,Sydney,2024,organiser_archive/2024.txt,Australia,saint peter,Oceania,False
+99,Cosme,New York,2024,organiser_archive/2024.txt,United States,cosme,East USA & East Canada,False
+100,Fauna,Valle De Guadalupe,2024,organiser_archive/2024.txt,Mexico,fauna,Mexico & Central America,False
+1,Maido,Lima,2025,organiser_archive/2025.txt,Peru,maido,South America (North) & the Caribbean,False
+2,Asador Etxebarri,Atxondo,2025,organiser_archive/2025.txt,Spain,asador etxebarri,Spain & Portugal,True
+3,Quintonil,Mexico City,2025,organiser_archive/2025.txt,Mexico,quintonil,Mexico & Central America,False
+4,Diverxo,Madrid,2025,organiser_archive/2025.txt,Spain,diverxo,Spain & Portugal,True
+5,Alchemist,Copenhagen,2025,organiser_archive/2025.txt,Denmark,alchemist,Scandinavia & Baltics,True
+6,Gaggan,Bangkok,2025,organiser_archive/2025.txt,Thailand,gaggan anand,Southeast Asia (North),False
+7,Sézanne,Tokyo,2025,organiser_archive/2025.txt,Japan,sezanne,Japan,False
+8,Table by Bruno Verjus,Paris,2025,organiser_archive/2025.txt,France,table by bruno verjus,France,True
+9,Kjolle,Lima,2025,organiser_archive/2025.txt,Peru,kjolle,South America (North) & the Caribbean,False
+10,Don Julio,Buenos Aires,2025,organiser_archive/2025.txt,Argentina,don julio,"South America (South, excl. Brazil)",False
+11,Wing,Hong Kong,2025,organiser_archive/2025.txt,Hong Kong,wing,"Hong Kong, Macau & Taiwan",False
+12,Atomix,New York,2025,organiser_archive/2025.txt,United States,atomix,East USA & East Canada,False
+13,Potong,Bangkok,2025,organiser_archive/2025.txt,Thailand,potong,Southeast Asia (North),False
+14,Plénitude,Paris,2025,organiser_archive/2025.txt,France,plenitude,France,True
+15,Ikoyi,London,2025,organiser_archive/2025.txt,United Kingdom,ikoyi,UK & Ireland,True
+16,Lido 84,Gardone Riviera,2025,organiser_archive/2025.txt,Italy,lido 84,Italy,True
+17,Sorn,Bangkok,2025,organiser_archive/2025.txt,Thailand,sorn,Southeast Asia (North),False
+18,Reale,Castel di Sangro,2025,organiser_archive/2025.txt,Italy,reale,Italy,True
+19,The Chairman,Hong Kong,2025,organiser_archive/2025.txt,Hong Kong,the chairman,"Hong Kong, Macau & Taiwan",False
+20,Atelier Moessmer Norbert Niederkofler,Brunico,2025,organiser_archive/2025.txt,Italy,atelier moessmer norbert niederkofler,Italy,True
+21,Narisawa,Tokyo,2025,organiser_archive/2025.txt,Japan,narisawa,Japan,False
+22,Sühring,Bangkok,2025,organiser_archive/2025.txt,Thailand,suhring,Southeast Asia (North),False
+23,Boragó,Santiago,2025,organiser_archive/2025.txt,Chile,borago,"South America (South, excl. Brazil)",False
+24,Elkano,Getaria,2025,organiser_archive/2025.txt,Spain,elkano,Spain & Portugal,True
+25,Odette,Singapore,2025,organiser_archive/2025.txt,Singapore,odette,Southeast Asia (South),False
+26,Mérito,Lima,2025,organiser_archive/2025.txt,Peru,merito,South America (North) & the Caribbean,False
+27,Trèsind Studio,Dubai,2025,organiser_archive/2025.txt,United Arab Emirates,tresind studio,Middle East,False
+28,Lasai,Rio de Janeiro,2025,"organiser_archive/2025.txt, corrected",Brazil,lasai,Brazil,False
+29,Mingles,Seoul,2025,organiser_archive/2025.txt,South Korea,mingles,Korea,False
+30,Le Du,Bangkok,2025,organiser_archive/2025.txt,Thailand,le du,Southeast Asia (North),False
+31,Le Calandre,Rubano,2025,organiser_archive/2025.txt,Italy,le calandre,Italy,True
+32,Piazza Duomo,Alba,2025,organiser_archive/2025.txt,Italy,piazza duomo,Italy,True
+33,Steirereck,Vienna,2025,organiser_archive/2025.txt,Austria,steirereck,"Austria, Switzerland, Hungary & Slovenia",True
+34,Enigma,Barcelona,2025,organiser_archive/2025.txt,Spain,enigma,Spain & Portugal,True
+35,Nusara,Bangkok,2025,organiser_archive/2025.txt,Thailand,nusara,Southeast Asia (North),False
+36,Florilège,Tokyo,2025,organiser_archive/2025.txt,Japan,florilege,Japan,False
+37,Orfali Bros,Dubai,2025,organiser_archive/2025.txt,United Arab Emirates,orfali bros,Middle East,False
+38,Frantzén,Stockholm,2025,organiser_archive/2025.txt,Sweden,frantzen,Scandinavia & Baltics,True
+39,Mayta,Lima,2025,organiser_archive/2025.txt,Peru,mayta,South America (North) & the Caribbean,False
+40,Septime,Paris,2025,organiser_archive/2025.txt,France,septime,France,True
+41,Kadeau,Copenhagen,2025,organiser_archive/2025.txt,Denmark,kadeau,Scandinavia & Baltics,True
+42,Belcanto,Lisbon,2025,organiser_archive/2025.txt,Portugal,belcanto,Spain & Portugal,True
+43,Uliassi,Senigallia,2025,organiser_archive/2025.txt,Italy,uliassi,Italy,True
+44,La Cime,Osaka,2025,organiser_archive/2025.txt,Japan,la cime,Japan,False
+45,Arpège,Paris,2025,organiser_archive/2025.txt,France,arpege,France,True
+46,Rosetta,Mexico City,2025,organiser_archive/2025.txt,Mexico,rosetta,Mexico & Central America,False
+47,Vyn,Skillinge,2025,organiser_archive/2025.txt,Sweden,vyn,Scandinavia & Baltics,True
+48,Celele,Cartagena,2025,organiser_archive/2025.txt,Colombia,celele,South America (North) & the Caribbean,False
+49,Kol,London,2025,organiser_archive/2025.txt,United Kingdom,kol,UK & Ireland,True
+50,Restaurant Jan,Munich,2025,organiser_archive/2025.txt,Germany,jan,Germany,True
+51,Alcalde,Guadalajara,2025,organiser_archive/2025.txt,Mexico,alcalde,Mexico & Central America,False
+52,Schloss Schauenstein,Fürstenau,2025,organiser_archive/2025.txt,Switzerland,schloss schauenstein,"Austria, Switzerland, Hungary & Slovenia",True
+53,Den,Tokyo,2025,organiser_archive/2025.txt,Japan,den,Japan,False
+54,El Chato,Bogotá,2025,organiser_archive/2025.txt,Colombia,el chato,South America (North) & the Caribbean,False
+55,La Colombe,Cape Town,2025,organiser_archive/2025.txt,South Africa,la colombe,South & East Africa,False
+56,Jordnær,Copenhagen,2025,organiser_archive/2025.txt,Denmark,jordnaer,Scandinavia & Baltics,True
+57,Onjium,Seoul,2025,organiser_archive/2025.txt,South Korea,onjium,Korea,False
+58,Restaurant Tim Raue,Berlin,2025,organiser_archive/2025.txt,Germany,tim raue,Germany,True
+59,Nobelhart & Schmutzig,Berlin,2025,organiser_archive/2025.txt,Germany,nobelhart and schmutzig,Germany,True
+60,Pujol,Mexico City,2025,organiser_archive/2025.txt,Mexico,pujol,Mexico & Central America,False
+61,Nuema,Quito,2025,organiser_archive/2025.txt,Ecuador,nuema,South America (North) & the Caribbean,False
+62,Willem Hiele,Oudenburg,2025,organiser_archive/2025.txt,Belgium,willem hiele,Benelux,True
+63,Bozar,Brussels,2025,organiser_archive/2025.txt,Belgium,bozar,Benelux,True
+64,Fu He Hui,Shanghai,2025,organiser_archive/2025.txt,China,fu he hui,Mainland China,False
+65,Quique Dacosta,Dénia,2025,organiser_archive/2025.txt,Spain,quique dacosta,Spain & Portugal,True
+66,Saint Peter,Sydney,2025,organiser_archive/2025.txt,Australia,saint peter,Oceania,False
+67,Arca,Tulum,2025,organiser_archive/2025.txt,Mexico,arca,Mexico & Central America,False
+68,Masque,Mumbai,2025,organiser_archive/2025.txt,India,masque,India & Subcontinent,False
+69,Hiša Franko,Kobarid,2025,organiser_archive/2025.txt,Slovenia,hisa franko,"Austria, Switzerland, Hungary & Slovenia",True
+70,Tuju,São Paulo,2025,organiser_archive/2025.txt,Brazil,tuju,Brazil,False
+71,Sazenka,Tokyo,2025,organiser_archive/2025.txt,Japan,sazenka,Japan,False
+72,Chef Tam's Seasons,Macau,2025,organiser_archive/2025.txt,Macau,chef tam s seasons,"Hong Kong, Macau & Taiwan",False
+73,Tantris,Munich,2025,organiser_archive/2025.txt,Germany,tantris,Germany,True
+74,Mountain,London,2025,organiser_archive/2025.txt,United Kingdom,mountain,UK & Ireland,True
+75,Mil,Cusco,2025,organiser_archive/2025.txt,Peru,mil,South America (North) & the Caribbean,False
+76,Leo,Bogotá,2025,organiser_archive/2025.txt,Colombia,leo,South America (North) & the Caribbean,False
+77,Le Doyenné,Saint-Vrain,2025,organiser_archive/2025.txt,France,le doyenne,France,True
+78,Cocina Hermanos Torres,Barcelona,2025,organiser_archive/2025.txt,Spain,cocina hermanos torres,Spain & Portugal,True
+79,Coda,Berlin,2025,organiser_archive/2025.txt,Germany,coda,Germany,True
+80,SingleThread,Healdsburg,2025,organiser_archive/2025.txt,United States,singlethread,West USA & West Canada,False
+81,Oteque,Rio de Janeiro,2025,organiser_archive/2025.txt,Brazil,oteque,Brazil,False
+82,Fyn,Cape Town,2025,organiser_archive/2025.txt,South Africa,fyn,South & East Africa,False
+83,A Casa do Porco,São Paulo,2025,organiser_archive/2025.txt,Brazil,a casa do porco,Brazil,False
+84,Aponiente,El Puerto de Santa María,2025,organiser_archive/2025.txt,Spain,aponiente,Spain & Portugal,True
+85,Txispa,Atxondo,2025,organiser_archive/2025.txt,Spain,txispa,Spain & Portugal,True
+86,The Clove Club,London,2025,organiser_archive/2025.txt,United Kingdom,the clove club,UK & Ireland,True
+87,Mugaritz,San Sebastián,2025,organiser_archive/2025.txt,Spain,mugaritz,Spain & Portugal,True
+88,Salsify at the Roundhouse,Cape Town,2025,organiser_archive/2025.txt,South Africa,salsify at the roundhouse,South & East Africa,False
+89,Huniik,Mérida,2025,organiser_archive/2025.txt,Mexico,huniik,Mexico & Central America,False
+90,Le Bernardin,New York,2025,organiser_archive/2025.txt,United States,le bernardin,East USA & East Canada,False
+91,Koan,Copenhagen,2025,organiser_archive/2025.txt,Denmark,koan,Scandinavia & Baltics,True
+92,Al Gatto Verde,Modena,2025,organiser_archive/2025.txt,Italy,al gatto verde,Italy,True
+93,Burnt Ends,Singapore,2025,organiser_archive/2025.txt,Singapore,burnt ends,Southeast Asia (South),False
+94,Meet the Bund,Shanghai,2025,organiser_archive/2025.txt,China,meet the bund,Mainland China,False
+95,Evvai,São Paulo,2025,organiser_archive/2025.txt,Brazil,evvai,Brazil,False
+96,Atelier Crenn,San Francisco,2025,organiser_archive/2025.txt,United States,atelier crenn,West USA & West Canada,False
+97,Labyrinth,Singapore,2025,organiser_archive/2025.txt,Singapore,labyrinth,Southeast Asia (South),False
+98,César,New York,2025,organiser_archive/2025.txt,United States,cesar,East USA & East Canada,False
+99,Amisfield Restaurant,Queenstown,2025,organiser_archive/2025.txt,New Zealand,amisfield,Oceania,False
+100,Neolokal,Istanbul,2025,organiser_archive/2025.txt,Türkiye,neolokal,"Türkiye, Greece & the Balkans",True
+1,Asador Etxebarri,Atxondo,2026,list_2026_1_100.csv,Spain,asador etxebarri,Spain & Portugal,True
+2,Gaggan,Bangkok,2026,list_2026_1_100.csv,Thailand,gaggan anand,Southeast Asia (North),False
+3,Alchemist,Copenhagen,2026,list_2026_1_100.csv,Denmark,alchemist,Scandinavia & Baltics,True
+4,Quintonil,Mexico City,2026,list_2026_1_100.csv,Mexico,quintonil,Mexico & Central America,False
+5,Wing,Hong Kong,2026,list_2026_1_100.csv,Hong Kong,wing,"Hong Kong, Macau & Taiwan",False
+6,The Chairman,Hong Kong,2026,list_2026_1_100.csv,Hong Kong,the chairman,"Hong Kong, Macau & Taiwan",False
+7,Kjolle,Lima,2026,list_2026_1_100.csv,Peru,kjolle,South America (North) & the Caribbean,False
+8,Kadeau,Copenhagen,2026,list_2026_1_100.csv,Denmark,kadeau,Scandinavia & Baltics,True
+9,Diverxo,Madrid,2026,list_2026_1_100.csv,Spain,diverxo,Spain & Portugal,True
+10,Plénitude,Paris,2026,list_2026_1_100.csv,France,plenitude,France,True
+11,Atomix,New York,2026,list_2026_1_100.csv,United States,atomix,East USA & East Canada,False
+12,Sorn,Bangkok,2026,list_2026_1_100.csv,Thailand,sorn,Southeast Asia (North),False
+13,Mérito,Lima,2026,list_2026_1_100.csv,Peru,merito,South America (North) & the Caribbean,False
+14,Sühring,Bangkok,2026,list_2026_1_100.csv,Thailand,suhring,Southeast Asia (North),False
+15,Odette,Singapore,2026,list_2026_1_100.csv,Singapore,odette,Southeast Asia (South),False
+16,Tuju,São Paulo,2026,list_2026_1_100.csv,Brazil,tuju,Brazil,False
+17,Mingles,Seoul,2026,list_2026_1_100.csv,South Korea,mingles,Korea,False
+18,Nusara,Bangkok,2026,list_2026_1_100.csv,Thailand,nusara,Southeast Asia (North),False
+19,Jan,Munich,2026,list_2026_1_100.csv,Germany,jan,Germany,True
+20,Piazza Duomo,Alba,2026,list_2026_1_100.csv,Italy,piazza duomo,Italy,True
+21,Meet the Bund,Shanghai,2026,list_2026_1_100.csv,China,meet the bund,Mainland China,False
+22,Boragó,Santiago,2026,list_2026_1_100.csv,Chile,borago,"South America (South, excl. Brazil)",False
+23,Vyn,Skillinge,2026,list_2026_1_100.csv,Sweden,vyn,Scandinavia & Baltics,True
+24,Al Gatto Verde,Modena,2026,list_2026_1_100.csv,Italy,al gatto verde,Italy,True
+25,Lasai,Rio de Janeiro,2026,list_2026_1_100.csv,Brazil,lasai,Brazil,False
+26,Masque,Mumbai,2026,list_2026_1_100.csv,India,masque,India & Subcontinent,False
+27,Reale,Castel di Sangro,2026,list_2026_1_100.csv,Italy,reale,Italy,True
+28,Trèsind Studio,Dubai,2026,list_2026_1_100.csv,United Arab Emirates,tresind studio,Middle East,False
+29,Enigma,Barcelona,2026,list_2026_1_100.csv,Spain,enigma,Spain & Portugal,True
+30,Steirereck,Vienna,2026,list_2026_1_100.csv,Austria,steirereck,"Austria, Switzerland, Hungary & Slovenia",True
+31,Celele,Cartagena,2026,list_2026_1_100.csv,Colombia,celele,South America (North) & the Caribbean,False
+32,Potong,Bangkok,2026,list_2026_1_100.csv,Thailand,potong,Southeast Asia (North),False
+33,Elkano,Getaria,2026,list_2026_1_100.csv,Spain,elkano,Spain & Portugal,True
+34,Le Coquillage,Saint-Méloir-des-Ondes,2026,list_2026_1_100.csv,France,le coquillage,France,True
+35,La Colombe,Cape Town,2026,list_2026_1_100.csv,South Africa,la colombe,South & East Africa,False
+36,Ru Yuan,Hangzhou,2026,list_2026_1_100.csv,China,ru yuan,Mainland China,False
+37,Nuema,Quito,2026,list_2026_1_100.csv,Ecuador,nuema,South America (North) & the Caribbean,False
+38,Atelier Moessmer Norbert Niederkofler,Brunico,2026,list_2026_1_100.csv,Italy,atelier moessmer norbert niederkofler,Italy,True
+39,Schloss Schauenstein,Fürstenau,2026,list_2026_1_100.csv,Switzerland,schloss schauenstein,"Austria, Switzerland, Hungary & Slovenia",True
+40,Jordnær,Copenhagen,2026,list_2026_1_100.csv,Denmark,jordnaer,Scandinavia & Baltics,True
+41,Onjium,Seoul,2026,list_2026_1_100.csv,South Korea,onjium,Korea,False
+42,Bozar,Brussels,2026,list_2026_1_100.csv,Belgium,bozar,Benelux,True
+43,Le Calandre,Rubano,2026,list_2026_1_100.csv,Italy,le calandre,Italy,True
+44,Don Julio,Buenos Aires,2026,list_2026_1_100.csv,Argentina,don julio,"South America (South, excl. Brazil)",False
+45,Mayta,Lima,2026,list_2026_1_100.csv,Peru,mayta,South America (North) & the Caribbean,False
+46,El Chato,Bogotá,2026,list_2026_1_100.csv,Colombia,el chato,South America (North) & the Caribbean,False
+47,Le Louis XV - Alain Ducasse,Monte Carlo,2026,list_2026_1_100.csv,Monaco,le louis xv,France,True
+48,Ikoyi,London,2026,list_2026_1_100.csv,United Kingdom,ikoyi,UK & Ireland,True
+49,Naar,Kasauli,2026,list_2026_1_100.csv,India,naar,India & Subcontinent,False
+50,Saint Peter,Sydney,2026,list_2026_1_100.csv,Australia,saint peter,Oceania,False
+51,Uliassi,Senigallia,2026,list_2026_1_100.csv,Italy,uliassi,Italy,True
+52,La Cime,Osaka,2026,list_2026_1_100.csv,Japan,la cime,Japan,False
+53,Ling Long,Shanghai,2026,list_2026_1_100.csv,China,ling long,Mainland China,False
+54,Nelita,São Paulo,2026,list_2026_1_100.csv,Brazil,nelita,Brazil,False
+55,Alcalde,Guadalajara,2026,list_2026_1_100.csv,Mexico,alcalde,Mexico & Central America,False
+56,Sazenka,Tokyo,2026,list_2026_1_100.csv,Japan,sazenka,Japan,False
+57,Koan,Copenhagen,2026,list_2026_1_100.csv,Denmark,koan,Scandinavia & Baltics,True
+58,Frantzén,Stockholm,2026,list_2026_1_100.csv,Sweden,frantzen,Scandinavia & Baltics,True
+59,Narisawa,Tokyo,2026,list_2026_1_100.csv,Japan,narisawa,Japan,False
+60,Hiša Franko,Kobarid,2026,list_2026_1_100.csv,Slovenia,hisa franko,"Austria, Switzerland, Hungary & Slovenia",True
+61,Florilège,Tokyo,2026,list_2026_1_100.csv,Japan,florilege,Japan,False
+62,Fu He Hui,Shanghai,2026,list_2026_1_100.csv,China,fu he hui,Mainland China,False
+63,The Jane,Antwerp,2026,list_2026_1_100.csv,Belgium,the jane,Benelux,True
+64,Seroja,Singapore,2026,list_2026_1_100.csv,Singapore,seroja,Southeast Asia (South),False
+65,Fyn,Cape Town,2026,list_2026_1_100.csv,South Africa,fyn,South & East Africa,False
+66,Willem Hiele,Oudenburg,2026,list_2026_1_100.csv,Belgium,willem hiele,Benelux,True
+67,Arpège,Paris,2026,list_2026_1_100.csv,France,arpege,France,True
+68,Evvai,São Paulo,2026,list_2026_1_100.csv,Brazil,evvai,Brazil,False
+69,Cocina Hermanos Torres,Barcelona,2026,list_2026_1_100.csv,Spain,cocina hermanos torres,Spain & Portugal,True
+70,Kol,London,2026,list_2026_1_100.csv,United Kingdom,kol,UK & Ireland,True
+71,Salsify at the Roundhouse,Cape Town,2026,list_2026_1_100.csv,South Africa,salsify at the roundhouse,South & East Africa,False
+72,Eatanic Garden,Seoul,2026,list_2026_1_100.csv,South Korea,eatanic garden,Korea,False
+73,Chef Tam's Seasons,Macau,2026,list_2026_1_100.csv,Macau,chef tam s seasons,"Hong Kong, Macau & Taiwan",False
+74,Le Du,Bangkok,2026,list_2026_1_100.csv,Thailand,le du,Southeast Asia (North),False
+75,Belcanto,Lisbon,2026,list_2026_1_100.csv,Portugal,belcanto,Spain & Portugal,True
+76,Nobelhart & Schmutzig,Berlin,2026,list_2026_1_100.csv,Germany,nobelhart and schmutzig,Germany,True
+77,Caprice,Hong Kong,2026,list_2026_1_100.csv,Hong Kong,caprice,"Hong Kong, Macau & Taiwan",False
+78,Mosu,Seoul,2026,list_2026_1_100.csv,South Korea,mosu,Korea,False
+79,Huniik,Mérida,2026,list_2026_1_100.csv,Mexico,huniik,Mexico & Central America,False
+80,Txispa,Atxondo,2026,list_2026_1_100.csv,Spain,txispa,Spain & Portugal,True
+81,Septime,Paris,2026,list_2026_1_100.csv,France,septime,France,True
+82,Coda,Berlin,2026,list_2026_1_100.csv,Germany,coda,Germany,True
+83,The Ledbury,London,2026,list_2026_1_100.csv,United Kingdom,the ledbury,UK & Ireland,True
+84,Le Doyenné,Saint-Vrain,2026,list_2026_1_100.csv,France,le doyenne,France,True
+85,Tim Raue,Berlin,2026,list_2026_1_100.csv,Germany,tim raue,Germany,True
+86,Eliane,Brussels,2026,list_2026_1_100.csv,Belgium,eliane,Benelux,True
+87,Arca,Tulum,2026,list_2026_1_100.csv,Mexico,arca,Mexico & Central America,False
+88,FZN,Dubai,2026,list_2026_1_100.csv,United Arab Emirates,fzn,Middle East,False
+89,Burnt Ends,Singapore,2026,list_2026_1_100.csv,Singapore,burnt ends,Southeast Asia (South),False
+90,Baan Tepa,Bangkok,2026,list_2026_1_100.csv,Thailand,baan tepa,Southeast Asia (North),False
+91,Den,Tokyo,2026,list_2026_1_100.csv,Japan,den,Japan,False
+92,Lamdre,Beijing,2026,list_2026_1_100.csv,China,lamdre,Mainland China,False
+93,SingleThread,Healdsburg,2026,list_2026_1_100.csv,United States,singlethread,West USA & West Canada,False
+94,Neolokal,Istanbul,2026,list_2026_1_100.csv,Türkiye,neolokal,"Türkiye, Greece & the Balkans",True
+95,Mil,Cusco,2026,list_2026_1_100.csv,Peru,mil,South America (North) & the Caribbean,False
+96,Rosetta,Mexico City,2026,list_2026_1_100.csv,Mexico,rosetta,Mexico & Central America,False
+97,Khufu's,Giza,2026,list_2026_1_100.csv,Egypt,khufu s,North & West Africa,False
+98,Labyrinth,Singapore,2026,list_2026_1_100.csv,Singapore,labyrinth,Southeast Asia (South),False
+99,Fauna,Valle de Guadalupe,2026,list_2026_1_100.csv,Mexico,fauna,Mexico & Central America,False
+100,Aponiente,El Puerto de Santa María,2026,list_2026_1_100.csv,Spain,aponiente,Spain & Portugal,True
